@@ -1,7 +1,7 @@
 {
   "schema": "public-market-latest/1",
   "metadata": {
-    "collected_at_jst": "2026-10-31T08:08:47.961932+09:00",
+    "collected_at_jst": "2026-10-31T08:10:57.250366+09:00",
     "status": "complete_parse",
     "source_timestamp_verified": false,
     "coverage": {
@@ -16,6 +16,18 @@
       "US11": {
         "expected": 11,
         "ohlc": 11
+      },
+      "daily_returns": {
+        "JP": {
+          "expected": 33,
+          "valid": 33
+        },
+        "US": {
+          "expected": 11,
+          "valid": 11,
+          "quote_time_present": 0,
+          "trade_date_verified": 0
+        }
       }
     }
   },
