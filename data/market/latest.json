@@ -1,7 +1,7 @@
 {
   "schema": "public-market-latest/1",
   "metadata": {
-    "collected_at_jst": "2026-10-31T08:12:15.999262+09:00",
+    "collected_at_jst": "2026-10-31T15:17:46.813993+09:00",
     "status": "complete_parse",
     "source_timestamp_verified": false,
     "coverage": {
@@ -42,13 +42,17 @@
         "high": 694.77,
         "low": 685.67,
         "close": 694.37,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 684.57,
         "daily_change_abs": 9.8,
         "daily_return_pct": 1.43,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP02",
@@ -59,13 +63,17 @@
         "high": 1179.43,
         "low": 1158.71,
         "close": 1172.11,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 1172.28,
         "daily_change_abs": -0.17,
         "daily_return_pct": -0.01,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP03",
@@ -76,13 +84,17 @@
         "high": 2502.21,
         "low": 2441.7,
         "close": 2449.38,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 2492.42,
         "daily_change_abs": -43.04,
         "daily_return_pct": -1.73,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP04",
@@ -93,13 +105,17 @@
         "high": 2960.03,
         "low": 2923.66,
         "close": 2960.03,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 2942.69,
         "daily_change_abs": 17.34,
         "daily_return_pct": 0.59,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP05",
@@ -110,13 +126,17 @@
         "high": 961.35,
         "low": 944.09,
         "close": 948.92,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 951.25,
         "daily_change_abs": -2.33,
         "daily_return_pct": -0.24,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP06",
@@ -127,13 +147,17 @@
         "high": 666.79,
         "low": 661.65,
         "close": 664.95,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 659.08,
         "daily_change_abs": 5.87,
         "daily_return_pct": 0.89,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP07",
@@ -144,13 +168,17 @@
         "high": 3107.2,
         "low": 3054.23,
         "close": 3074.45,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 3093.78,
         "daily_change_abs": -19.33,
         "daily_return_pct": -0.62,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP08",
@@ -161,13 +189,17 @@
         "high": 4270.94,
         "low": 4173.15,
         "close": 4246.32,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 4171.67,
         "daily_change_abs": 74.65,
         "daily_return_pct": 1.79,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP09",
@@ -178,13 +210,17 @@
         "high": 3119.33,
         "low": 3055.72,
         "close": 3073.37,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 3102.71,
         "daily_change_abs": -29.34,
         "daily_return_pct": -0.95,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP10",
@@ -195,13 +231,17 @@
         "high": 6101.37,
         "low": 6044.05,
         "close": 6078.66,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 6045.56,
         "daily_change_abs": 33.1,
         "daily_return_pct": 0.55,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP11",
@@ -212,13 +252,17 @@
         "high": 2125.41,
         "low": 2064.21,
         "close": 2074.49,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 2146.51,
         "daily_change_abs": -72.02,
         "daily_return_pct": -3.36,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP12",
@@ -229,13 +273,17 @@
         "high": 804.13,
         "low": 791.57,
         "close": 795.94,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 799.64,
         "daily_change_abs": -3.7,
         "daily_return_pct": -0.46,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP13",
@@ -246,13 +294,17 @@
         "high": 4717.94,
         "low": 4482.32,
         "close": 4533.9,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 4814.02,
         "daily_change_abs": -280.12,
         "daily_return_pct": -5.82,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP14",
@@ -263,13 +315,17 @@
         "high": 1819.89,
         "low": 1772.28,
         "close": 1804.22,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 1812.1,
         "daily_change_abs": -7.88,
         "daily_return_pct": -0.43,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP15",
@@ -280,13 +336,17 @@
         "high": 4403.48,
         "low": 4281.17,
         "close": 4303.78,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 4409.06,
         "daily_change_abs": -105.28,
         "daily_return_pct": -2.39,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP16",
@@ -297,13 +357,17 @@
         "high": 8068.28,
         "low": 7679.96,
         "close": 7796.14,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 8102.27,
         "daily_change_abs": -306.13,
         "daily_return_pct": -3.78,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP17",
@@ -314,13 +378,17 @@
         "high": 4912.11,
         "low": 4829.68,
         "close": 4858.73,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 4853.1,
         "daily_change_abs": 5.63,
         "daily_return_pct": 0.12,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP18",
@@ -331,13 +399,17 @@
         "high": 14551.01,
         "low": 14043.82,
         "close": 14294.47,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 14404.25,
         "daily_change_abs": -109.78,
         "daily_return_pct": -0.76,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP19",
@@ -348,13 +420,17 @@
         "high": 6629.19,
         "low": 6476.34,
         "close": 6516.93,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 6396.87,
         "daily_change_abs": 120.06,
         "daily_return_pct": 1.88,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP20",
@@ -365,13 +441,17 @@
         "high": 716.52,
         "low": 704.58,
         "close": 705.39,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 723.77,
         "daily_change_abs": -18.38,
         "daily_return_pct": -2.54,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP21",
@@ -382,13 +462,17 @@
         "high": 2322.72,
         "low": 2291.33,
         "close": 2322.72,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 2267.09,
         "daily_change_abs": 55.63,
         "daily_return_pct": 2.45,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP22",
@@ -399,13 +483,17 @@
         "high": 2797.45,
         "low": 2726.55,
         "close": 2797.45,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 2691.35,
         "daily_change_abs": 106.1,
         "daily_return_pct": 3.94,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP23",
@@ -416,13 +504,17 @@
         "high": 248.03,
         "low": 239.32,
         "close": 248.03,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 235.95,
         "daily_change_abs": 12.08,
         "daily_return_pct": 5.12,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP24",
@@ -433,13 +525,17 @@
         "high": 4759.55,
         "low": 4709.77,
         "close": 4748.69,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 4712.45,
         "daily_change_abs": 36.24,
         "daily_return_pct": 0.77,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP25",
@@ -450,13 +546,17 @@
         "high": 7972.53,
         "low": 7873.11,
         "close": 7919.72,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 7925.01,
         "daily_change_abs": -5.29,
         "daily_return_pct": -0.07,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP26",
@@ -467,13 +567,17 @@
         "high": 6265.7,
         "low": 6088.02,
         "close": 6111.23,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 6213.03,
         "daily_change_abs": -101.8,
         "daily_return_pct": -1.64,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP27",
@@ -484,13 +588,17 @@
         "high": 2389.76,
         "low": 2355.63,
         "close": 2376.94,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 2326.15,
         "daily_change_abs": 50.79,
         "daily_return_pct": 2.18,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP28",
@@ -501,13 +609,17 @@
         "high": 715.62,
         "low": 698.14,
         "close": 705.51,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 711.93,
         "daily_change_abs": -6.42,
         "daily_return_pct": -0.9,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP29",
@@ -518,13 +630,17 @@
         "high": 929.93,
         "low": 909.06,
         "close": 914.16,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 920.59,
         "daily_change_abs": -6.43,
         "daily_return_pct": -0.7,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP30",
@@ -535,13 +651,17 @@
         "high": 4301.63,
         "low": 4221.11,
         "close": 4246.04,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 4198.42,
         "daily_change_abs": 47.62,
         "daily_return_pct": 1.13,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP31",
@@ -552,13 +672,17 @@
         "high": 1495.23,
         "low": 1475.76,
         "close": 1488.15,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 1483.67,
         "daily_change_abs": 4.48,
         "daily_return_pct": 0.3,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP32",
@@ -569,13 +693,17 @@
         "high": 2486.19,
         "low": 2459.46,
         "close": 2476.5,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 2440.88,
         "daily_change_abs": 35.62,
         "daily_return_pct": 1.46,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "JP33",
@@ -586,13 +714,17 @@
         "high": 4910.62,
         "low": 4824.54,
         "close": 4883.36,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 4790.2,
         "daily_change_abs": 93.16,
         "daily_return_pct": 1.94,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "topix",
@@ -603,13 +735,17 @@
         "high": 4020.84,
         "low": 3941.76,
         "close": 3965.07,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 4003.28,
         "daily_change_abs": -38.21,
         "daily_return_pct": -0.95,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "jpxprime150index",
@@ -620,13 +756,17 @@
         "high": 1690.9,
         "low": 1653.91,
         "close": 1665.79,
-        "quote_as_of": null,
+        "quote_as_of": "2026-10-30T16:59:00+09:00",
         "status": "ohlc_present_time_unverified",
         "previous_close": 1683.38,
         "daily_change_abs": -17.59,
         "daily_return_pct": -1.04,
         "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
-        "daily_return_status": "valid_source_daily_change_trade_date_unverified"
+        "daily_return_status": "valid_source_daily_change_trade_date_unverified",
+        "source_trade_date_verified": true,
+        "trade_date": "2026-10-30",
+        "session_status": "closed",
+        "close_verified": true
       },
       {
         "id": "US01",
@@ -1081,7 +1221,7 @@
         "rating": "fear",
         "rating_zh": "恐惧",
         "change_points": -8.36,
-        "as_of": "2026-10-30T20:54:28+00:00"
+        "as_of": "2026-10-30T23:59:48+00:00"
       },
       "cape": {
         "value": 40.13,
