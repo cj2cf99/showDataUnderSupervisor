@@ -1,10 +1,10 @@
 {
   "schema": "stock-updates/1",
-  "updated_at_utc": "2026-11-02T06:49:07.969584+00:00",
+  "updated_at_utc": "2026-11-02T18:51:09.862694+00:00",
   "market_last_checked": {
     "JP": "2026-11-02T06:49:07.969584+00:00",
     "US": "2026-10-31T06:51:43.092509+00:00",
-    "DE": "2026-10-31T06:51:43.092509+00:00"
+    "DE": "2026-11-02T18:51:09.862694+00:00"
   },
   "coverage": {
     "total_watchlist": 122,
@@ -25,14 +25,14 @@
       "tv_symbol": "XETR:SIE",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-10-31T06:51:43.092509+00:00",
+      "observed_at_utc": "2026-11-02T18:51:09.862694+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 269.35,
-      "high": 270.55,
-      "low": 264.95,
-      "close": 265.65,
-      "price": 265.65
+      "open": 264.9,
+      "high": 272.2,
+      "low": 264.65,
+      "close": 270.35,
+      "price": 270.35
     },
     "JP:1605.T": {
       "symbol": "1605.T",
