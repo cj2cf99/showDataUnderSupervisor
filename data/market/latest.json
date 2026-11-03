@@ -1,7 +1,7 @@
 {
   "schema": "public-market-latest/1",
   "metadata": {
-    "collected_at_jst": "2026-11-03T11:44:52.096059+09:00",
+    "collected_at_jst": "2026-11-03T12:04:06.201412+09:00",
     "status": "complete_parse",
     "source_timestamp_verified": false,
     "coverage": {
@@ -1105,7 +1105,7 @@
         "open": 157.932,
         "high": 157.968,
         "low": 157.79,
-        "close": 157.93699999999998,
+        "close": 157.897,
         "quote_as_of": null,
         "status": "ohlc_present_time_unverified"
       },
@@ -1117,7 +1117,7 @@
         "open": 6.6475,
         "high": 6.6716,
         "low": 6.6475,
-        "close": 6.6712,
+        "close": 6.6692,
         "quote_as_of": null,
         "status": "ohlc_present_time_unverified"
       },
@@ -1128,8 +1128,8 @@
         "source": "tradingview_scanner",
         "open": 23.719,
         "high": 23.74,
-        "low": 23.676,
-        "close": 23.676,
+        "low": 23.653,
+        "close": 23.653,
         "quote_as_of": null,
         "status": "ohlc_present_time_unverified"
       },
@@ -1141,7 +1141,7 @@
         "open": 3960.5,
         "high": 3974.5,
         "low": 3950.9,
-        "close": 3954.9,
+        "close": 3959.1,
         "quote_as_of": null,
         "status": "ohlc_present_time_unverified"
       },
@@ -1153,7 +1153,7 @@
         "open": 96.3,
         "high": 97.17,
         "low": 96.12,
-        "close": 96.77,
+        "close": 96.63,
         "quote_as_of": null,
         "status": "ohlc_present_time_unverified"
       },
@@ -1165,7 +1165,7 @@
         "open": 4005.2511,
         "high": 4028.7367,
         "low": 3969.5471,
-        "close": 4016.9915,
+        "close": 4009.4093,
         "quote_as_of": null,
         "status": "ohlc_present_time_unverified"
       },
@@ -1177,7 +1177,7 @@
         "open": 23469.64,
         "high": 23545.67,
         "low": 23347.03,
-        "close": 23480.24,
+        "close": 23476.31,
         "quote_as_of": null,
         "status": "ohlc_present_time_unverified"
       },
@@ -1189,7 +1189,7 @@
         "open": 5715.19,
         "high": 5735.92,
         "low": 5638.06,
-        "close": 5682.56,
+        "close": 5667.64,
         "quote_as_of": null,
         "status": "ohlc_present_time_unverified"
       },
