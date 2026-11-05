@@ -1,7 +1,7 @@
 {
   "schema": "public-stock-market/1",
   "market": "US",
-  "captured_at_utc": "2026-11-04T20:55:50.969792+00:00",
+  "captured_at_utc": "2026-11-05T01:27:44.908135+00:00",
   "quote_count": 54,
   "by_security_id": {
     "US:AAPL": {
@@ -14,14 +14,14 @@
       "tv_symbol": "NASDAQ:AAPL",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 341.565,
       "high": 354.5,
       "low": 340.99,
-      "close": 351.58,
-      "price": 351.58
+      "close": 349.51,
+      "price": 349.51
     },
     "US:ADBE": {
       "security_id": "US:ADBE",
@@ -33,14 +33,14 @@
       "tv_symbol": "NASDAQ:ADBE",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 248.3,
       "high": 256.8,
       "low": 246.09,
-      "close": 249.27,
-      "price": 249.27
+      "close": 248.48,
+      "price": 248.48
     },
     "US:AMD": {
       "security_id": "US:AMD",
@@ -52,14 +52,14 @@
       "tv_symbol": "NASDAQ:AMD",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 485.25,
       "high": 514.6099,
       "low": 476.5,
-      "close": 480.84,
-      "price": 480.84
+      "close": 488.78,
+      "price": 488.78
     },
     "US:ARM": {
       "security_id": "US:ARM",
@@ -71,14 +71,14 @@
       "tv_symbol": "NASDAQ:ARM",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 201.98,
       "high": 209.4961,
-      "low": 190.06,
-      "close": 190.645,
-      "price": 190.645
+      "low": 189.88,
+      "close": 191.8,
+      "price": 191.8
     },
     "US:ASML": {
       "security_id": "US:ASML",
@@ -90,14 +90,14 @@
       "tv_symbol": "NASDAQ:ASML",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1512.25,
       "high": 1532.24,
       "low": 1478.9634,
-      "close": 1486.895,
-      "price": 1486.895
+      "close": 1496.3,
+      "price": 1496.3
     },
     "US:AXP": {
       "security_id": "US:AXP",
@@ -109,14 +109,14 @@
       "tv_symbol": "NYSE:AXP",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 334,
       "high": 337.25,
       "low": 325.37,
-      "close": 332.69,
-      "price": 332.69
+      "close": 332.59,
+      "price": 332.59
     },
     "US:BAC": {
       "security_id": "US:BAC",
@@ -128,14 +128,14 @@
       "tv_symbol": "NYSE:BAC",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 51.26,
       "high": 51.76,
       "low": 50.6219,
-      "close": 51.52,
-      "price": 51.52
+      "close": 51.63,
+      "price": 51.63
     },
     "US:BRK-B": {
       "security_id": "US:BRK-B",
@@ -147,14 +147,14 @@
       "tv_symbol": "NYSE:BRK.B",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 566.3,
-      "high": 580.32,
+      "high": 580.65,
       "low": 562.5,
-      "close": 580.01,
-      "price": 580.01
+      "close": 579.09,
+      "price": 579.09
     },
     "US:COST": {
       "security_id": "US:COST",
@@ -166,14 +166,14 @@
       "tv_symbol": "NASDAQ:COST",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1036.83,
       "high": 1053.6599,
       "low": 1028.5,
-      "close": 1052.6,
-      "price": 1052.6
+      "close": 1046.47,
+      "price": 1046.47
     },
     "US:CRM": {
       "security_id": "US:CRM",
@@ -185,14 +185,14 @@
       "tv_symbol": "NYSE:CRM",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 229,
       "high": 234.3599,
       "low": 225.02,
-      "close": 227.335,
-      "price": 227.335
+      "close": 227.11,
+      "price": 227.11
     },
     "US:CRML": {
       "security_id": "US:CRML",
@@ -204,14 +204,14 @@
       "tv_symbol": "NASDAQ:CRML",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 6.348,
       "high": 6.5699,
       "low": 6.0114,
-      "close": 6.265,
-      "price": 6.265
+      "close": 6.37,
+      "price": 6.37
     },
     "US:CRWD": {
       "security_id": "US:CRWD",
@@ -223,14 +223,14 @@
       "tv_symbol": "NASDAQ:CRWD",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 242.795,
       "high": 252.8548,
       "low": 237.21,
-      "close": 243.17,
-      "price": 243.17
+      "close": 241,
+      "price": 241
     },
     "US:CVX": {
       "security_id": "US:CVX",
@@ -242,14 +242,14 @@
       "tv_symbol": "NYSE:CVX",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 222.56,
       "high": 223.01,
       "low": 214.61,
-      "close": 216.15,
-      "price": 216.15
+      "close": 216.96,
+      "price": 216.96
     },
     "US:DDOG": {
       "security_id": "US:DDOG",
@@ -261,14 +261,14 @@
       "tv_symbol": "NASDAQ:DDOG",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 199.74,
       "high": 207.74,
       "low": 186.51,
-      "close": 189.09,
-      "price": 189.09
+      "close": 188.72,
+      "price": 188.72
     },
     "US:DELL": {
       "security_id": "US:DELL",
@@ -280,14 +280,14 @@
       "tv_symbol": "NYSE:DELL",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 384.69,
       "high": 394.53,
       "low": 366.619,
-      "close": 368.948,
-      "price": 368.948
+      "close": 372.36,
+      "price": 372.36
     },
     "US:DIS": {
       "security_id": "US:DIS",
@@ -299,14 +299,14 @@
       "tv_symbol": "NYSE:DIS",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 116.3,
       "high": 119.96,
       "low": 116.3,
-      "close": 119.245,
-      "price": 119.245
+      "close": 118.95,
+      "price": 118.95
     },
     "US:DPZ": {
       "security_id": "US:DPZ",
@@ -318,14 +318,14 @@
       "tv_symbol": "NASDAQ:DPZ",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 328.197,
       "high": 344.89,
       "low": 328.197,
-      "close": 341.395,
-      "price": 341.395
+      "close": 340.69,
+      "price": 340.69
     },
     "US:GOOG": {
       "security_id": "US:GOOG",
@@ -337,14 +337,14 @@
       "tv_symbol": "NASDAQ:GOOG",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 281.475,
       "high": 294.4,
       "low": 281.33,
-      "close": 289.53,
-      "price": 289.53
+      "close": 287.3,
+      "price": 287.3
     },
     "US:GS": {
       "security_id": "US:GS",
@@ -356,14 +356,14 @@
       "tv_symbol": "NYSE:GS",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 920.31,
       "high": 933.34,
       "low": 899.6,
-      "close": 930.39,
-      "price": 930.39
+      "close": 928,
+      "price": 928
     },
     "US:IBM": {
       "security_id": "US:IBM",
@@ -375,14 +375,14 @@
       "tv_symbol": "NYSE:IBM",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 255,
       "high": 258.5899,
       "low": 253.51,
-      "close": 255.475,
-      "price": 255.475
+      "close": 254.32,
+      "price": 254.32
     },
     "US:INTC": {
       "security_id": "US:INTC",
@@ -394,14 +394,14 @@
       "tv_symbol": "NASDAQ:INTC",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 58.665,
       "high": 60.2,
       "low": 56.77,
-      "close": 57.675,
-      "price": 57.675
+      "close": 58.27,
+      "price": 58.27
     },
     "US:JNJ": {
       "security_id": "US:JNJ",
@@ -413,14 +413,14 @@
       "tv_symbol": "NYSE:JNJ",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 272.41,
       "high": 277.35,
       "low": 267.67,
-      "close": 277.27,
-      "price": 277.27
+      "close": 276.32,
+      "price": 276.32
     },
     "US:JPM": {
       "security_id": "US:JPM",
@@ -432,14 +432,14 @@
       "tv_symbol": "NYSE:JPM",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 346,
-      "high": 352.09,
+      "high": 352.33,
       "low": 342.21,
-      "close": 351.76,
-      "price": 351.76
+      "close": 352.11,
+      "price": 352.11
     },
     "US:KO": {
       "security_id": "US:KO",
@@ -451,14 +451,14 @@
       "tv_symbol": "NYSE:KO",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 96.3,
-      "high": 96.45,
+      "high": 96.56,
       "low": 94.35,
-      "close": 96.435,
-      "price": 96.435
+      "close": 95.8,
+      "price": 95.8
     },
     "US:LLY": {
       "security_id": "US:LLY",
@@ -470,14 +470,14 @@
       "tv_symbol": "NYSE:LLY",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1440,
       "high": 1445.96,
       "low": 1401.59,
-      "close": 1423.07,
-      "price": 1423.07
+      "close": 1417.99,
+      "price": 1417.99
     },
     "US:LMT": {
       "security_id": "US:LMT",
@@ -489,14 +489,14 @@
       "tv_symbol": "NYSE:LMT",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 614.65,
       "high": 620.345,
       "low": 591.12,
-      "close": 591.775,
-      "price": 591.775
+      "close": 595.04,
+      "price": 595.04
     },
     "US:MA": {
       "security_id": "US:MA",
@@ -508,14 +508,14 @@
       "tv_symbol": "NYSE:MA",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 660.93,
       "high": 673.5,
       "low": 655,
-      "close": 672.52,
-      "price": 672.52
+      "close": 672.68,
+      "price": 672.68
     },
     "US:MCD": {
       "security_id": "US:MCD",
@@ -527,14 +527,14 @@
       "tv_symbol": "NYSE:MCD",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 268.79,
       "high": 281.14,
       "low": 267.8,
-      "close": 279.7,
-      "price": 279.7
+      "close": 280.22,
+      "price": 280.22
     },
     "US:MDLN": {
       "security_id": "US:MDLN",
@@ -546,14 +546,14 @@
       "tv_symbol": "NASDAQ:MDLN",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 37.37,
-      "high": 40.32,
+      "high": 40.8,
       "low": 37.06,
-      "close": 40.26,
-      "price": 40.26
+      "close": 40.35,
+      "price": 40.35
     },
     "US:META": {
       "security_id": "US:META",
@@ -565,14 +565,14 @@
       "tv_symbol": "NASDAQ:META",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 641.15,
       "high": 643.09,
       "low": 624.5,
-      "close": 632.195,
-      "price": 632.195
+      "close": 630,
+      "price": 630
     },
     "US:MSFT": {
       "security_id": "US:MSFT",
@@ -584,14 +584,14 @@
       "tv_symbol": "NASDAQ:MSFT",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 543.695,
       "high": 559.15,
       "low": 542.3,
-      "close": 557.92,
-      "price": 557.92
+      "close": 555.8,
+      "price": 555.8
     },
     "US:MU": {
       "security_id": "US:MU",
@@ -603,14 +603,14 @@
       "tv_symbol": "NASDAQ:MU",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 822.995,
       "high": 853.3399,
       "low": 782,
-      "close": 793.108,
-      "price": 793.108
+      "close": 795.23,
+      "price": 795.23
     },
     "US:NET": {
       "security_id": "US:NET",
@@ -622,14 +622,14 @@
       "tv_symbol": "NYSE:NET",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 268.2,
       "high": 273,
       "low": 257.83,
-      "close": 266.21,
-      "price": 266.21
+      "close": 266.58,
+      "price": 266.58
     },
     "US:NFLX": {
       "security_id": "US:NFLX",
@@ -641,14 +641,14 @@
       "tv_symbol": "NASDAQ:NFLX",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 64.55,
       "high": 66.78,
       "low": 64.02,
-      "close": 66.66,
-      "price": 66.66
+      "close": 66.39,
+      "price": 66.39
     },
     "US:NKE": {
       "security_id": "US:NKE",
@@ -660,14 +660,14 @@
       "tv_symbol": "NYSE:NKE",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 39.62,
       "high": 41.1,
       "low": 39.48,
-      "close": 40.405,
-      "price": 40.405
+      "close": 40.49,
+      "price": 40.49
     },
     "US:NOW": {
       "security_id": "US:NOW",
@@ -679,14 +679,14 @@
       "tv_symbol": "NYSE:NOW",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 111.57,
       "high": 112.35,
       "low": 108.31,
-      "close": 109.295,
-      "price": 109.295
+      "close": 108.81,
+      "price": 108.81
     },
     "US:NVDA": {
       "security_id": "US:NVDA",
@@ -698,14 +698,14 @@
       "tv_symbol": "NASDAQ:NVDA",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 203.5,
       "high": 206.79,
-      "low": 200.8402,
-      "close": 201.02,
-      "price": 201.02
+      "low": 199.68,
+      "close": 200.13,
+      "price": 200.13
     },
     "US:NVO": {
       "security_id": "US:NVO",
@@ -717,14 +717,14 @@
       "tv_symbol": "NYSE:NVO",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 42.45,
       "high": 43.24,
       "low": 42.12,
-      "close": 42.32,
-      "price": 42.32
+      "close": 42.18,
+      "price": 42.18
     },
     "US:ORCL": {
       "security_id": "US:ORCL",
@@ -736,14 +736,14 @@
       "tv_symbol": "NYSE:ORCL",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 121.78,
       "high": 129.85,
       "low": 121.78,
-      "close": 124.455,
-      "price": 124.455
+      "close": 123.73,
+      "price": 123.73
     },
     "US:PATH": {
       "security_id": "US:PATH",
@@ -755,14 +755,14 @@
       "tv_symbol": "NYSE:PATH",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 13.2,
       "high": 13.83,
       "low": 13.195,
-      "close": 13.6,
-      "price": 13.6
+      "close": 13.51,
+      "price": 13.51
     },
     "US:PAYP": {
       "security_id": "US:PAYP",
@@ -774,14 +774,14 @@
       "tv_symbol": "NASDAQ:PAYP",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 15.34,
       "high": 16.36,
       "low": 15.25,
-      "close": 15.805,
-      "price": 15.805
+      "close": 15.96,
+      "price": 15.96
     },
     "US:PG": {
       "security_id": "US:PG",
@@ -793,14 +793,14 @@
       "tv_symbol": "NYSE:PG",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 164.65,
       "high": 168.17,
       "low": 164.65,
-      "close": 167.755,
-      "price": 167.755
+      "close": 167.32,
+      "price": 167.32
     },
     "US:QCOM": {
       "security_id": "US:QCOM",
@@ -812,14 +812,14 @@
       "tv_symbol": "NASDAQ:QCOM",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 166.505,
-      "high": 172.26,
+      "high": 173.9999,
       "low": 162.75,
-      "close": 166.98,
-      "price": 166.98
+      "close": 173.19,
+      "price": 173.19
     },
     "US:QSR": {
       "security_id": "US:QSR",
@@ -831,14 +831,14 @@
       "tv_symbol": "NYSE:QSR",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 75.83,
-      "high": 78.13,
+      "high": 78.71,
       "low": 75.66,
-      "close": 78.125,
-      "price": 78.125
+      "close": 78.38,
+      "price": 78.38
     },
     "US:RDDT": {
       "security_id": "US:RDDT",
@@ -850,14 +850,14 @@
       "tv_symbol": "NYSE:RDDT",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 97.9,
       "high": 104.55,
       "low": 97.78,
-      "close": 101.705,
-      "price": 101.705
+      "close": 101.89,
+      "price": 101.89
     },
     "US:SKHY": {
       "security_id": "US:SKHY",
@@ -869,14 +869,14 @@
       "tv_symbol": "NASDAQ:SKHY",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 146.4,
       "high": 151.84,
       "low": 141.181,
-      "close": 141.75,
-      "price": 141.75
+      "close": 143.07,
+      "price": 143.07
     },
     "US:SMCI": {
       "security_id": "US:SMCI",
@@ -888,14 +888,14 @@
       "tv_symbol": "NASDAQ:SMCI",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 31.42,
       "high": 32.74,
-      "low": 29.51,
-      "close": 29.74,
-      "price": 29.74
+      "low": 29.39,
+      "close": 29.6,
+      "price": 29.6
     },
     "US:SNDK": {
       "security_id": "US:SNDK",
@@ -907,14 +907,14 @@
       "tv_symbol": "NASDAQ:SNDK",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1079.91,
       "high": 1120.219,
       "low": 1014,
-      "close": 1032.24,
-      "price": 1032.24
+      "close": 1037.4,
+      "price": 1037.4
     },
     "US:SPCX": {
       "security_id": "US:SPCX",
@@ -926,14 +926,14 @@
       "tv_symbol": "NASDAQ:SPCX",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 133.24,
       "high": 140.5,
       "low": 133.14,
-      "close": 133.9,
-      "price": 133.9
+      "close": 135.92,
+      "price": 135.92
     },
     "US:TSLA": {
       "security_id": "US:TSLA",
@@ -945,14 +945,14 @@
       "tv_symbol": "NASDAQ:TSLA",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 379.8,
       "high": 392.04,
       "low": 375.5001,
-      "close": 383.705,
-      "price": 383.705
+      "close": 385.19,
+      "price": 385.19
     },
     "US:TSM": {
       "security_id": "US:TSM",
@@ -964,14 +964,14 @@
       "tv_symbol": "NYSE:TSM",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 400.635,
       "high": 410.5899,
       "low": 391.61,
-      "close": 394.5,
-      "price": 394.5
+      "close": 395.75,
+      "price": 395.75
     },
     "US:U": {
       "security_id": "US:U",
@@ -983,14 +983,14 @@
       "tv_symbol": "NYSE:U",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 39.67,
-      "high": 42.78,
+      "high": 43.03,
       "low": 39,
-      "close": 41.925,
-      "price": 41.925
+      "close": 42.46,
+      "price": 42.46
     },
     "US:V": {
       "security_id": "US:V",
@@ -1002,14 +1002,14 @@
       "tv_symbol": "NYSE:V",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 427.42,
-      "high": 435.97,
+      "high": 436.76,
       "low": 423.28,
-      "close": 435.74,
-      "price": 435.74
+      "close": 436.57,
+      "price": 436.57
     },
     "US:WMT": {
       "security_id": "US:WMT",
@@ -1021,14 +1021,14 @@
       "tv_symbol": "NASDAQ:WMT",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-04T20:55:50.969792+00:00",
+      "observed_at_utc": "2026-11-05T01:27:44.908135+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 127,
       "high": 130.94,
       "low": 125.84,
-      "close": 130.305,
-      "price": 130.305
+      "close": 129.17,
+      "price": 129.17
     }
   }
 }
