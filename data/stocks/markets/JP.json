@@ -1,7 +1,7 @@
 {
   "schema": "public-stock-market/1",
   "market": "JP",
-  "captured_at_utc": "2026-11-05T01:28:36.145651+00:00",
+  "captured_at_utc": "2026-11-05T04:14:27.126236+00:00",
   "quote_count": 67,
   "by_security_id": {
     "JP:1605.T": {
@@ -14,14 +14,14 @@
       "tv_symbol": "TSE:1605",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3753,
       "high": 3793,
-      "low": 3699,
-      "close": 3706,
-      "price": 3706
+      "low": 3628,
+      "close": 3628,
+      "price": 3628
     },
     "JP:1928.T": {
       "security_id": "JP:1928.T",
@@ -33,14 +33,14 @@
       "tv_symbol": "TSE:1928",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3598,
       "high": 3707,
       "low": 3594,
-      "close": 3689,
-      "price": 3689
+      "close": 3650,
+      "price": 3650
     },
     "JP:2212.T": {
       "security_id": "JP:2212.T",
@@ -52,14 +52,14 @@
       "tv_symbol": "TSE:2212",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 4050,
-      "high": 4186,
+      "high": 4188,
       "low": 4049,
-      "close": 4180,
-      "price": 4180
+      "close": 4149,
+      "price": 4149
     },
     "JP:2502.T": {
       "security_id": "JP:2502.T",
@@ -71,14 +71,14 @@
       "tv_symbol": "TSE:2502",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1748.5,
       "high": 1784.5,
       "low": 1745,
-      "close": 1778.5,
-      "price": 1778.5
+      "close": 1760,
+      "price": 1760
     },
     "JP:2503.T": {
       "security_id": "JP:2503.T",
@@ -90,14 +90,14 @@
       "tv_symbol": "TSE:2503",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3069,
-      "high": 3172,
+      "high": 3173,
       "low": 3066,
-      "close": 3164,
-      "price": 3164
+      "close": 3160,
+      "price": 3160
     },
     "JP:2802.T": {
       "security_id": "JP:2802.T",
@@ -109,14 +109,14 @@
       "tv_symbol": "TSE:2802",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 5066,
       "high": 5080,
-      "low": 5018,
-      "close": 5051,
-      "price": 5051
+      "low": 4914,
+      "close": 4924,
+      "price": 4924
     },
     "JP:285A.T": {
       "security_id": "JP:285A.T",
@@ -128,14 +128,14 @@
       "tv_symbol": "TSE:285A",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 9820,
-      "high": 10175,
-      "low": 9701,
-      "close": 9787,
-      "price": 9787
+      "high": 10270,
+      "low": 9591,
+      "close": 9688,
+      "price": 9688
     },
     "JP:2897.T": {
       "security_id": "JP:2897.T",
@@ -147,14 +147,14 @@
       "tv_symbol": "TSE:2897",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3125,
-      "high": 3197,
+      "high": 3206,
       "low": 3116,
-      "close": 3196,
-      "price": 3196
+      "close": 3184,
+      "price": 3184
     },
     "JP:2914.T": {
       "security_id": "JP:2914.T",
@@ -166,14 +166,14 @@
       "tv_symbol": "TSE:2914",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 7639,
       "high": 7739,
       "low": 7618,
-      "close": 7722,
-      "price": 7722
+      "close": 7712,
+      "price": 7712
     },
     "JP:3038.T": {
       "security_id": "JP:3038.T",
@@ -185,14 +185,14 @@
       "tv_symbol": "TSE:3038",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3051,
-      "high": 3133,
+      "high": 3136,
       "low": 3051,
-      "close": 3126,
-      "price": 3126
+      "close": 3131,
+      "price": 3131
     },
     "JP:3231.T": {
       "security_id": "JP:3231.T",
@@ -204,14 +204,14 @@
       "tv_symbol": "TSE:3231",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 910.7,
-      "high": 931.9,
+      "high": 935.8,
       "low": 908.3,
-      "close": 928,
-      "price": 928
+      "close": 933.5,
+      "price": 933.5
     },
     "JP:4063.T": {
       "security_id": "JP:4063.T",
@@ -223,14 +223,14 @@
       "tv_symbol": "TSE:4063",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 5850,
       "high": 5867,
-      "low": 5736,
-      "close": 5739,
-      "price": 5739
+      "low": 5698,
+      "close": 5723,
+      "price": 5723
     },
     "JP:4502.T": {
       "security_id": "JP:4502.T",
@@ -242,14 +242,14 @@
       "tv_symbol": "TSE:4502",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 6841,
       "high": 6989,
-      "low": 6841,
-      "close": 6955,
-      "price": 6955
+      "low": 6833,
+      "close": 6896,
+      "price": 6896
     },
     "JP:4519.T": {
       "security_id": "JP:4519.T",
@@ -261,14 +261,14 @@
       "tv_symbol": "TSE:4519",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 7203,
       "high": 7381,
-      "low": 7201,
-      "close": 7368,
-      "price": 7368
+      "low": 7162,
+      "close": 7218,
+      "price": 7218
     },
     "JP:4568.T": {
       "security_id": "JP:4568.T",
@@ -280,14 +280,14 @@
       "tv_symbol": "TSE:4568",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3000,
       "high": 3104,
       "low": 2998.5,
-      "close": 3064,
-      "price": 3064
+      "close": 3069,
+      "price": 3069
     },
     "JP:4689.T": {
       "security_id": "JP:4689.T",
@@ -299,14 +299,14 @@
       "tv_symbol": "TSE:4689",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 509,
-      "high": 534.7,
+      "high": 536,
       "low": 509,
-      "close": 531.9,
-      "price": 531.9
+      "close": 535.9,
+      "price": 535.9
     },
     "JP:4755.T": {
       "security_id": "JP:4755.T",
@@ -318,14 +318,14 @@
       "tv_symbol": "TSE:4755",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 639.1,
-      "high": 665,
+      "high": 669.8,
       "low": 637,
-      "close": 659.7,
-      "price": 659.7
+      "close": 664.9,
+      "price": 664.9
     },
     "JP:4901.T": {
       "security_id": "JP:4901.T",
@@ -337,14 +337,14 @@
       "tv_symbol": "TSE:4901",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3533,
       "high": 3565,
-      "low": 3511,
-      "close": 3526,
-      "price": 3526
+      "low": 3471,
+      "close": 3490,
+      "price": 3490
     },
     "JP:5016.T": {
       "security_id": "JP:5016.T",
@@ -356,14 +356,14 @@
       "tv_symbol": "TSE:5016",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 2813.5,
       "high": 2818,
-      "low": 2706.5,
-      "close": 2709.5,
-      "price": 2709.5
+      "low": 2658.5,
+      "close": 2682,
+      "price": 2682
     },
     "JP:5019.T": {
       "security_id": "JP:5019.T",
@@ -375,14 +375,14 @@
       "tv_symbol": "TSE:5019",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1406,
       "high": 1419.5,
-      "low": 1385.5,
-      "close": 1395,
-      "price": 1395
+      "low": 1374.5,
+      "close": 1376,
+      "price": 1376
     },
     "JP:5020.T": {
       "security_id": "JP:5020.T",
@@ -394,14 +394,14 @@
       "tv_symbol": "TSE:5020",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1325,
       "high": 1349.5,
-      "low": 1318,
-      "close": 1322,
-      "price": 1322
+      "low": 1300.5,
+      "close": 1301,
+      "price": 1301
     },
     "JP:5401.T": {
       "security_id": "JP:5401.T",
@@ -413,14 +413,14 @@
       "tv_symbol": "TSE:5401",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 668,
       "high": 671.7,
-      "low": 663.3,
-      "close": 666.1,
-      "price": 666.1
+      "low": 659.9,
+      "close": 666,
+      "price": 666
     },
     "JP:5713.T": {
       "security_id": "JP:5713.T",
@@ -432,14 +432,14 @@
       "tv_symbol": "TSE:5713",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 8329,
       "high": 8497,
-      "low": 8267,
-      "close": 8340,
-      "price": 8340
+      "low": 8139,
+      "close": 8362,
+      "price": 8362
     },
     "JP:5801.T": {
       "security_id": "JP:5801.T",
@@ -451,14 +451,14 @@
       "tv_symbol": "TSE:5801",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 2512,
       "high": 2512.5,
-      "low": 2282,
-      "close": 2288.5,
-      "price": 2288.5
+      "low": 2213.5,
+      "close": 2215,
+      "price": 2215
     },
     "JP:5802.T": {
       "security_id": "JP:5802.T",
@@ -470,14 +470,14 @@
       "tv_symbol": "TSE:5802",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1502.5,
       "high": 1515,
-      "low": 1452,
-      "close": 1458,
-      "price": 1458
+      "low": 1423,
+      "close": 1425,
+      "price": 1425
     },
     "JP:5803.T": {
       "security_id": "JP:5803.T",
@@ -489,14 +489,14 @@
       "tv_symbol": "TSE:5803",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3540,
       "high": 3540,
-      "low": 3380,
-      "close": 3401,
-      "price": 3401
+      "low": 3346,
+      "close": 3348,
+      "price": 3348
     },
     "JP:6146.T": {
       "security_id": "JP:6146.T",
@@ -508,14 +508,14 @@
       "tv_symbol": "TSE:6146",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 45980,
       "high": 46050,
-      "low": 43570,
-      "close": 43700,
-      "price": 43700
+      "low": 42060,
+      "close": 42270,
+      "price": 42270
     },
     "JP:642A.T": {
       "security_id": "JP:642A.T",
@@ -527,14 +527,14 @@
       "tv_symbol": "TSE:642A",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 2061.5,
-      "high": 2092,
-      "low": 2050,
-      "close": 2064,
-      "price": 2064
+      "high": 2104.5,
+      "low": 2039.5,
+      "close": 2088.5,
+      "price": 2088.5
     },
     "JP:6501.T": {
       "security_id": "JP:6501.T",
@@ -546,14 +546,14 @@
       "tv_symbol": "TSE:6501",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 4940,
       "high": 4958,
-      "low": 4758,
-      "close": 4790,
-      "price": 4790
+      "low": 4745,
+      "close": 4807,
+      "price": 4807
     },
     "JP:6506.T": {
       "security_id": "JP:6506.T",
@@ -565,14 +565,14 @@
       "tv_symbol": "TSE:6506",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3909,
       "high": 3935,
-      "low": 3749,
-      "close": 3753,
-      "price": 3753
+      "low": 3681,
+      "close": 3812,
+      "price": 3812
     },
     "JP:6702.T": {
       "security_id": "JP:6702.T",
@@ -584,14 +584,14 @@
       "tv_symbol": "TSE:6702",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3493,
       "high": 3525,
       "low": 3454,
-      "close": 3501,
-      "price": 3501
+      "close": 3466,
+      "price": 3466
     },
     "JP:6723.T": {
       "security_id": "JP:6723.T",
@@ -603,14 +603,14 @@
       "tv_symbol": "TSE:6723",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 2776,
       "high": 2795,
-      "low": 2677,
-      "close": 2683.5,
-      "price": 2683.5
+      "low": 2627.5,
+      "close": 2693.5,
+      "price": 2693.5
     },
     "JP:6758.T": {
       "security_id": "JP:6758.T",
@@ -622,14 +622,14 @@
       "tv_symbol": "TSE:6758",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 4180,
       "high": 4274,
-      "low": 4174,
-      "close": 4244,
-      "price": 4244
+      "low": 4131,
+      "close": 4193,
+      "price": 4193
     },
     "JP:6857.T": {
       "security_id": "JP:6857.T",
@@ -641,14 +641,14 @@
       "tv_symbol": "TSE:6857",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 32550,
       "high": 32740,
-      "low": 30930,
-      "close": 31080,
-      "price": 31080
+      "low": 30410,
+      "close": 30810,
+      "price": 30810
     },
     "JP:6861.T": {
       "security_id": "JP:6861.T",
@@ -660,14 +660,14 @@
       "tv_symbol": "TSE:6861",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 77190,
       "high": 77200,
-      "low": 74070,
-      "close": 74500,
-      "price": 74500
+      "low": 72950,
+      "close": 72970,
+      "price": 72970
     },
     "JP:6954.T": {
       "security_id": "JP:6954.T",
@@ -679,14 +679,14 @@
       "tv_symbol": "TSE:6954",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 5782,
       "high": 5796,
-      "low": 5647,
-      "close": 5689,
-      "price": 5689
+      "low": 5587,
+      "close": 5714,
+      "price": 5714
     },
     "JP:6981.T": {
       "security_id": "JP:6981.T",
@@ -698,14 +698,14 @@
       "tv_symbol": "TSE:6981",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 5840,
       "high": 5840,
-      "low": 5317,
-      "close": 5340,
-      "price": 5340
+      "low": 5202,
+      "close": 5204,
+      "price": 5204
     },
     "JP:7011.T": {
       "security_id": "JP:7011.T",
@@ -717,14 +717,14 @@
       "tv_symbol": "TSE:7011",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3242,
       "high": 3277,
-      "low": 3076,
-      "close": 3086,
-      "price": 3086
+      "low": 3036,
+      "close": 3069,
+      "price": 3069
     },
     "JP:7012.T": {
       "security_id": "JP:7012.T",
@@ -736,14 +736,14 @@
       "tv_symbol": "TSE:7012",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 2111,
       "high": 2123.5,
-      "low": 2078,
-      "close": 2089,
-      "price": 2089
+      "low": 2048,
+      "close": 2092.5,
+      "price": 2092.5
     },
     "JP:7203.T": {
       "security_id": "JP:7203.T",
@@ -755,14 +755,14 @@
       "tv_symbol": "TSE:7203",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3168,
       "high": 3284,
-      "low": 3167,
-      "close": 3203,
-      "price": 3203
+      "low": 3164,
+      "close": 3255,
+      "price": 3255
     },
     "JP:7272.T": {
       "security_id": "JP:7272.T",
@@ -774,14 +774,14 @@
       "tv_symbol": "TSE:7272",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1783.5,
       "high": 1810,
       "low": 1776,
-      "close": 1798.5,
-      "price": 1798.5
+      "close": 1806.5,
+      "price": 1806.5
     },
     "JP:7453.T": {
       "security_id": "JP:7453.T",
@@ -793,14 +793,14 @@
       "tv_symbol": "TSE:7453",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 4909,
-      "high": 5166,
+      "high": 5168,
       "low": 4889,
-      "close": 5159,
-      "price": 5159
+      "close": 5100,
+      "price": 5100
     },
     "JP:7532.T": {
       "security_id": "JP:7532.T",
@@ -812,14 +812,14 @@
       "tv_symbol": "TSE:7532",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 763.4,
-      "high": 785.8,
+      "high": 794.9,
       "low": 762.8,
-      "close": 784.3,
-      "price": 784.3
+      "close": 793.7,
+      "price": 793.7
     },
     "JP:7581.T": {
       "security_id": "JP:7581.T",
@@ -831,14 +831,14 @@
       "tv_symbol": "TSE:7581",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 8400,
-      "high": 8780,
+      "high": 8820,
       "low": 8370,
-      "close": 8750,
-      "price": 8750
+      "close": 8710,
+      "price": 8710
     },
     "JP:7735.T": {
       "security_id": "JP:7735.T",
@@ -850,14 +850,14 @@
       "tv_symbol": "TSE:7735",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 8690,
       "high": 8710,
-      "low": 8256,
-      "close": 8297,
-      "price": 8297
+      "low": 8103,
+      "close": 8104,
+      "price": 8104
     },
     "JP:7741.T": {
       "security_id": "JP:7741.T",
@@ -869,14 +869,14 @@
       "tv_symbol": "TSE:7741",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 24915,
       "high": 25025,
-      "low": 24330,
-      "close": 24565,
-      "price": 24565
+      "low": 24200,
+      "close": 24225,
+      "price": 24225
     },
     "JP:7974.T": {
       "security_id": "JP:7974.T",
@@ -888,14 +888,14 @@
       "tv_symbol": "TSE:7974",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 8680,
       "high": 8890,
       "low": 8564,
-      "close": 8845,
-      "price": 8845
+      "close": 8758,
+      "price": 8758
     },
     "JP:8001.T": {
       "security_id": "JP:8001.T",
@@ -907,14 +907,14 @@
       "tv_symbol": "TSE:8001",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 2360,
       "high": 2416.5,
       "low": 2334.5,
-      "close": 2369.5,
-      "price": 2369.5
+      "close": 2407,
+      "price": 2407
     },
     "JP:8002.T": {
       "security_id": "JP:8002.T",
@@ -926,14 +926,14 @@
       "tv_symbol": "TSE:8002",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 5000,
       "high": 5137,
-      "low": 4999,
-      "close": 5020,
-      "price": 5020
+      "low": 4932,
+      "close": 5111,
+      "price": 5111
     },
     "JP:8031.T": {
       "security_id": "JP:8031.T",
@@ -945,14 +945,14 @@
       "tv_symbol": "TSE:8031",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 5030,
       "high": 5187,
-      "low": 4988,
-      "close": 5064,
-      "price": 5064
+      "low": 4975,
+      "close": 5070,
+      "price": 5070
     },
     "JP:8035.T": {
       "security_id": "JP:8035.T",
@@ -964,14 +964,14 @@
       "tv_symbol": "TSE:8035",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 9242,
       "high": 9274,
-      "low": 8868,
-      "close": 8893,
-      "price": 8893
+      "low": 8677,
+      "close": 8824,
+      "price": 8824
     },
     "JP:8053.T": {
       "security_id": "JP:8053.T",
@@ -983,14 +983,14 @@
       "tv_symbol": "TSE:8053",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1706,
-      "high": 1748.5,
-      "low": 1692.5,
-      "close": 1712,
-      "price": 1712
+      "high": 1751.5,
+      "low": 1686,
+      "close": 1745.5,
+      "price": 1745.5
     },
     "JP:8058.T": {
       "security_id": "JP:8058.T",
@@ -1002,14 +1002,14 @@
       "tv_symbol": "TSE:8058",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 5224,
       "high": 5407,
-      "low": 5175,
-      "close": 5195,
-      "price": 5195
+      "low": 5156,
+      "close": 5276,
+      "price": 5276
     },
     "JP:8136.T": {
       "security_id": "JP:8136.T",
@@ -1021,14 +1021,14 @@
       "tv_symbol": "TSE:8136",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1276,
       "high": 1318,
       "low": 1265.5,
-      "close": 1313.5,
-      "price": 1313.5
+      "close": 1300,
+      "price": 1300
     },
     "JP:8252.T": {
       "security_id": "JP:8252.T",
@@ -1040,14 +1040,14 @@
       "tv_symbol": "TSE:8252",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 2850,
-      "high": 2896.5,
+      "high": 2897,
       "low": 2849.5,
-      "close": 2892,
-      "price": 2892
+      "close": 2896,
+      "price": 2896
     },
     "JP:8267.T": {
       "security_id": "JP:8267.T",
@@ -1059,14 +1059,14 @@
       "tv_symbol": "TSE:8267",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1243,
       "high": 1300,
       "low": 1242.5,
-      "close": 1296,
-      "price": 1296
+      "close": 1290.5,
+      "price": 1290.5
     },
     "JP:8306.T": {
       "security_id": "JP:8306.T",
@@ -1078,14 +1078,14 @@
       "tv_symbol": "TSE:8306",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3492,
       "high": 3506,
-      "low": 3454,
-      "close": 3484,
-      "price": 3484
+      "low": 3433,
+      "close": 3468,
+      "price": 3468
     },
     "JP:8316.T": {
       "security_id": "JP:8316.T",
@@ -1097,14 +1097,14 @@
       "tv_symbol": "TSE:8316",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3234,
       "high": 3237,
-      "low": 3190,
-      "close": 3214,
-      "price": 3214
+      "low": 3172,
+      "close": 3208,
+      "price": 3208
     },
     "JP:8411.T": {
       "security_id": "JP:8411.T",
@@ -1116,14 +1116,14 @@
       "tv_symbol": "TSE:8411",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 7733,
-      "high": 7773,
-      "low": 7635,
-      "close": 7716,
-      "price": 7716
+      "high": 7824,
+      "low": 7633,
+      "close": 7757,
+      "price": 7757
     },
     "JP:8766.T": {
       "security_id": "JP:8766.T",
@@ -1135,14 +1135,14 @@
       "tv_symbol": "TSE:8766",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 591.8,
-      "high": 612,
+      "high": 612.3,
       "low": 590.4,
-      "close": 610.7,
-      "price": 610.7
+      "close": 610.3,
+      "price": 610.3
     },
     "JP:9432.T": {
       "security_id": "JP:9432.T",
@@ -1154,14 +1154,14 @@
       "tv_symbol": "TSE:9432",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 166.7,
       "high": 171.2,
-      "low": 166.7,
-      "close": 170.1,
-      "price": 170.1
+      "low": 166,
+      "close": 166.8,
+      "price": 166.8
     },
     "JP:9433.T": {
       "security_id": "JP:9433.T",
@@ -1173,14 +1173,14 @@
       "tv_symbol": "TSE:9433",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 2870.5,
-      "high": 2932,
+      "high": 2935,
       "low": 2869,
-      "close": 2926,
-      "price": 2926
+      "close": 2925,
+      "price": 2925
     },
     "JP:9434.T": {
       "security_id": "JP:9434.T",
@@ -1192,14 +1192,14 @@
       "tv_symbol": "TSE:9434",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 236.5,
       "high": 244.3,
       "low": 235.2,
-      "close": 243.3,
-      "price": 243.3
+      "close": 242.4,
+      "price": 242.4
     },
     "JP:9501.T": {
       "security_id": "JP:9501.T",
@@ -1211,14 +1211,14 @@
       "tv_symbol": "TSE:9501",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 453,
       "high": 462.7,
-      "low": 451.9,
-      "close": 457.3,
-      "price": 457.3
+      "low": 451.4,
+      "close": 452.4,
+      "price": 452.4
     },
     "JP:9509.T": {
       "security_id": "JP:9509.T",
@@ -1230,14 +1230,14 @@
       "tv_symbol": "TSE:9509",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1095.5,
-      "high": 1113.5,
+      "high": 1124,
       "low": 1093,
-      "close": 1104,
-      "price": 1104
+      "close": 1121.5,
+      "price": 1121.5
     },
     "JP:9531.T": {
       "security_id": "JP:9531.T",
@@ -1249,14 +1249,14 @@
       "tv_symbol": "TSE:9531",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 6777,
       "high": 6846,
-      "low": 6737,
-      "close": 6779,
-      "price": 6779
+      "low": 6678,
+      "close": 6710,
+      "price": 6710
     },
     "JP:9984.T": {
       "security_id": "JP:9984.T",
@@ -1268,14 +1268,14 @@
       "tv_symbol": "TSE:9984",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-05T01:28:36.145651+00:00",
+      "observed_at_utc": "2026-11-05T04:14:27.126236+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 4215,
       "high": 4215,
       "low": 3930,
-      "close": 4052,
-      "price": 4052
+      "close": 4016,
+      "price": 4016
     }
   }
 }
