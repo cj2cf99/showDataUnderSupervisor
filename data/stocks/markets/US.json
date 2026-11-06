@@ -1,7 +1,7 @@
 {
   "schema": "public-stock-market/1",
   "market": "US",
-  "captured_at_utc": "2026-11-06T09:00:21.033277+00:00",
+  "captured_at_utc": "2026-11-06T10:25:49.040660+00:00",
   "quote_count": 54,
   "by_security_id": {
     "US:AAPL": {
@@ -14,7 +14,7 @@
       "tv_symbol": "NASDAQ:AAPL",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 353.89,
@@ -24,7 +24,8 @@
       "price": 344.17,
       "daily_return_pct": -1.527853280306708,
       "weekly_return_pct": -0.13347648202419393,
-      "monthly_return_pct": -0.13347648202419393
+      "monthly_return_pct": -0.13347648202419393,
+      "ytd_return_pct": 26.414574571633217
     },
     "US:ADBE": {
       "security_id": "US:ADBE",
@@ -36,7 +37,7 @@
       "tv_symbol": "NASDAQ:ADBE",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 250.59,
@@ -46,7 +47,8 @@
       "price": 246.44,
       "daily_return_pct": -0.820991629104955,
       "weekly_return_pct": -1.514606561962991,
-      "monthly_return_pct": -1.514606561962991
+      "monthly_return_pct": -1.514606561962991,
+      "ytd_return_pct": -29.72410351465032
     },
     "US:AMD": {
       "security_id": "US:AMD",
@@ -58,7 +60,7 @@
       "tv_symbol": "NASDAQ:AMD",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 452.5,
@@ -68,7 +70,8 @@
       "price": 404.4,
       "daily_return_pct": -17.26339048242563,
       "weekly_return_pct": -19.889064976228216,
-      "monthly_return_pct": -19.889064976228216
+      "monthly_return_pct": -19.889064976228216,
+      "ytd_return_pct": 84.74189127455458
     },
     "US:ARM": {
       "security_id": "US:ARM",
@@ -80,7 +83,7 @@
       "tv_symbol": "NASDAQ:ARM",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 172.05,
@@ -90,7 +93,8 @@
       "price": 166.72,
       "daily_return_pct": -13.076120959332643,
       "weekly_return_pct": -19.056173229111035,
-      "monthly_return_pct": -19.056173229111035
+      "monthly_return_pct": -19.056173229111035,
+      "ytd_return_pct": 47.76212000354516
     },
     "US:ASML": {
       "security_id": "US:ASML",
@@ -102,7 +106,7 @@
       "tv_symbol": "NASDAQ:ASML",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1434.26,
@@ -112,7 +116,8 @@
       "price": 1356.65,
       "daily_return_pct": -9.333021452917187,
       "weekly_return_pct": -13.36292228111629,
-      "monthly_return_pct": -13.36292228111629
+      "monthly_return_pct": -13.36292228111629,
+      "ytd_return_pct": 19.659363533728488
     },
     "US:AXP": {
       "security_id": "US:AXP",
@@ -124,7 +129,7 @@
       "tv_symbol": "NYSE:AXP",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 339.6,
@@ -134,7 +139,8 @@
       "price": 324.97,
       "daily_return_pct": -2.2911091734567934,
       "weekly_return_pct": 1.8363573689323474,
-      "monthly_return_pct": 1.8363573689323474
+      "monthly_return_pct": 1.8363573689323474,
+      "ytd_return_pct": -12.051420838971575
     },
     "US:BAC": {
       "security_id": "US:BAC",
@@ -146,7 +152,7 @@
       "tv_symbol": "NYSE:BAC",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 52.65,
@@ -156,7 +162,8 @@
       "price": 49.76,
       "daily_return_pct": -3.6219252372651645,
       "weekly_return_pct": -0.49990001999600087,
-      "monthly_return_pct": -0.49990001999600087
+      "monthly_return_pct": -0.49990001999600087,
+      "ytd_return_pct": -9.576594584771948
     },
     "US:BRK-B": {
       "security_id": "US:BRK-B",
@@ -168,7 +175,7 @@
       "tv_symbol": "NYSE:BRK.B",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 584.23,
@@ -178,7 +185,8 @@
       "price": 572.33,
       "daily_return_pct": -1.167348771348148,
       "weekly_return_pct": 5.500562222345118,
-      "monthly_return_pct": 5.500562222345118
+      "monthly_return_pct": 5.500562222345118,
+      "ytd_return_pct": 14.246646438837445
     },
     "US:COST": {
       "security_id": "US:COST",
@@ -190,7 +198,7 @@
       "tv_symbol": "NASDAQ:COST",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1070.99,
@@ -200,7 +208,8 @@
       "price": 1065.59,
       "daily_return_pct": 1.8270948999971226,
       "weekly_return_pct": 5.266329474058556,
-      "monthly_return_pct": 5.266329474058556
+      "monthly_return_pct": 5.266329474058556,
+      "ytd_return_pct": 23.741784146596363
     },
     "US:CRM": {
       "security_id": "US:CRM",
@@ -212,7 +221,7 @@
       "tv_symbol": "NYSE:CRM",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 229.055,
@@ -222,7 +231,8 @@
       "price": 222.41,
       "daily_return_pct": -2.0694817489322426,
       "weekly_return_pct": -2.9497752759959814,
-      "monthly_return_pct": -2.9497752759959814
+      "monthly_return_pct": -2.9497752759959814,
+      "ytd_return_pct": -16.071698113207546
     },
     "US:CRML": {
       "security_id": "US:CRML",
@@ -234,7 +244,7 @@
       "tv_symbol": "NASDAQ:CRML",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 6.185,
@@ -244,7 +254,8 @@
       "price": 5.59,
       "daily_return_pct": -12.244897959183678,
       "weekly_return_pct": -21.927374301675982,
-      "monthly_return_pct": -21.927374301675982
+      "monthly_return_pct": -21.927374301675982,
+      "ytd_return_pct": -21.267605633802813
     },
     "US:CRWD": {
       "security_id": "US:CRWD",
@@ -256,7 +267,7 @@
       "tv_symbol": "NASDAQ:CRWD",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 231.89,
@@ -266,7 +277,8 @@
       "price": 217.2,
       "daily_return_pct": -9.875518672199176,
       "weekly_return_pct": -13.26917701553329,
-      "monthly_return_pct": -13.26917701553329
+      "monthly_return_pct": -13.26917701553329,
+      "ytd_return_pct": 83.29113924050631
     },
     "US:CVX": {
       "security_id": "US:CVX",
@@ -278,7 +290,7 @@
       "tv_symbol": "NYSE:CVX",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 220.01,
@@ -288,7 +300,8 @@
       "price": 212.93,
       "daily_return_pct": -1.8574852507374635,
       "weekly_return_pct": -9.591542119565219,
-      "monthly_return_pct": -9.591542119565219
+      "monthly_return_pct": -9.591542119565219,
+      "ytd_return_pct": 39.93362468373149
     },
     "US:DDOG": {
       "security_id": "US:DDOG",
@@ -300,7 +313,7 @@
       "tv_symbol": "NASDAQ:DDOG",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 183,
@@ -310,7 +323,8 @@
       "price": 174.6,
       "daily_return_pct": -7.481983891479444,
       "weekly_return_pct": -25.787393207803806,
-      "monthly_return_pct": -25.787393207803806
+      "monthly_return_pct": -25.787393207803806,
+      "ytd_return_pct": 27.213114754098356
     },
     "US:DELL": {
       "security_id": "US:DELL",
@@ -322,7 +336,7 @@
       "tv_symbol": "NYSE:DELL",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 350,
@@ -332,7 +346,8 @@
       "price": 316.91,
       "daily_return_pct": -14.891502846707482,
       "weekly_return_pct": -25.309922224840907,
-      "monthly_return_pct": -25.309922224840907
+      "monthly_return_pct": -25.309922224840907,
+      "ytd_return_pct": 146.8146417445483
     },
     "US:DIS": {
       "security_id": "US:DIS",
@@ -344,7 +359,7 @@
       "tv_symbol": "NYSE:DIS",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 119.865,
@@ -354,7 +369,8 @@
       "price": 117.22,
       "daily_return_pct": -1.4543926019335889,
       "weekly_return_pct": 5.660717504957636,
-      "monthly_return_pct": 5.660717504957636
+      "monthly_return_pct": 5.660717504957636,
+      "ytd_return_pct": 3.3321579689703817
     },
     "US:DPZ": {
       "security_id": "US:DPZ",
@@ -366,7 +382,7 @@
       "tv_symbol": "NASDAQ:DPZ",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 343.9,
@@ -376,7 +392,8 @@
       "price": 341.63,
       "daily_return_pct": 0.27591065191229497,
       "weekly_return_pct": 8.899939434509585,
-      "monthly_return_pct": 8.899939434509585
+      "monthly_return_pct": 8.899939434509585,
+      "ytd_return_pct": -18.015358771298295
     },
     "US:GOOG": {
       "security_id": "US:GOOG",
@@ -388,7 +405,7 @@
       "tv_symbol": "NASDAQ:GOOG",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 291.805,
@@ -398,7 +415,8 @@
       "price": 281.74,
       "daily_return_pct": -1.9352593108249223,
       "weekly_return_pct": 1.2651858241679181,
-      "monthly_return_pct": 1.2651858241679181
+      "monthly_return_pct": 1.2651858241679181,
+      "ytd_return_pct": -11.288138795302109
     },
     "US:GS": {
       "security_id": "US:GS",
@@ -410,7 +428,7 @@
       "tv_symbol": "NYSE:GS",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 932.32,
@@ -420,7 +438,8 @@
       "price": 868.95,
       "daily_return_pct": -6.3631465517241335,
       "weekly_return_pct": -2.861774076351228,
-      "monthly_return_pct": -2.861774076351228
+      "monthly_return_pct": -2.861774076351228,
+      "ytd_return_pct": -1.7024886877828003
     },
     "US:IBM": {
       "security_id": "US:IBM",
@@ -432,7 +451,7 @@
       "tv_symbol": "NYSE:IBM",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 255.92,
@@ -442,7 +461,8 @@
       "price": 247.11,
       "daily_return_pct": -2.835011009751486,
       "weekly_return_pct": -4.150343276056006,
-      "monthly_return_pct": -4.150343276056006
+      "monthly_return_pct": -4.150343276056006,
+      "ytd_return_pct": -16.954563785455033
     },
     "US:INTC": {
       "security_id": "US:INTC",
@@ -454,7 +474,7 @@
       "tv_symbol": "NASDAQ:INTC",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 56.505,
@@ -464,7 +484,8 @@
       "price": 52.25,
       "daily_return_pct": -10.331216749613871,
       "weekly_return_pct": -20.544403892944047,
-      "monthly_return_pct": -20.544403892944047
+      "monthly_return_pct": -20.544403892944047,
+      "ytd_return_pct": 38.33730473921101
     },
     "US:JNJ": {
       "security_id": "US:JNJ",
@@ -476,7 +497,7 @@
       "tv_symbol": "NYSE:JNJ",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 278.915,
@@ -486,7 +507,8 @@
       "price": 272.32,
       "daily_return_pct": -1.447596988998263,
       "weekly_return_pct": -0.32210834553440537,
-      "monthly_return_pct": -0.32210834553440537
+      "monthly_return_pct": -0.32210834553440537,
+      "ytd_return_pct": 31.670051252296684
     },
     "US:JPM": {
       "security_id": "US:JPM",
@@ -498,7 +520,7 @@
       "tv_symbol": "NYSE:JPM",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 358.635,
@@ -508,7 +530,8 @@
       "price": 337.34,
       "daily_return_pct": -4.194711879810297,
       "weekly_return_pct": 0.08901020650366559,
-      "monthly_return_pct": 0.08901020650366559
+      "monthly_return_pct": 0.08901020650366559,
+      "ytd_return_pct": 4.601550387596891
     },
     "US:KO": {
       "security_id": "US:KO",
@@ -520,7 +543,7 @@
       "tv_symbol": "NYSE:KO",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 96.94,
@@ -530,7 +553,8 @@
       "price": 95.73,
       "daily_return_pct": -0.0730688935281766,
       "weekly_return_pct": 1.753826530612251,
-      "monthly_return_pct": 1.753826530612251
+      "monthly_return_pct": 1.753826530612251,
+      "ytd_return_pct": 37.05082319255549
     },
     "US:LLY": {
       "security_id": "US:LLY",
@@ -542,7 +566,7 @@
       "tv_symbol": "NYSE:LLY",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1434,
@@ -552,7 +576,8 @@
       "price": 1364.73,
       "daily_return_pct": -3.756020846409353,
       "weekly_return_pct": -3.7254680643932407,
-      "monthly_return_pct": -3.7254680643932407
+      "monthly_return_pct": -3.7254680643932407,
+      "ytd_return_pct": 26.78651059085841
     },
     "US:LMT": {
       "security_id": "US:LMT",
@@ -564,7 +589,7 @@
       "tv_symbol": "NYSE:LMT",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 588.8,
@@ -574,7 +599,8 @@
       "price": 576.16,
       "daily_return_pct": -3.1728959397687544,
       "weekly_return_pct": -9.543920244917196,
-      "monthly_return_pct": -9.543920244917196
+      "monthly_return_pct": -9.543920244917196,
+      "ytd_return_pct": 19.226073460941535
     },
     "US:MA": {
       "security_id": "US:MA",
@@ -586,7 +612,7 @@
       "tv_symbol": "NYSE:MA",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 680.01,
@@ -596,7 +622,8 @@
       "price": 655.92,
       "daily_return_pct": -2.4915264315870833,
       "weekly_return_pct": 2.807166031880373,
-      "monthly_return_pct": 2.807166031880373
+      "monthly_return_pct": 2.807166031880373,
+      "ytd_return_pct": 14.930525135357698
     },
     "US:MCD": {
       "security_id": "US:MCD",
@@ -608,7 +635,7 @@
       "tv_symbol": "NYSE:MCD",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 281,
@@ -618,7 +645,8 @@
       "price": 278.04,
       "daily_return_pct": -0.7779601741488853,
       "weekly_return_pct": 7.717340771734084,
-      "monthly_return_pct": 7.717340771734084
+      "monthly_return_pct": 7.717340771734084,
+      "ytd_return_pct": -8.925939270857217
     },
     "US:MDLN": {
       "security_id": "US:MDLN",
@@ -630,7 +658,7 @@
       "tv_symbol": "NASDAQ:MDLN",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 40.205,
@@ -640,7 +668,8 @@
       "price": 39.76,
       "daily_return_pct": -1.4622057001239241,
       "weekly_return_pct": 23.785803237858037,
-      "monthly_return_pct": 23.785803237858037
+      "monthly_return_pct": 23.785803237858037,
+      "ytd_return_pct": -5.130040563111426
     },
     "US:META": {
       "security_id": "US:META",
@@ -652,7 +681,7 @@
       "tv_symbol": "NASDAQ:META",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 632.3,
@@ -662,7 +691,8 @@
       "price": 605.08,
       "daily_return_pct": -3.955555555555549,
       "weekly_return_pct": -1.611408315582362,
-      "monthly_return_pct": -1.611408315582362
+      "monthly_return_pct": -1.611408315582362,
+      "ytd_return_pct": -8.698177977290728
     },
     "US:MSFT": {
       "security_id": "US:MSFT",
@@ -674,7 +704,7 @@
       "tv_symbol": "NASDAQ:MSFT",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 554.935,
@@ -684,7 +714,8 @@
       "price": 535.93,
       "daily_return_pct": -3.575026988125226,
       "weekly_return_pct": 2.68628690770439,
-      "monthly_return_pct": 2.68628690770439
+      "monthly_return_pct": 2.68628690770439,
+      "ytd_return_pct": 10.641328695149513
     },
     "US:MU": {
       "security_id": "US:MU",
@@ -696,7 +727,7 @@
       "tv_symbol": "NASDAQ:MU",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 752.69,
@@ -706,7 +737,8 @@
       "price": 656.39,
       "daily_return_pct": -17.459099883052705,
       "weekly_return_pct": -25.809842439586774,
-      "monthly_return_pct": -25.809842439586774
+      "monthly_return_pct": -25.809842439586774,
+      "ytd_return_pct": 122.41084286319357
     },
     "US:NET": {
       "security_id": "US:NET",
@@ -718,7 +750,7 @@
       "tv_symbol": "NYSE:NET",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 251.53,
@@ -728,7 +760,8 @@
       "price": 244.51,
       "daily_return_pct": -8.278940655713104,
       "weekly_return_pct": -12.892768079800499,
-      "monthly_return_pct": -12.892768079800499
+      "monthly_return_pct": -12.892768079800499,
+      "ytd_return_pct": 22.931121166415274
     },
     "US:NFLX": {
       "security_id": "US:NFLX",
@@ -740,7 +773,7 @@
       "tv_symbol": "NASDAQ:NFLX",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 67.285,
@@ -750,7 +783,8 @@
       "price": 65.56,
       "daily_return_pct": -1.2501882813676732,
       "weekly_return_pct": 5.60567010309279,
-      "monthly_return_pct": 5.60567010309279
+      "monthly_return_pct": 5.60567010309279,
+      "ytd_return_pct": -30.351641347073187
     },
     "US:NKE": {
       "security_id": "US:NKE",
@@ -762,7 +796,7 @@
       "tv_symbol": "NYSE:NKE",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 40.375,
@@ -772,7 +806,8 @@
       "price": 39.56,
       "daily_return_pct": -2.296863423067423,
       "weekly_return_pct": 2.301525730540472,
-      "monthly_return_pct": 2.301525730540472
+      "monthly_return_pct": 2.301525730540472,
+      "ytd_return_pct": -38.1875
     },
     "US:NOW": {
       "security_id": "US:NOW",
@@ -784,7 +819,7 @@
       "tv_symbol": "NYSE:NOW",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 108.355,
@@ -794,7 +829,8 @@
       "price": 102.36,
       "daily_return_pct": -5.9277639922801235,
       "weekly_return_pct": -2.6255707762557123,
-      "monthly_return_pct": -2.6255707762557123
+      "monthly_return_pct": -2.6255707762557123,
+      "ytd_return_pct": -33.133002351711525
     },
     "US:NVDA": {
       "security_id": "US:NVDA",
@@ -806,7 +842,7 @@
       "tv_symbol": "NASDAQ:NVDA",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 196.07,
@@ -816,7 +852,8 @@
       "price": 181.6,
       "daily_return_pct": -9.258981661919753,
       "weekly_return_pct": -11.258795934323688,
-      "monthly_return_pct": -11.258795934323688
+      "monthly_return_pct": -11.258795934323688,
+      "ytd_return_pct": -4.337977717491513
     },
     "US:NVO": {
       "security_id": "US:NVO",
@@ -828,7 +865,7 @@
       "tv_symbol": "NYSE:NVO",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 41.155,
@@ -838,7 +875,8 @@
       "price": 40.3,
       "daily_return_pct": -4.45708866761499,
       "weekly_return_pct": 0.7499999999999929,
-      "monthly_return_pct": 0.7499999999999929
+      "monthly_return_pct": 0.7499999999999929,
+      "ytd_return_pct": -21.914357682619652
     },
     "US:ORCL": {
       "security_id": "US:ORCL",
@@ -850,7 +888,7 @@
       "tv_symbol": "NYSE:ORCL",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 123,
@@ -860,7 +898,8 @@
       "price": 115.16,
       "daily_return_pct": -6.926371938899221,
       "weekly_return_pct": -11.869595163388682,
-      "monthly_return_pct": -11.869595163388682
+      "monthly_return_pct": -11.869595163388682,
+      "ytd_return_pct": -41.68228085278776
     },
     "US:PATH": {
       "security_id": "US:PATH",
@@ -872,7 +911,7 @@
       "tv_symbol": "NYSE:PATH",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 13.42,
@@ -882,7 +921,8 @@
       "price": 13.01,
       "daily_return_pct": -3.7009622501850483,
       "weekly_return_pct": -5.243991260014571,
-      "monthly_return_pct": -5.243991260014571
+      "monthly_return_pct": -5.243991260014571,
+      "ytd_return_pct": -21.151515151515152
     },
     "US:PAYP": {
       "security_id": "US:PAYP",
@@ -894,7 +934,7 @@
       "tv_symbol": "NASDAQ:PAYP",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 15.8,
@@ -904,7 +944,8 @@
       "price": 14.54,
       "daily_return_pct": -8.897243107769434,
       "weekly_return_pct": 3.635067712045615,
-      "monthly_return_pct": 3.635067712045615
+      "monthly_return_pct": 3.635067712045615,
+      "ytd_return_pct": -23.473684210526322
     },
     "US:PG": {
       "security_id": "US:PG",
@@ -916,7 +957,7 @@
       "tv_symbol": "NYSE:PG",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 169,
@@ -926,7 +967,8 @@
       "price": 167.1,
       "daily_return_pct": -0.13148458044465627,
       "weekly_return_pct": 3.4226650987188223,
-      "monthly_return_pct": 3.4226650987188223
+      "monthly_return_pct": 3.4226650987188223,
+      "ytd_return_pct": 16.76332890783312
     },
     "US:QCOM": {
       "security_id": "US:QCOM",
@@ -938,7 +980,7 @@
       "tv_symbol": "NASDAQ:QCOM",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 150.06,
@@ -948,7 +990,8 @@
       "price": 156.75,
       "daily_return_pct": -9.492464922917026,
       "weekly_return_pct": -4.878936828691057,
-      "monthly_return_pct": -4.878936828691057
+      "monthly_return_pct": -4.878936828691057,
+      "ytd_return_pct": -9.80908871218311
     },
     "US:QSR": {
       "security_id": "US:QSR",
@@ -960,7 +1003,7 @@
       "tv_symbol": "NYSE:QSR",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 78.89,
@@ -970,7 +1013,8 @@
       "price": 78.55,
       "daily_return_pct": 0.2168920643021201,
       "weekly_return_pct": 8.479491782902915,
-      "monthly_return_pct": 8.479491782902915
+      "monthly_return_pct": 8.479491782902915,
+      "ytd_return_pct": 15.480740958541606
     },
     "US:RDDT": {
       "security_id": "US:RDDT",
@@ -982,7 +1026,7 @@
       "tv_symbol": "NYSE:RDDT",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 101.63,
@@ -992,7 +1036,8 @@
       "price": 93.81,
       "daily_return_pct": -7.9301207184218265,
       "weekly_return_pct": 2.2675242559686013,
-      "monthly_return_pct": 2.2675242559686013
+      "monthly_return_pct": 2.2675242559686013,
+      "ytd_return_pct": -59.59600310104229
     },
     "US:SKHY": {
       "security_id": "US:SKHY",
@@ -1004,7 +1049,7 @@
       "tv_symbol": "NASDAQ:SKHY",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 133.285,
@@ -1014,7 +1059,8 @@
       "price": 123.9,
       "daily_return_pct": -13.399035437198567,
       "weekly_return_pct": -16.962670062328264,
-      "monthly_return_pct": -16.962670062328264
+      "monthly_return_pct": -16.962670062328264,
+      "ytd_return_pct": -27.117647058823525
     },
     "US:SMCI": {
       "security_id": "US:SMCI",
@@ -1026,7 +1072,7 @@
       "tv_symbol": "NASDAQ:SMCI",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 28.32,
@@ -1036,7 +1082,8 @@
       "price": 27.08,
       "daily_return_pct": -8.513513513513523,
       "weekly_return_pct": -17.814871016691967,
-      "monthly_return_pct": -17.814871016691967
+      "monthly_return_pct": -17.814871016691967,
+      "ytd_return_pct": -9.61281708945261
     },
     "US:SNDK": {
       "security_id": "US:SNDK",
@@ -1048,7 +1095,7 @@
       "tv_symbol": "NASDAQ:SNDK",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 962.248,
@@ -1058,7 +1105,8 @@
       "price": 806.43,
       "daily_return_pct": -22.264314632735697,
       "weekly_return_pct": -29.929880353465588,
-      "monthly_return_pct": -29.929880353465588
+      "monthly_return_pct": -29.929880353465588,
+      "ytd_return_pct": 230.0306936771025
     },
     "US:SPCX": {
       "security_id": "US:SPCX",
@@ -1070,7 +1118,7 @@
       "tv_symbol": "NASDAQ:SPCX",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 131.335,
@@ -1080,7 +1128,8 @@
       "price": 123.62,
       "daily_return_pct": -9.049440847557374,
       "weekly_return_pct": -8.239311163895483,
-      "monthly_return_pct": -8.239311163895483
+      "monthly_return_pct": -8.239311163895483,
+      "ytd_return_pct": -17.586666666666662
     },
     "US:TSLA": {
       "security_id": "US:TSLA",
@@ -1092,7 +1141,7 @@
       "tv_symbol": "NASDAQ:TSLA",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 374.12,
@@ -1102,7 +1151,8 @@
       "price": 343.69,
       "daily_return_pct": -10.773903787741116,
       "weekly_return_pct": -14.036667417023088,
-      "monthly_return_pct": -14.036667417023088
+      "monthly_return_pct": -14.036667417023088,
+      "ytd_return_pct": -24.92573176059415
     },
     "US:TSM": {
       "security_id": "US:TSM",
@@ -1114,7 +1164,7 @@
       "tv_symbol": "NYSE:TSM",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 379.75,
@@ -1124,7 +1174,8 @@
       "price": 353.1,
       "daily_return_pct": -10.777005685407449,
       "weekly_return_pct": -13.057395415261116,
-      "monthly_return_pct": -13.057395415261116
+      "monthly_return_pct": -13.057395415261116,
+      "ytd_return_pct": 13.180332072568754
     },
     "US:U": {
       "security_id": "US:U",
@@ -1136,7 +1187,7 @@
       "tv_symbol": "NYSE:U",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 48.059,
@@ -1146,7 +1197,8 @@
       "price": 48.8,
       "daily_return_pct": 14.931700423928392,
       "weekly_return_pct": 29.44297082228115,
-      "monthly_return_pct": 29.44297082228115
+      "monthly_return_pct": 29.44297082228115,
+      "ytd_return_pct": 7.964601769911491
     },
     "US:V": {
       "security_id": "US:V",
@@ -1158,7 +1210,7 @@
       "tv_symbol": "NYSE:V",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 440.8,
@@ -1168,7 +1220,8 @@
       "price": 422.59,
       "daily_return_pct": -3.2022356094097213,
       "weekly_return_pct": 2.1760680867525815,
-      "monthly_return_pct": 2.1760680867525815
+      "monthly_return_pct": 2.1760680867525815,
+      "ytd_return_pct": 20.78486294909537
     },
     "US:WMT": {
       "security_id": "US:WMT",
@@ -1180,7 +1233,7 @@
       "tv_symbol": "NASDAQ:WMT",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
+      "observed_at_utc": "2026-11-06T10:25:49.040660+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 130.895,
@@ -1190,7 +1243,8 @@
       "price": 127.72,
       "daily_return_pct": -1.1225516760857697,
       "weekly_return_pct": 3.408630880090676,
-      "monthly_return_pct": 3.408630880090676
+      "monthly_return_pct": 3.408630880090676,
+      "ytd_return_pct": 14.624186672649767
     }
   }
 }
