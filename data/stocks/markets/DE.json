@@ -1,7 +1,7 @@
 {
   "schema": "public-stock-market/1",
   "market": "DE",
-  "captured_at_utc": "2026-11-06T07:00:19.342634+00:00",
+  "captured_at_utc": "2026-11-06T09:00:21.033277+00:00",
   "quote_count": 1,
   "by_security_id": {
     "DE:SIE.DE": {
@@ -14,17 +14,17 @@
       "tv_symbol": "XETR:SIE",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T07:00:19.342634+00:00",
+      "observed_at_utc": "2026-11-06T09:00:21.033277+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 274.8,
-      "high": 280.4,
-      "low": 268.9,
-      "close": 273.25,
-      "price": 273.25,
-      "daily_return_pct": -0.8706693270451578,
-      "weekly_return_pct": 2.8609072087333045,
-      "monthly_return_pct": 2.8609072087333045
+      "open": 269.15,
+      "high": 270.25,
+      "low": 266.95,
+      "close": 269.95,
+      "price": 269.95,
+      "daily_return_pct": -1.2076852698993639,
+      "weekly_return_pct": 1.6374929418407767,
+      "monthly_return_pct": 1.6374929418407767
     }
   }
 }
