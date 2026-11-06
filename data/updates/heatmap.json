@@ -1,7 +1,7 @@
 {
   "schema": "heatmap-updates/1",
   "metadata": {
-    "collected_at_jst": "2026-11-06T18:00:30.219877+09:00",
+    "collected_at_jst": "2026-11-06T19:25:55.718002+09:00",
     "status": "complete_parse",
     "source_timestamp_verified": false,
     "coverage": {
@@ -851,6 +851,7 @@
       "daily_return_pct": -5.964502908427438,
       "weekly_return_pct": -9.251382803793785,
       "monthly_return_pct": -9.251382803793785,
+      "ytd_return_pct": 12.594363332253808,
       "daily_return_source": "TradingView_same_response",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
       "source_trade_date_verified": false,
@@ -871,6 +872,7 @@
       "daily_return_pct": -4.35565810249434,
       "weekly_return_pct": -2.9859882560451307,
       "monthly_return_pct": -2.9859882560451307,
+      "ytd_return_pct": 6.914981004956301,
       "daily_return_source": "TradingView_same_response",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
       "source_trade_date_verified": false,
@@ -891,6 +893,7 @@
       "daily_return_pct": -5.523343733110331,
       "weekly_return_pct": -4.410902864931557,
       "monthly_return_pct": -4.410902864931557,
+      "ytd_return_pct": 3.5496218083338125,
       "daily_return_source": "TradingView_same_response",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
       "source_trade_date_verified": false,
@@ -939,7 +942,7 @@
       "open": 4.835,
       "high": 4.859,
       "low": 4.818,
-      "close": 4.835,
+      "close": 4.847,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified"
     },
@@ -948,7 +951,7 @@
       "open": 2.677,
       "high": 2.69,
       "low": 2.604,
-      "close": 2.631,
+      "close": 2.636,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified"
     },
@@ -956,35 +959,35 @@
       "source": "tradingview_scanner",
       "open": 27.68,
       "high": 27.68,
-      "low": 26.84,
-      "close": 26.86,
+      "low": 25.38,
+      "close": 26.54,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified"
     },
     "usdjpy": {
       "source": "tradingview_scanner",
       "open": 157.671,
-      "high": 158.17,
+      "high": 158.379,
       "low": 157.257,
-      "close": 158.165,
+      "close": 158.29399999999998,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified"
     },
     "usdcny": {
       "source": "tradingview_scanner",
       "open": 6.6677,
-      "high": 6.6706,
+      "high": 6.671,
       "low": 6.6677,
-      "close": 6.6695,
+      "close": 6.6706,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified"
     },
     "cnyjpy": {
       "source": "tradingview_scanner",
       "open": 23.631,
-      "high": 23.694,
+      "high": 23.717,
       "low": 23.593,
-      "close": 23.69,
+      "close": 23.708,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified"
     },
@@ -993,7 +996,7 @@
       "open": 4098.5,
       "high": 4116.2,
       "low": 4044.5,
-      "close": 4082,
+      "close": 4076.9,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified"
     },
@@ -1001,8 +1004,8 @@
       "source": "tradingview_scanner",
       "open": 91.2,
       "high": 92.53,
-      "low": 89.53,
-      "close": 89.85,
+      "low": 89.07,
+      "close": 89.89,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified"
     },
