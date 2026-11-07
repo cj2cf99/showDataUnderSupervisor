@@ -1,7 +1,7 @@
 {
   "schema": "heatmap-updates/1",
   "metadata": {
-    "collected_at_jst": "2026-11-07T08:00:27.397458+09:00",
+    "collected_at_jst": "2026-11-07T18:46:59.247736+09:00",
     "status": "complete_parse",
     "source_timestamp_verified": false,
     "coverage": {
@@ -43,6 +43,15 @@
       "previous_close": 713.21,
       "daily_change_abs": -45.29,
       "daily_return_pct": -6.35,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 667.92,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -61,6 +70,15 @@
       "previous_close": 1039.26,
       "daily_change_abs": -48.58,
       "daily_return_pct": -4.67,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 990.68,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -79,6 +97,15 @@
       "previous_close": 2486.58,
       "daily_change_abs": -153.49,
       "daily_return_pct": -6.17,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 2333.09,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -97,6 +124,15 @@
       "previous_close": 3114.89,
       "daily_change_abs": -311.97,
       "daily_return_pct": -10.02,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 2802.92,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -115,6 +151,15 @@
       "previous_close": 994.67,
       "daily_change_abs": -43.89,
       "daily_return_pct": -4.41,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 950.78,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -133,6 +178,15 @@
       "previous_close": 685.53,
       "daily_change_abs": -41.5,
       "daily_return_pct": -6.05,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 644.03,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -151,6 +205,15 @@
       "previous_close": 3023.66,
       "daily_change_abs": -171.77,
       "daily_return_pct": -5.68,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 2851.89,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -169,6 +232,15 @@
       "previous_close": 4469.42,
       "daily_change_abs": -288.79,
       "daily_return_pct": -6.46,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 4180.63,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -187,6 +259,15 @@
       "previous_close": 2763.78,
       "daily_change_abs": -231.58,
       "daily_return_pct": -8.38,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 2532.2,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -205,6 +286,15 @@
       "previous_close": 6514.93,
       "daily_change_abs": -276.4,
       "daily_return_pct": -4.24,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 6238.53,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -223,6 +313,15 @@
       "previous_close": 2007.54,
       "daily_change_abs": -106.54,
       "daily_return_pct": -5.31,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 1901.0,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -241,6 +340,15 @@
       "previous_close": 792.31,
       "daily_change_abs": -21.48,
       "daily_return_pct": -2.71,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 770.83,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -259,6 +367,15 @@
       "previous_close": 3900.01,
       "daily_change_abs": -280.31,
       "daily_return_pct": -7.19,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 3619.7,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -277,6 +394,15 @@
       "previous_close": 1751.02,
       "daily_change_abs": -87.42,
       "daily_return_pct": -4.99,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 1663.6,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -295,6 +421,15 @@
       "previous_close": 4100.29,
       "daily_change_abs": -197.68,
       "daily_return_pct": -4.82,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 3902.61,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -313,6 +448,15 @@
       "previous_close": 7151.88,
       "daily_change_abs": -346.44,
       "daily_return_pct": -4.84,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 6805.44,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -331,6 +475,15 @@
       "previous_close": 5388.3,
       "daily_change_abs": -290.1,
       "daily_return_pct": -5.38,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 5098.2,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -349,6 +502,15 @@
       "previous_close": 13911.06,
       "daily_change_abs": -870.88,
       "daily_return_pct": -6.26,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 13040.18,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -367,6 +529,15 @@
       "previous_close": 6879.9,
       "daily_change_abs": -474.83,
       "daily_return_pct": -6.9,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 6405.07,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -385,6 +556,15 @@
       "previous_close": 719.44,
       "daily_change_abs": -45.45,
       "daily_return_pct": -6.32,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 673.99,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -403,6 +583,15 @@
       "previous_close": 2484.92,
       "daily_change_abs": -119.55,
       "daily_return_pct": -4.81,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 2365.37,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -421,6 +610,15 @@
       "previous_close": 2573.81,
       "daily_change_abs": -150.18,
       "daily_return_pct": -5.83,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 2423.63,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -439,6 +637,15 @@
       "previous_close": 272.85,
       "daily_change_abs": -9.41,
       "daily_return_pct": -3.45,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 263.44,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -457,6 +664,15 @@
       "previous_close": 4442.72,
       "daily_change_abs": -177.31,
       "daily_return_pct": -3.99,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 4265.41,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -475,6 +691,15 @@
       "previous_close": 7827.92,
       "daily_change_abs": -437.42,
       "daily_return_pct": -5.59,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 7390.5,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -493,6 +718,15 @@
       "previous_close": 6301.45,
       "daily_change_abs": -434.07,
       "daily_return_pct": -6.89,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 5867.38,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -511,6 +745,15 @@
       "previous_close": 2519.87,
       "daily_change_abs": -133.63,
       "daily_return_pct": -5.3,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 2386.24,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -529,6 +772,15 @@
       "previous_close": 701.56,
       "daily_change_abs": -45.56,
       "daily_return_pct": -6.49,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 656.0,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -547,6 +799,15 @@
       "previous_close": 948.53,
       "daily_change_abs": -67.14,
       "daily_return_pct": -7.08,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 881.39,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -565,6 +826,15 @@
       "previous_close": 4367.1,
       "daily_change_abs": -283.92,
       "daily_return_pct": -6.5,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 4083.18,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -583,6 +853,15 @@
       "previous_close": 1508.64,
       "daily_change_abs": -95.12,
       "daily_return_pct": -6.31,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 1413.52,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -601,6 +880,15 @@
       "previous_close": 2709.2,
       "daily_change_abs": -196.85,
       "daily_return_pct": -7.27,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 2512.35,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -619,6 +907,15 @@
       "previous_close": 4807.42,
       "daily_change_abs": -261.93,
       "daily_return_pct": -5.45,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 4545.49,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -637,6 +934,39 @@
       "previous_close": 3940.39,
       "daily_change_abs": -232.4,
       "daily_return_pct": -5.9,
+      "weekly_return_pct": -6.4836181958956685,
+      "monthly_return_pct": -6.4836181958956685,
+      "ytd_return_pct": 8.771564431485167,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 3707.99,
+          "retained": false
+        },
+        "weekly_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 3707.99,
+          "retained": true
+        },
+        "monthly_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 3707.99,
+          "retained": true
+        },
+        "ytd_return_pct": {
+          "source": "JPX_JSON / JPX_TOPIX_price_year_end:2025-12-30:3408.97 / https://www.jpx.co.jp/markets/statistics-equities/monthly/t13vrt00000178b0-att/03_sisu2604.pdf",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 3707.99,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -655,6 +985,15 @@
       "previous_close": 1642.24,
       "daily_change_abs": -98.16,
       "daily_return_pct": -5.98,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "JPX_JSON",
+          "quote_as_of": "2026-11-06T16:59:00+09:00",
+          "trade_date": "2026-11-06",
+          "reference_price": 1544.08,
+          "retained": false
+        }
+      },
       "daily_return_source": "JPX_previousDayComparison_previousDayRatio",
       "daily_return_status": "valid_source_daily_change_trade_date_verified",
       "source_trade_date_verified": true,
@@ -673,6 +1012,15 @@
       "previous_close": 6224.03,
       "daily_change_abs": 78.37,
       "daily_return_pct": 1.2591520285088582,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 6302.4,
+          "retained": false
+        }
+      },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
       "daily_close": 6302.4,
@@ -689,6 +1037,15 @@
       "previous_close": 405.71,
       "daily_change_abs": 2.09,
       "daily_return_pct": 0.515146286756558,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 407.8,
+          "retained": false
+        }
+      },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
       "daily_close": 407.8,
@@ -705,6 +1062,15 @@
       "previous_close": 1926.73,
       "daily_change_abs": 1.44,
       "daily_return_pct": 0.07473802764269277,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 1928.17,
+          "retained": false
+        }
+      },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
       "daily_close": 1928.17,
@@ -721,6 +1087,15 @@
       "previous_close": 1024.93,
       "daily_change_abs": -12.44,
       "daily_return_pct": -1.2137414262437487,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 1012.49,
+          "retained": false
+        }
+      },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
       "daily_close": 1012.49,
@@ -737,6 +1112,15 @@
       "previous_close": 2155.33,
       "daily_change_abs": -2.36,
       "daily_return_pct": -0.10949599365295001,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 2152.97,
+          "retained": false
+        }
+      },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
       "daily_close": 2152.97,
@@ -753,6 +1137,15 @@
       "previous_close": 956.59,
       "daily_change_abs": -6.48,
       "daily_return_pct": -0.6774062032845857,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 950.11,
+          "retained": false
+        }
+      },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
       "daily_close": 950.11,
@@ -769,6 +1162,15 @@
       "previous_close": 1374.82,
       "daily_change_abs": 1.79,
       "daily_return_pct": 0.13019886239652925,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 1376.61,
+          "retained": false
+        }
+      },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
       "daily_close": 1376.61,
@@ -785,6 +1187,15 @@
       "previous_close": 948.77,
       "daily_change_abs": -0.66,
       "daily_return_pct": -0.0695637509617682,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 948.11,
+          "retained": false
+        }
+      },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
       "daily_close": 948.11,
@@ -801,6 +1212,15 @@
       "previous_close": 658.89,
       "daily_change_abs": -3.86,
       "daily_return_pct": -0.5858337507019402,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 655.03,
+          "retained": false
+        }
+      },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
       "daily_close": 655.03,
@@ -817,6 +1237,15 @@
       "previous_close": 439.82,
       "daily_change_abs": -1.86,
       "daily_return_pct": -0.42290027738620656,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 437.96,
+          "retained": false
+        }
+      },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
       "daily_close": 437.96,
@@ -833,6 +1262,15 @@
       "previous_close": 282.06,
       "daily_change_abs": -1.81,
       "daily_return_pct": -0.6417074381337312,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 280.25,
+          "retained": false
+        }
+      },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
       "daily_close": 280.25,
@@ -852,6 +1290,36 @@
       "weekly_return_pct": -9.251382803793785,
       "monthly_return_pct": -9.251382803793785,
       "ytd_return_pct": 12.594363332253808,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 57434.7,
+          "retained": false
+        },
+        "weekly_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 57434.7,
+          "retained": false
+        },
+        "monthly_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 57434.7,
+          "retained": false
+        },
+        "ytd_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 57434.7,
+          "retained": false
+        }
+      },
       "daily_return_source": "TradingView_same_response",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
       "source_trade_date_verified": false,
@@ -873,6 +1341,36 @@
       "weekly_return_pct": -2.680845955248435,
       "monthly_return_pct": -2.680845955248435,
       "ytd_return_pct": 7.251265245830614,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 7376.86,
+          "retained": false
+        },
+        "weekly_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 7376.86,
+          "retained": false
+        },
+        "monthly_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 7376.86,
+          "retained": false
+        },
+        "ytd_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 7376.86,
+          "retained": false
+        }
+      },
       "daily_return_source": "TradingView_same_response",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
       "source_trade_date_verified": false,
@@ -894,6 +1392,36 @@
       "weekly_return_pct": -3.371363947002766,
       "monthly_return_pct": -3.371363947002766,
       "ytd_return_pct": 4.675732055556557,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 24579.4248,
+          "retained": false
+        },
+        "weekly_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 24579.4248,
+          "retained": false
+        },
+        "monthly_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 24579.4248,
+          "retained": false
+        },
+        "ytd_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 24579.4248,
+          "retained": false
+        }
+      },
       "daily_return_source": "TradingView_same_response",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
       "source_trade_date_verified": false,
@@ -1085,7 +1613,7 @@
       "rating": "extreme fear",
       "rating_zh": "极度恐惧",
       "change_points": 2.2,
-      "as_of": "2026-11-06T21:37:09+00:00"
+      "as_of": "2026-11-06T23:59:54+00:00"
     },
     "cape": {
       "value": 38.91,
