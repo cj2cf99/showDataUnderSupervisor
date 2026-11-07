@@ -1,7 +1,7 @@
 {
   "schema": "public-stock-market/1",
   "market": "DE",
-  "captured_at_utc": "2026-11-06T23:00:21.549249+00:00",
+  "captured_at_utc": "2026-11-07T11:00:19.981815+00:00",
   "quote_count": 1,
   "by_security_id": {
     "DE:SIE.DE": {
@@ -14,7 +14,7 @@
       "tv_symbol": "XETR:SIE",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-06T23:00:21.549249+00:00",
+      "observed_at_utc": "2026-11-07T11:00:19.981815+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 269.15,
@@ -25,7 +25,37 @@
       "daily_return_pct": -3.5132662397072365,
       "weekly_return_pct": -0.7528703180877094,
       "monthly_return_pct": -0.7528703180877094,
-      "ytd_return_pct": 10.33689056287926
+      "ytd_return_pct": 10.33689056287926,
+      "return_provenance": {
+        "daily_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 263.65,
+          "retained": false
+        },
+        "weekly_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 263.65,
+          "retained": false
+        },
+        "monthly_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 263.65,
+          "retained": false
+        },
+        "ytd_return_pct": {
+          "source": "tradingview_scanner",
+          "quote_as_of": null,
+          "trade_date": null,
+          "reference_price": 263.65,
+          "retained": false
+        }
+      }
     }
   }
 }
