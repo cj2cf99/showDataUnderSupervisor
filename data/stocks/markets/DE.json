@@ -1,7 +1,7 @@
 {
   "schema": "public-stock-market/1",
   "market": "DE",
-  "captured_at_utc": "2026-11-10T17:10:20.677707+00:00",
+  "captured_at_utc": "2026-11-10T19:00:21.758936+00:00",
   "quote_count": 1,
   "by_security_id": {
     "DE:SIE.DE": {
@@ -14,7 +14,7 @@
       "tv_symbol": "XETR:SIE",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-10T17:10:20.677707+00:00",
+      "observed_at_utc": "2026-11-10T19:00:21.758936+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 274.1,
