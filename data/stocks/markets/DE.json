@@ -1,7 +1,7 @@
 {
   "schema": "public-stock-market/1",
   "market": "DE",
-  "captured_at_utc": "2026-11-12T09:00:22.160271+00:00",
+  "captured_at_utc": "2026-11-12T11:00:23.740989+00:00",
   "quote_count": 1,
   "by_security_id": {
     "DE:SIE.DE": {
@@ -14,45 +14,45 @@
       "tv_symbol": "XETR:SIE",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-12T09:00:22.160271+00:00",
+      "observed_at_utc": "2026-11-12T11:00:23.740989+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 287,
       "high": 291.45,
-      "low": 286.35,
-      "close": 288.7,
-      "price": 288.7,
-      "daily_return_pct": 4.22382671480144,
-      "weekly_return_pct": 9.501232694860615,
-      "monthly_return_pct": 8.676830415960856,
-      "ytd_return_pct": 20.82025528353212,
+      "low": 285.35,
+      "close": 286.1,
+      "price": 286.1,
+      "daily_return_pct": 3.285198555956687,
+      "weekly_return_pct": 8.515076806372102,
+      "monthly_return_pct": 7.698099002446847,
+      "ytd_return_pct": 19.73216154007116,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 288.7,
+          "reference_price": 286.1,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 288.7,
+          "reference_price": 286.1,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 288.7,
+          "reference_price": 286.1,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 288.7,
+          "reference_price": 286.1,
           "retained": false
         }
       }
