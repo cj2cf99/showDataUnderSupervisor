@@ -1,7 +1,7 @@
 {
   "schema": "public-stock-market/1",
   "market": "DE",
-  "captured_at_utc": "2026-11-13T11:00:21.724525+00:00",
+  "captured_at_utc": "2026-11-13T13:00:18.906619+00:00",
   "quote_count": 1,
   "by_security_id": {
     "DE:SIE.DE": {
@@ -14,45 +14,45 @@
       "tv_symbol": "XETR:SIE",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-13T11:00:21.724525+00:00",
+      "observed_at_utc": "2026-11-13T13:00:18.906619+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 278.9,
       "high": 280.1,
       "low": 274.6,
-      "close": 278.3,
-      "price": 278.3,
-      "daily_return_pct": -1.2069577564785152,
-      "weekly_return_pct": 5.556609140906518,
-      "monthly_return_pct": 4.761904761904775,
-      "ytd_return_pct": 16.46788030968823,
+      "close": 277.25,
+      "price": 277.25,
+      "daily_return_pct": -1.579694710685122,
+      "weekly_return_pct": 5.158353878247686,
+      "monthly_return_pct": 4.366647844908724,
+      "ytd_return_pct": 16.028457836367444,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 278.3,
+          "reference_price": 277.25,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 278.3,
+          "reference_price": 277.25,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 278.3,
+          "reference_price": 277.25,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 278.3,
+          "reference_price": 277.25,
           "retained": false
         }
       }
