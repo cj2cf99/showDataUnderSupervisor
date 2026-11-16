@@ -1,7 +1,7 @@
 {
   "schema": "public-stock-market/1",
   "market": "JP",
-  "captured_at_utc": "2026-11-16T05:00:22.458817+00:00",
+  "captured_at_utc": "2026-11-16T07:00:22.390312+00:00",
   "quote_count": 68,
   "by_security_id": {
     "JP:1605.T": {
@@ -14,45 +14,45 @@
       "tv_symbol": "TSE:1605",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3649,
       "high": 3670,
       "low": 3624,
-      "close": 3640,
-      "price": 3640,
-      "daily_return_pct": 0.27548209366391185,
-      "weekly_return_pct": 0.27548209366391185,
-      "monthly_return_pct": -10.45510455104551,
-      "ytd_return_pct": 15.409004438807862,
+      "close": 3670,
+      "price": 3670,
+      "daily_return_pct": 1.1019283746556474,
+      "weekly_return_pct": 1.1019283746556474,
+      "monthly_return_pct": -9.71709717097171,
+      "ytd_return_pct": 16.36017755231452,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3640,
+          "reference_price": 3670,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3640,
+          "reference_price": 3670,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3640,
+          "reference_price": 3670,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3640,
+          "reference_price": 3670,
           "retained": false
         }
       }
@@ -67,45 +67,45 @@
       "tv_symbol": "TSE:1928",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3614,
       "high": 3655,
       "low": 3613,
-      "close": 3646,
-      "price": 3646,
-      "daily_return_pct": 0.8017694221730716,
-      "weekly_return_pct": 0.8017694221730716,
-      "monthly_return_pct": 4.7099368179207355,
-      "ytd_return_pct": 3.2568677428490513,
+      "close": 3637,
+      "price": 3637,
+      "daily_return_pct": 0.5529444290848771,
+      "weekly_return_pct": 0.5529444290848771,
+      "monthly_return_pct": 4.451464675473866,
+      "ytd_return_pct": 3.0019824412347775,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3646,
+          "reference_price": 3637,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3646,
+          "reference_price": 3637,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3646,
+          "reference_price": 3637,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3646,
+          "reference_price": 3637,
           "retained": false
         }
       }
@@ -120,45 +120,45 @@
       "tv_symbol": "TSE:2212",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 4200,
-      "high": 4250,
+      "high": 4256,
       "low": 4175,
-      "close": 4244,
-      "price": 4244,
-      "daily_return_pct": 1.6770483948251078,
-      "weekly_return_pct": 1.6770483948251078,
-      "monthly_return_pct": 8.375893769152196,
-      "ytd_return_pct": 29.350807680585188,
+      "close": 4234,
+      "price": 4234,
+      "daily_return_pct": 1.4374700527072353,
+      "weekly_return_pct": 1.4374700527072353,
+      "monthly_return_pct": 8.12053115423902,
+      "ytd_return_pct": 29.04602255409936,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 4244,
+          "reference_price": 4234,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 4244,
+          "reference_price": 4234,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 4244,
+          "reference_price": 4234,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 4244,
+          "reference_price": 4234,
           "retained": false
         }
       }
@@ -173,45 +173,45 @@
       "tv_symbol": "TSE:2282",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 2034,
-      "high": 2052,
+      "high": 2055,
       "low": 2026.5,
-      "close": 2047.5,
-      "price": 2047.5,
-      "daily_return_pct": 1.5876953609526172,
-      "weekly_return_pct": 1.5876953609526172,
-      "monthly_return_pct": -0.8234439331557277,
-      "ytd_return_pct": -6.3214875488027955,
+      "close": 2050,
+      "price": 2050,
+      "daily_return_pct": 1.7117340610270406,
+      "weekly_return_pct": 1.7117340610270406,
+      "monthly_return_pct": -0.7023492371034149,
+      "ytd_return_pct": -6.207105970718306,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2047.5,
+          "reference_price": 2050,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2047.5,
+          "reference_price": 2050,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2047.5,
+          "reference_price": 2050,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2047.5,
+          "reference_price": 2050,
           "retained": false
         }
       }
@@ -226,45 +226,45 @@
       "tv_symbol": "TSE:2502",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1818,
-      "high": 1844,
+      "high": 1854,
       "low": 1800,
-      "close": 1841.5,
-      "price": 1841.5,
-      "daily_return_pct": 2.0221606648199444,
-      "weekly_return_pct": 2.0221606648199444,
-      "monthly_return_pct": 11.572250833080885,
-      "ytd_return_pct": 11.538461538461538,
+      "close": 1844,
+      "price": 1844,
+      "daily_return_pct": 2.160664819944598,
+      "weekly_return_pct": 2.160664819944598,
+      "monthly_return_pct": 11.72372008482278,
+      "ytd_return_pct": 11.689884918231375,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1841.5,
+          "reference_price": 1844,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1841.5,
+          "reference_price": 1844,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1841.5,
+          "reference_price": 1844,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1841.5,
+          "reference_price": 1844,
           "retained": false
         }
       }
@@ -279,45 +279,45 @@
       "tv_symbol": "TSE:2503",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3122,
-      "high": 3199,
+      "high": 3214,
       "low": 3113,
-      "close": 3191,
-      "price": 3191,
-      "daily_return_pct": 2.2756410256410255,
-      "weekly_return_pct": 2.2756410256410255,
-      "monthly_return_pct": 10.357945702922358,
-      "ytd_return_pct": 35.49893842887474,
+      "close": 3206,
+      "price": 3206,
+      "daily_return_pct": 2.7564102564102564,
+      "weekly_return_pct": 2.7564102564102564,
+      "monthly_return_pct": 10.87670759121563,
+      "ytd_return_pct": 36.13588110403397,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3191,
+          "reference_price": 3206,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3191,
+          "reference_price": 3206,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3191,
+          "reference_price": 3206,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3191,
+          "reference_price": 3206,
           "retained": false
         }
       }
@@ -332,45 +332,45 @@
       "tv_symbol": "TSE:2802",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 4216,
       "high": 4224,
-      "low": 4123,
-      "close": 4134,
-      "price": 4134,
-      "daily_return_pct": -2.2001419446415897,
-      "weekly_return_pct": -2.2001419446415897,
-      "monthly_return_pct": -19.226260257913246,
-      "ytd_return_pct": 23.402985074626866,
+      "low": 4091,
+      "close": 4119,
+      "price": 4119,
+      "daily_return_pct": -2.55500354861604,
+      "weekly_return_pct": -2.55500354861604,
+      "monthly_return_pct": -19.519343493552167,
+      "ytd_return_pct": 22.955223880597014,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 4134,
+          "reference_price": 4119,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 4134,
+          "reference_price": 4119,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 4134,
+          "reference_price": 4119,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 4134,
+          "reference_price": 4119,
           "retained": false
         }
       }
@@ -385,45 +385,45 @@
       "tv_symbol": "TSE:285A",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 9092,
       "high": 9170,
-      "low": 8333,
-      "close": 8401,
-      "price": 8401,
-      "daily_return_pct": -7.589924100758992,
-      "weekly_return_pct": -7.589924100758992,
-      "monthly_return_pct": -37.63177431328879,
-      "ytd_return_pct": 122.052865656652,
+      "low": 8307,
+      "close": 8392,
+      "price": 8392,
+      "daily_return_pct": -7.688923110768893,
+      "weekly_return_pct": -7.688923110768893,
+      "monthly_return_pct": -37.69858945805494,
+      "ytd_return_pct": 121.81498019171808,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 8401,
+          "reference_price": 8392,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 8401,
+          "reference_price": 8392,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 8401,
+          "reference_price": 8392,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 8401,
+          "reference_price": 8392,
           "retained": false
         }
       }
@@ -438,45 +438,45 @@
       "tv_symbol": "TSE:2897",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 2973.5,
       "high": 2998,
       "low": 2948,
-      "close": 2979,
-      "price": 2979,
-      "daily_return_pct": 0.21867115222876368,
-      "weekly_return_pct": 0.21867115222876368,
-      "monthly_return_pct": -2.0065789473684212,
-      "ytd_return_pct": 2.3008241758241756,
+      "close": 2995,
+      "price": 2995,
+      "daily_return_pct": 0.7569386038687973,
+      "weekly_return_pct": 0.7569386038687973,
+      "monthly_return_pct": -1.4802631578947367,
+      "ytd_return_pct": 2.8502747252747254,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2979,
+          "reference_price": 2995,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2979,
+          "reference_price": 2995,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2979,
+          "reference_price": 2995,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2979,
+          "reference_price": 2995,
           "retained": false
         }
       }
@@ -491,45 +491,45 @@
       "tv_symbol": "TSE:2914",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 5950,
       "high": 5976,
       "low": 5697,
-      "close": 5911,
-      "price": 5911,
-      "daily_return_pct": -0.5551816958277255,
-      "weekly_return_pct": -0.5551816958277255,
-      "monthly_return_pct": -18.435214571546847,
-      "ytd_return_pct": 4.823550274871431,
+      "close": 5913,
+      "price": 5913,
+      "daily_return_pct": -0.5215343203230148,
+      "weekly_return_pct": -0.5215343203230148,
+      "monthly_return_pct": -18.407616944942735,
+      "ytd_return_pct": 4.859017556304309,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5911,
+          "reference_price": 5913,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5911,
+          "reference_price": 5913,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5911,
+          "reference_price": 5913,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5911,
+          "reference_price": 5913,
           "retained": false
         }
       }
@@ -544,45 +544,45 @@
       "tv_symbol": "TSE:3038",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3185,
-      "high": 3263,
+      "high": 3266,
       "low": 3185,
-      "close": 3257,
-      "price": 3257,
-      "daily_return_pct": 3.4953924372418177,
-      "weekly_return_pct": 3.4953924372418177,
-      "monthly_return_pct": 11.04670985339243,
-      "ytd_return_pct": -14.805126863719591,
+      "close": 3266,
+      "price": 3266,
+      "daily_return_pct": 3.7813790911979663,
+      "weekly_return_pct": 3.7813790911979663,
+      "monthly_return_pct": 11.353562904875554,
+      "ytd_return_pct": -14.569709652105676,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3257,
+          "reference_price": 3266,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3257,
+          "reference_price": 3266,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3257,
+          "reference_price": 3266,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3257,
+          "reference_price": 3266,
           "retained": false
         }
       }
@@ -597,45 +597,45 @@
       "tv_symbol": "TSE:3231",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 924,
       "high": 932.8,
       "low": 921.3,
-      "close": 931.7,
-      "price": 931.7,
-      "daily_return_pct": 0.5612520237452828,
-      "weekly_return_pct": 0.5612520237452828,
-      "monthly_return_pct": 5.027618081388797,
-      "ytd_return_pct": -3.948453608247418,
+      "close": 931,
+      "price": 931,
+      "daily_return_pct": 0.48569886670264434,
+      "weekly_return_pct": 0.48569886670264434,
+      "monthly_return_pct": 4.948709277420807,
+      "ytd_return_pct": -4.020618556701031,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 931.7,
+          "reference_price": 931,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 931.7,
+          "reference_price": 931,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 931.7,
+          "reference_price": 931,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 931.7,
+          "reference_price": 931,
           "retained": false
         }
       }
@@ -650,45 +650,45 @@
       "tv_symbol": "TSE:4063",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 5703,
       "high": 5731,
       "low": 5613,
-      "close": 5665,
-      "price": 5665,
-      "daily_return_pct": -0.6837307152875175,
-      "weekly_return_pct": -0.6837307152875175,
-      "monthly_return_pct": -5.045256453234998,
-      "ytd_return_pct": 13.846463022508038,
+      "close": 5622,
+      "price": 5622,
+      "daily_return_pct": -1.4375876577840112,
+      "weekly_return_pct": -1.4375876577840112,
+      "monthly_return_pct": -5.766007375125713,
+      "ytd_return_pct": 12.982315112540192,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5665,
+          "reference_price": 5622,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5665,
+          "reference_price": 5622,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5665,
+          "reference_price": 5622,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5665,
+          "reference_price": 5622,
           "retained": false
         }
       }
@@ -703,45 +703,45 @@
       "tv_symbol": "TSE:4502",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 6930,
       "high": 7020,
       "low": 6930,
-      "close": 6972,
-      "price": 6972,
-      "daily_return_pct": 0.6641640196361537,
-      "weekly_return_pct": 0.6641640196361537,
-      "monthly_return_pct": 4.826341903473162,
-      "ytd_return_pct": 42.868852459016395,
+      "close": 6937,
+      "price": 6937,
+      "daily_return_pct": 0.15882183078255846,
+      "weekly_return_pct": 0.15882183078255846,
+      "monthly_return_pct": 4.300105247331229,
+      "ytd_return_pct": 42.15163934426229,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 6972,
+          "reference_price": 6937,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 6972,
+          "reference_price": 6937,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 6972,
+          "reference_price": 6937,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 6972,
+          "reference_price": 6937,
           "retained": false
         }
       }
@@ -756,45 +756,45 @@
       "tv_symbol": "TSE:4519",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 7261,
       "high": 7444,
       "low": 7261,
-      "close": 7379,
-      "price": 7379,
-      "daily_return_pct": 2.7572761453836514,
-      "weekly_return_pct": 2.7572761453836514,
-      "monthly_return_pct": 8.164761067135737,
-      "ytd_return_pct": -11.62874251497006,
+      "close": 7380,
+      "price": 7380,
+      "daily_return_pct": 2.7712017824815485,
+      "weekly_return_pct": 2.7712017824815485,
+      "monthly_return_pct": 8.179419525065963,
+      "ytd_return_pct": -11.616766467065869,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 7379,
+          "reference_price": 7380,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 7379,
+          "reference_price": 7380,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 7379,
+          "reference_price": 7380,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 7379,
+          "reference_price": 7380,
           "retained": false
         }
       }
@@ -809,45 +809,45 @@
       "tv_symbol": "TSE:4568",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 2900,
       "high": 2912,
       "low": 2849,
-      "close": 2857,
-      "price": 2857,
-      "daily_return_pct": 0.15775635407537247,
-      "weekly_return_pct": 0.15775635407537247,
-      "monthly_return_pct": 3.74001452432825,
-      "ytd_return_pct": -15.970588235294118,
+      "close": 2870,
+      "price": 2870,
+      "daily_return_pct": 0.6134969325153374,
+      "weekly_return_pct": 0.6134969325153374,
+      "monthly_return_pct": 4.212055192447349,
+      "ytd_return_pct": -15.588235294117647,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2857,
+          "reference_price": 2870,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2857,
+          "reference_price": 2870,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2857,
+          "reference_price": 2870,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2857,
+          "reference_price": 2870,
           "retained": false
         }
       }
@@ -862,45 +862,45 @@
       "tv_symbol": "TSE:4689",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 535.7,
       "high": 547.8,
       "low": 531.5,
-      "close": 544.5,
-      "price": 544.5,
-      "daily_return_pct": 1.8328034411819627,
-      "weekly_return_pct": 1.8328034411819627,
-      "monthly_return_pct": 8.682634730538922,
-      "ytd_return_pct": 29.427145234133594,
+      "close": 543.3,
+      "price": 543.3,
+      "daily_return_pct": 1.6083785300168147,
+      "weekly_return_pct": 1.6083785300168147,
+      "monthly_return_pct": 8.443113772455082,
+      "ytd_return_pct": 29.14190634656524,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 544.5,
+          "reference_price": 543.3,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 544.5,
+          "reference_price": 543.3,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 544.5,
+          "reference_price": 543.3,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 544.5,
+          "reference_price": 543.3,
           "retained": false
         }
       }
@@ -915,45 +915,45 @@
       "tv_symbol": "TSE:4755",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 647,
       "high": 666.6,
       "low": 645,
-      "close": 654.5,
-      "price": 654.5,
-      "daily_return_pct": 2.7472527472527473,
-      "weekly_return_pct": 2.7472527472527473,
-      "monthly_return_pct": 4.136833731105807,
-      "ytd_return_pct": -34.810756972111555,
+      "close": 649.8,
+      "price": 649.8,
+      "daily_return_pct": 2.009419152276288,
+      "weekly_return_pct": 2.009419152276288,
+      "monthly_return_pct": 3.3890214797135965,
+      "ytd_return_pct": -35.2788844621514,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 654.5,
+          "reference_price": 649.8,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 654.5,
+          "reference_price": 649.8,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 654.5,
+          "reference_price": 649.8,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 654.5,
+          "reference_price": 649.8,
           "retained": false
         }
       }
@@ -968,45 +968,45 @@
       "tv_symbol": "TSE:4901",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3639,
       "high": 3684,
-      "low": 3631,
-      "close": 3640,
-      "price": 3640,
-      "daily_return_pct": 0.6915629322268326,
-      "weekly_return_pct": 0.6915629322268326,
-      "monthly_return_pct": 3.9109334855837856,
-      "ytd_return_pct": 7.533234859675037,
+      "low": 3630,
+      "close": 3630,
+      "price": 3630,
+      "daily_return_pct": 0.4149377593360996,
+      "weekly_return_pct": 0.4149377593360996,
+      "monthly_return_pct": 3.625463888095918,
+      "ytd_return_pct": 7.23781388478582,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3640,
+          "reference_price": 3630,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3640,
+          "reference_price": 3630,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3640,
+          "reference_price": 3630,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3640,
+          "reference_price": 3630,
           "retained": false
         }
       }
@@ -1021,45 +1021,45 @@
       "tv_symbol": "TSE:5016",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 2482,
       "high": 2497,
-      "low": 2316.5,
-      "close": 2340,
-      "price": 2340,
-      "daily_return_pct": -5.778135695590899,
-      "weekly_return_pct": -5.778135695590899,
-      "monthly_return_pct": -20.812182741116754,
-      "ytd_return_pct": 15.270935960591133,
+      "low": 2301,
+      "close": 2305.5,
+      "price": 2305.5,
+      "daily_return_pct": -7.167304207771291,
+      "weekly_return_pct": -7.167304207771291,
+      "monthly_return_pct": -21.97969543147208,
+      "ytd_return_pct": 13.571428571428571,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2340,
+          "reference_price": 2305.5,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2340,
+          "reference_price": 2305.5,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2340,
+          "reference_price": 2305.5,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2340,
+          "reference_price": 2305.5,
           "retained": false
         }
       }
@@ -1074,45 +1074,45 @@
       "tv_symbol": "TSE:5019",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1299,
       "high": 1299.5,
       "low": 1253.5,
-      "close": 1272,
-      "price": 1272,
-      "daily_return_pct": -1.7760617760617758,
-      "weekly_return_pct": -1.7760617760617758,
-      "monthly_return_pct": -16.06730451996041,
-      "ytd_return_pct": 6.890756302521009,
+      "close": 1278,
+      "price": 1278,
+      "daily_return_pct": -1.3127413127413128,
+      "weekly_return_pct": -1.3127413127413128,
+      "monthly_return_pct": -15.671395579016826,
+      "ytd_return_pct": 7.394957983193278,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1272,
+          "reference_price": 1278,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1272,
+          "reference_price": 1278,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1272,
+          "reference_price": 1278,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1272,
+          "reference_price": 1278,
           "retained": false
         }
       }
@@ -1127,45 +1127,45 @@
       "tv_symbol": "TSE:5020",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1248,
       "high": 1248,
       "low": 1220.5,
-      "close": 1230,
-      "price": 1230,
-      "daily_return_pct": -1.521216973578863,
-      "weekly_return_pct": -1.521216973578863,
-      "monthly_return_pct": -13.774973711882229,
-      "ytd_return_pct": 9.870477891916034,
+      "close": 1229,
+      "price": 1229,
+      "daily_return_pct": -1.6012810248198557,
+      "weekly_return_pct": -1.6012810248198557,
+      "monthly_return_pct": -13.845075359270941,
+      "ytd_return_pct": 9.781152300133988,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1230,
+          "reference_price": 1229,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1230,
+          "reference_price": 1229,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1230,
+          "reference_price": 1229,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1230,
+          "reference_price": 1229,
           "retained": false
         }
       }
@@ -1180,45 +1180,45 @@
       "tv_symbol": "TSE:5401",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 701.1,
       "high": 707.2,
-      "low": 694,
-      "close": 694.6,
-      "price": 694.6,
-      "daily_return_pct": -0.4871060171919738,
-      "weekly_return_pct": -0.4871060171919738,
-      "monthly_return_pct": 5.803503427265807,
-      "ytd_return_pct": 6.207951070336395,
+      "low": 693.2,
+      "close": 695.1,
+      "price": 695.1,
+      "daily_return_pct": -0.4154727793696243,
+      "weekly_return_pct": -0.4154727793696243,
+      "monthly_return_pct": 5.879664889565883,
+      "ytd_return_pct": 6.284403669724774,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 694.6,
+          "reference_price": 695.1,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 694.6,
+          "reference_price": 695.1,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 694.6,
+          "reference_price": 695.1,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 694.6,
+          "reference_price": 695.1,
           "retained": false
         }
       }
@@ -1233,45 +1233,45 @@
       "tv_symbol": "TSE:5713",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 7222,
       "high": 7243,
-      "low": 6860,
-      "close": 6923,
-      "price": 6923,
-      "daily_return_pct": -3.7536493813429725,
-      "weekly_return_pct": -3.7536493813429725,
-      "monthly_return_pct": -14.856721190505473,
-      "ytd_return_pct": 4.577039274924472,
+      "low": 6826,
+      "close": 6837,
+      "price": 6837,
+      "daily_return_pct": -4.94925622132629,
+      "weekly_return_pct": -4.94925622132629,
+      "monthly_return_pct": -15.914401672610994,
+      "ytd_return_pct": 3.2779456193353473,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 6923,
+          "reference_price": 6837,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 6923,
+          "reference_price": 6837,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 6923,
+          "reference_price": 6837,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 6923,
+          "reference_price": 6837,
           "retained": false
         }
       }
@@ -1286,45 +1286,45 @@
       "tv_symbol": "TSE:5801",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 2169.5,
       "high": 2205,
       "low": 1966,
-      "close": 2002,
-      "price": 2002,
-      "daily_return_pct": -7.635524798154555,
-      "weekly_return_pct": -7.635524798154555,
-      "monthly_return_pct": -28.652886671418386,
-      "ytd_return_pct": 91.39579349904398,
+      "close": 1982.5,
+      "price": 1982.5,
+      "daily_return_pct": -8.535178777393309,
+      "weekly_return_pct": -8.535178777393309,
+      "monthly_return_pct": -29.347826086956523,
+      "ytd_return_pct": 89.53154875717017,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2002,
+          "reference_price": 1982.5,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2002,
+          "reference_price": 1982.5,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2002,
+          "reference_price": 1982.5,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2002,
+          "reference_price": 1982.5,
           "retained": false
         }
       }
@@ -1339,45 +1339,45 @@
       "tv_symbol": "TSE:5802",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1504,
       "high": 1508,
-      "low": 1406,
-      "close": 1415.5,
-      "price": 1415.5,
-      "daily_return_pct": -6.813693219223173,
-      "weekly_return_pct": -6.813693219223173,
-      "monthly_return_pct": -20.028248587570623,
-      "ytd_return_pct": -13.226053639846743,
+      "low": 1405,
+      "close": 1413,
+      "price": 1413,
+      "daily_return_pct": -6.978275181040158,
+      "weekly_return_pct": -6.978275181040158,
+      "monthly_return_pct": -20.16949152542373,
+      "ytd_return_pct": -13.379310344827585,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1415.5,
+          "reference_price": 1413,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1415.5,
+          "reference_price": 1413,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1415.5,
+          "reference_price": 1413,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1415.5,
+          "reference_price": 1413,
           "retained": false
         }
       }
@@ -1392,45 +1392,45 @@
       "tv_symbol": "TSE:5803",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 2890,
       "high": 2926.5,
-      "low": 2699.5,
-      "close": 2736.5,
-      "price": 2736.5,
-      "daily_return_pct": -5.832759807295251,
-      "weekly_return_pct": -5.832759807295251,
-      "monthly_return_pct": -30.15569167942828,
-      "ytd_return_pct": -9.28729463193366,
+      "low": 2688.5,
+      "close": 2700,
+      "price": 2700,
+      "daily_return_pct": -7.088781830695114,
+      "weekly_return_pct": -7.088781830695114,
+      "monthly_return_pct": -31.08728943338438,
+      "ytd_return_pct": -10.49723935911598,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2736.5,
+          "reference_price": 2700,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2736.5,
+          "reference_price": 2700,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2736.5,
+          "reference_price": 2700,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2736.5,
+          "reference_price": 2700,
           "retained": false
         }
       }
@@ -1445,45 +1445,45 @@
       "tv_symbol": "TSE:6146",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 47230,
       "high": 47740,
-      "low": 43980,
-      "close": 44600,
-      "price": 44600,
-      "daily_return_pct": -6.045923741310301,
-      "weekly_return_pct": -6.045923741310301,
-      "monthly_return_pct": -9.971740008074285,
-      "ytd_return_pct": -10.746447868721233,
+      "low": 43900,
+      "close": 44000,
+      "price": 44000,
+      "daily_return_pct": -7.3098799241626295,
+      "weekly_return_pct": -7.3098799241626295,
+      "monthly_return_pct": -11.182882519176424,
+      "ytd_return_pct": -11.947168300980588,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 44600,
+          "reference_price": 44000,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 44600,
+          "reference_price": 44000,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 44600,
+          "reference_price": 44000,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 44600,
+          "reference_price": 44000,
           "retained": false
         }
       }
@@ -1498,45 +1498,45 @@
       "tv_symbol": "TSE:642A",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 2100,
       "high": 2111.5,
-      "low": 2079,
-      "close": 2082.5,
-      "price": 2082.5,
-      "daily_return_pct": -0.3588516746411483,
-      "weekly_return_pct": -0.3588516746411483,
-      "monthly_return_pct": 5.603448275862069,
-      "ytd_return_pct": -0.8333333333333334,
+      "low": 2064.5,
+      "close": 2064.5,
+      "price": 2064.5,
+      "daily_return_pct": -1.2200956937799041,
+      "weekly_return_pct": -1.2200956937799041,
+      "monthly_return_pct": 4.690669371196755,
+      "ytd_return_pct": -1.6904761904761905,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2082.5,
+          "reference_price": 2064.5,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2082.5,
+          "reference_price": 2064.5,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2082.5,
+          "reference_price": 2064.5,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2082.5,
+          "reference_price": 2064.5,
           "retained": false
         }
       }
@@ -1551,45 +1551,45 @@
       "tv_symbol": "TSE:6501",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 4892,
       "high": 4977,
-      "low": 4892,
-      "close": 4907,
-      "price": 4907,
-      "daily_return_pct": -1.1084240225715438,
-      "weekly_return_pct": -1.1084240225715438,
-      "monthly_return_pct": -3.6709854731056146,
-      "ytd_return_pct": -2.8124381065557538,
+      "low": 4886,
+      "close": 4896,
+      "price": 4896,
+      "daily_return_pct": -1.3301088270858523,
+      "weekly_return_pct": -1.3301088270858523,
+      "monthly_return_pct": -3.8869257950530036,
+      "ytd_return_pct": -3.0303030303030303,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 4907,
+          "reference_price": 4896,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 4907,
+          "reference_price": 4896,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 4907,
+          "reference_price": 4896,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 4907,
+          "reference_price": 4896,
           "retained": false
         }
       }
@@ -1604,45 +1604,45 @@
       "tv_symbol": "TSE:6506",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3786,
       "high": 3794,
-      "low": 3577,
-      "close": 3610,
-      "price": 3610,
-      "daily_return_pct": -4.774465840147718,
-      "weekly_return_pct": -4.774465840147718,
-      "monthly_return_pct": -9.544088176352705,
-      "ytd_return_pct": -26.266339869281047,
+      "low": 3561,
+      "close": 3561,
+      "price": 3561,
+      "daily_return_pct": -6.067000791347929,
+      "weekly_return_pct": -6.067000791347929,
+      "monthly_return_pct": -10.796593186372744,
+      "ytd_return_pct": -27.267156862745097,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3610,
+          "reference_price": 3561,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3610,
+          "reference_price": 3561,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3610,
+          "reference_price": 3561,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3610,
+          "reference_price": 3561,
           "retained": false
         }
       }
@@ -1657,45 +1657,45 @@
       "tv_symbol": "TSE:6702",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3512,
       "high": 3551,
       "low": 3438,
-      "close": 3515,
-      "price": 3515,
-      "daily_return_pct": 1.7366136034732274,
-      "weekly_return_pct": 1.7366136034732274,
-      "monthly_return_pct": -2.9541689674213143,
-      "ytd_return_pct": -19.41769830353049,
+      "close": 3524,
+      "price": 3524,
+      "daily_return_pct": 1.9971056439942112,
+      "weekly_return_pct": 1.9971056439942112,
+      "monthly_return_pct": -2.70568746548868,
+      "ytd_return_pct": -19.211370930765703,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3515,
+          "reference_price": 3524,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3515,
+          "reference_price": 3524,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3515,
+          "reference_price": 3524,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3515,
+          "reference_price": 3524,
           "retained": false
         }
       }
@@ -1710,45 +1710,45 @@
       "tv_symbol": "TSE:6723",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 2797.5,
       "high": 2835.5,
-      "low": 2701,
-      "close": 2726,
-      "price": 2726,
-      "daily_return_pct": -4.2669007901668135,
-      "weekly_return_pct": -4.2669007901668135,
-      "monthly_return_pct": -4.851657940663176,
-      "ytd_return_pct": 22.848129788192878,
+      "low": 2689,
+      "close": 2704.5,
+      "price": 2704.5,
+      "daily_return_pct": -5.021949078138718,
+      "weekly_return_pct": -5.021949078138718,
+      "monthly_return_pct": -5.602094240837696,
+      "ytd_return_pct": 21.879224876070303,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2726,
+          "reference_price": 2704.5,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2726,
+          "reference_price": 2704.5,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2726,
+          "reference_price": 2704.5,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2726,
+          "reference_price": 2704.5,
           "retained": false
         }
       }
@@ -1763,45 +1763,45 @@
       "tv_symbol": "TSE:6758",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 4366,
       "high": 4366,
       "low": 4242,
-      "close": 4345,
-      "price": 4345,
-      "daily_return_pct": -0.1837813002526993,
-      "weekly_return_pct": -0.1837813002526993,
-      "monthly_return_pct": 9.77766548762001,
-      "ytd_return_pct": 7.469700717289141,
+      "close": 4320,
+      "price": 4320,
+      "daily_return_pct": -0.7580978635423846,
+      "weekly_return_pct": -0.7580978635423846,
+      "monthly_return_pct": 9.146033350176857,
+      "ytd_return_pct": 6.851348008904279,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 4345,
+          "reference_price": 4320,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 4345,
+          "reference_price": 4320,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 4345,
+          "reference_price": 4320,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 4345,
+          "reference_price": 4320,
           "retained": false
         }
       }
@@ -1816,45 +1816,45 @@
       "tv_symbol": "TSE:6857",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 30000,
       "high": 30460,
-      "low": 27225,
-      "close": 27565,
-      "price": 27565,
-      "daily_return_pct": -9.947729500163344,
-      "weekly_return_pct": -9.947729500163344,
-      "monthly_return_pct": -20.926563396442916,
-      "ytd_return_pct": 35.089438863023766,
+      "low": 27115,
+      "close": 27205,
+      "price": 27205,
+      "daily_return_pct": -11.123815746488077,
+      "weekly_return_pct": -11.123815746488077,
+      "monthly_return_pct": -21.959265633964428,
+      "ytd_return_pct": 33.3251654006371,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 27565,
+          "reference_price": 27205,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 27565,
+          "reference_price": 27205,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 27565,
+          "reference_price": 27205,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 27565,
+          "reference_price": 27205,
           "retained": false
         }
       }
@@ -1869,45 +1869,45 @@
       "tv_symbol": "TSE:6861",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 75300,
       "high": 75730,
-      "low": 73700,
-      "close": 74280,
-      "price": 74280,
-      "daily_return_pct": -0.4022526146419952,
-      "weekly_return_pct": -0.4022526146419952,
-      "monthly_return_pct": -4.769230769230769,
-      "ytd_return_pct": 28.734835355285963,
+      "low": 73200,
+      "close": 73450,
+      "price": 73450,
+      "daily_return_pct": -1.5151515151515151,
+      "weekly_return_pct": -1.5151515151515151,
+      "monthly_return_pct": -5.833333333333333,
+      "ytd_return_pct": 27.296360485268632,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 74280,
+          "reference_price": 73450,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 74280,
+          "reference_price": 73450,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 74280,
+          "reference_price": 73450,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 74280,
+          "reference_price": 73450,
           "retained": false
         }
       }
@@ -1922,45 +1922,45 @@
       "tv_symbol": "TSE:6954",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 5501,
       "high": 5568,
-      "low": 5367,
-      "close": 5418,
-      "price": 5418,
-      "daily_return_pct": -2.2198159177043855,
-      "weekly_return_pct": -2.2198159177043855,
-      "monthly_return_pct": -5.014025245441795,
-      "ytd_return_pct": -13.478122005748961,
+      "low": 5343,
+      "close": 5343,
+      "price": 5343,
+      "daily_return_pct": -3.5733622089875476,
+      "weekly_return_pct": -3.5733622089875476,
+      "monthly_return_pct": -6.328892005610099,
+      "ytd_return_pct": -14.675822420951773,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5418,
+          "reference_price": 5343,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5418,
+          "reference_price": 5343,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5418,
+          "reference_price": 5343,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5418,
+          "reference_price": 5343,
           "retained": false
         }
       }
@@ -1975,45 +1975,45 @@
       "tv_symbol": "TSE:6981",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 5114,
       "high": 5226,
-      "low": 4844,
-      "close": 4894,
-      "price": 4894,
-      "daily_return_pct": -5.46648638207456,
-      "weekly_return_pct": -5.46648638207456,
-      "monthly_return_pct": -23.026108839257628,
-      "ytd_return_pct": 46.39545318576129,
+      "low": 4815,
+      "close": 4855,
+      "price": 4855,
+      "daily_return_pct": -6.219818427660807,
+      "weekly_return_pct": -6.219818427660807,
+      "monthly_return_pct": -23.63950927964769,
+      "ytd_return_pct": 45.22883637451391,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 4894,
+          "reference_price": 4855,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 4894,
+          "reference_price": 4855,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 4894,
+          "reference_price": 4855,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 4894,
+          "reference_price": 4855,
           "retained": false
         }
       }
@@ -2028,45 +2028,45 @@
       "tv_symbol": "TSE:7011",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 2920,
       "high": 2979,
       "low": 2868,
-      "close": 2896,
-      "price": 2896,
-      "daily_return_pct": -0.8388974490669406,
-      "weekly_return_pct": -0.8388974490669406,
-      "monthly_return_pct": -15.147963668326986,
-      "ytd_return_pct": -27.618095476130968,
+      "close": 2900,
+      "price": 2900,
+      "daily_return_pct": -0.701934600239685,
+      "weekly_return_pct": -0.701934600239685,
+      "monthly_return_pct": -15.030764723117493,
+      "ytd_return_pct": -27.51812046988253,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2896,
+          "reference_price": 2900,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2896,
+          "reference_price": 2900,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2896,
+          "reference_price": 2900,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2896,
+          "reference_price": 2900,
           "retained": false
         }
       }
@@ -2081,45 +2081,45 @@
       "tv_symbol": "TSE:7012",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1819.5,
       "high": 1830.5,
       "low": 1741,
-      "close": 1753,
-      "price": 1753,
-      "daily_return_pct": -3.3627342888643876,
-      "weekly_return_pct": -3.3627342888643876,
-      "monthly_return_pct": -17.09624024592102,
-      "ytd_return_pct": -18.31314072693383,
+      "close": 1757,
+      "price": 1757,
+      "daily_return_pct": -3.1422271223814775,
+      "weekly_return_pct": -3.1422271223814775,
+      "monthly_return_pct": -16.907070229368646,
+      "ytd_return_pct": -18.126747437092266,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1753,
+          "reference_price": 1757,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1753,
+          "reference_price": 1757,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1753,
+          "reference_price": 1757,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1753,
+          "reference_price": 1757,
           "retained": false
         }
       }
@@ -2134,45 +2134,45 @@
       "tv_symbol": "TSE:7203",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3413,
       "high": 3469,
       "low": 3402,
-      "close": 3433,
-      "price": 3433,
-      "daily_return_pct": 0.4388531304856641,
-      "weekly_return_pct": 0.4388531304856641,
-      "monthly_return_pct": 11.824104234527686,
-      "ytd_return_pct": 0.6449721489299326,
+      "close": 3428,
+      "price": 3428,
+      "daily_return_pct": 0.29256875365710944,
+      "weekly_return_pct": 0.29256875365710944,
+      "monthly_return_pct": 11.661237785016286,
+      "ytd_return_pct": 0.49838756962767516,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3433,
+          "reference_price": 3428,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3433,
+          "reference_price": 3428,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3433,
+          "reference_price": 3428,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3433,
+          "reference_price": 3428,
           "retained": false
         }
       }
@@ -2187,45 +2187,45 @@
       "tv_symbol": "TSE:7272",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1793.5,
       "high": 1797.5,
-      "low": 1774,
-      "close": 1786,
-      "price": 1786,
-      "daily_return_pct": 0.4217036828788305,
-      "weekly_return_pct": 0.4217036828788305,
-      "monthly_return_pct": 3.296703296703297,
-      "ytd_return_pct": 52.58436565570269,
+      "low": 1772,
+      "close": 1775,
+      "price": 1775,
+      "daily_return_pct": -0.1967950520101209,
+      "weekly_return_pct": -0.1967950520101209,
+      "monthly_return_pct": 2.6604973973395025,
+      "ytd_return_pct": 51.64459632635626,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1786,
+          "reference_price": 1775,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1786,
+          "reference_price": 1775,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1786,
+          "reference_price": 1775,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1786,
+          "reference_price": 1775,
           "retained": false
         }
       }
@@ -2240,45 +2240,45 @@
       "tv_symbol": "TSE:7453",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 4869,
       "high": 5015,
       "low": 4830,
-      "close": 5006,
-      "price": 5006,
-      "daily_return_pct": 3.3443435177539227,
-      "weekly_return_pct": 3.3443435177539227,
-      "monthly_return_pct": 3.5153019023986767,
-      "ytd_return_pct": 78.49884114815475,
+      "close": 4961,
+      "price": 4961,
+      "daily_return_pct": 2.4153592072667216,
+      "weekly_return_pct": 2.4153592072667216,
+      "monthly_return_pct": 2.5847808105872625,
+      "ytd_return_pct": 76.89427705473346,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5006,
+          "reference_price": 4961,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5006,
+          "reference_price": 4961,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5006,
+          "reference_price": 4961,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5006,
+          "reference_price": 4961,
           "retained": false
         }
       }
@@ -2293,45 +2293,45 @@
       "tv_symbol": "TSE:7532",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 825,
-      "high": 833.9,
+      "high": 834.7,
       "low": 817.6,
-      "close": 830.3,
-      "price": 830.3,
-      "daily_return_pct": 1.952357563850685,
-      "weekly_return_pct": 1.952357563850685,
-      "monthly_return_pct": 12.613590126135902,
-      "ytd_return_pct": -10.912017167381979,
+      "close": 834,
+      "price": 834,
+      "daily_return_pct": 2.4066797642436177,
+      "weekly_return_pct": 2.4066797642436177,
+      "monthly_return_pct": 13.115421131154218,
+      "ytd_return_pct": -10.515021459227468,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 830.3,
+          "reference_price": 834,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 830.3,
+          "reference_price": 834,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 830.3,
+          "reference_price": 834,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 830.3,
+          "reference_price": 834,
           "retained": false
         }
       }
@@ -2346,7 +2346,7 @@
       "tv_symbol": "TSE:7581",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 8900,
@@ -2399,45 +2399,45 @@
       "tv_symbol": "TSE:7735",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 8596,
       "high": 8640,
       "low": 7902,
-      "close": 8037,
-      "price": 8037,
-      "daily_return_pct": -6.153666510976179,
-      "weekly_return_pct": -6.153666510976179,
-      "monthly_return_pct": -29.345054945054944,
-      "ytd_return_pct": -0.7471441803025625,
+      "close": 7938,
+      "price": 7938,
+      "daily_return_pct": -7.309668379262027,
+      "weekly_return_pct": -7.309668379262027,
+      "monthly_return_pct": -30.215384615384615,
+      "ytd_return_pct": -1.969743748070392,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 8037,
+          "reference_price": 7938,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 8037,
+          "reference_price": 7938,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 8037,
+          "reference_price": 7938,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 8037,
+          "reference_price": 7938,
           "retained": false
         }
       }
@@ -2452,45 +2452,45 @@
       "tv_symbol": "TSE:7741",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 24225,
       "high": 24290,
-      "low": 23685,
-      "close": 23790,
-      "price": 23790,
-      "daily_return_pct": -0.5642633228840125,
-      "weekly_return_pct": -0.5642633228840125,
-      "monthly_return_pct": -9.233117130866082,
-      "ytd_return_pct": -0.6473167675923992,
+      "low": 23385,
+      "close": 23385,
+      "price": 23385,
+      "daily_return_pct": -2.25705329153605,
+      "weekly_return_pct": -2.25705329153605,
+      "monthly_return_pct": -10.778328882106067,
+      "ytd_return_pct": -2.3386928377531846,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 23790,
+          "reference_price": 23385,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 23790,
+          "reference_price": 23385,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 23790,
+          "reference_price": 23385,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 23790,
+          "reference_price": 23385,
           "retained": false
         }
       }
@@ -2505,45 +2505,45 @@
       "tv_symbol": "TSE:7974",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 8880,
       "high": 8999,
       "low": 8738,
-      "close": 8856,
-      "price": 8856,
-      "daily_return_pct": 0.9460845776815229,
-      "weekly_return_pct": 0.9460845776815229,
-      "monthly_return_pct": 6.840390879478828,
-      "ytd_return_pct": -18.602941176470587,
+      "close": 8894,
+      "price": 8894,
+      "daily_return_pct": 1.3792317337284852,
+      "weekly_return_pct": 1.3792317337284852,
+      "monthly_return_pct": 7.298829774399806,
+      "ytd_return_pct": -18.253676470588236,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 8856,
+          "reference_price": 8894,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 8856,
+          "reference_price": 8894,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 8856,
+          "reference_price": 8894,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 8856,
+          "reference_price": 8894,
           "retained": false
         }
       }
@@ -2558,45 +2558,45 @@
       "tv_symbol": "TSE:8001",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 2419.5,
       "high": 2430.5,
-      "low": 2407.5,
-      "close": 2416,
-      "price": 2416,
-      "daily_return_pct": 0.16583747927031509,
-      "weekly_return_pct": 0.16583747927031509,
-      "monthly_return_pct": 3.846980442725124,
-      "ytd_return_pct": 20.199004975124378,
+      "low": 2396,
+      "close": 2396,
+      "price": 2396,
+      "daily_return_pct": -0.6633499170812603,
+      "weekly_return_pct": -0.6633499170812603,
+      "monthly_return_pct": 2.9873200085966043,
+      "ytd_return_pct": 19.203980099502488,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2416,
+          "reference_price": 2396,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2416,
+          "reference_price": 2396,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2416,
+          "reference_price": 2396,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2416,
+          "reference_price": 2396,
           "retained": false
         }
       }
@@ -2611,45 +2611,45 @@
       "tv_symbol": "TSE:8002",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 5206,
       "high": 5261,
-      "low": 5168,
-      "close": 5189,
-      "price": 5189,
-      "daily_return_pct": 0,
-      "weekly_return_pct": 0,
-      "monthly_return_pct": 5.27490363156827,
-      "ytd_return_pct": 17.318562061948903,
+      "low": 5163,
+      "close": 5163,
+      "price": 5163,
+      "daily_return_pct": -0.5010599344767778,
+      "weekly_return_pct": -0.5010599344767778,
+      "monthly_return_pct": 4.747413268411442,
+      "ytd_return_pct": 16.730725751752203,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5189,
+          "reference_price": 5163,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5189,
+          "reference_price": 5163,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5189,
+          "reference_price": 5163,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5189,
+          "reference_price": 5163,
           "retained": false
         }
       }
@@ -2664,45 +2664,45 @@
       "tv_symbol": "TSE:8031",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 5100,
       "high": 5162,
       "low": 5083,
-      "close": 5117,
-      "price": 5117,
-      "daily_return_pct": 0.33333333333333337,
-      "weekly_return_pct": 0.33333333333333337,
-      "monthly_return_pct": 2.217339192968438,
-      "ytd_return_pct": 8.57203479736898,
+      "close": 5086,
+      "price": 5086,
+      "daily_return_pct": -0.27450980392156865,
+      "weekly_return_pct": -0.27450980392156865,
+      "monthly_return_pct": 1.5980823012385137,
+      "ytd_return_pct": 7.91427965202631,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5117,
+          "reference_price": 5086,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5117,
+          "reference_price": 5086,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5117,
+          "reference_price": 5086,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5117,
+          "reference_price": 5086,
           "retained": false
         }
       }
@@ -2717,45 +2717,45 @@
       "tv_symbol": "TSE:8035",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 9488,
       "high": 9550,
-      "low": 8857,
-      "close": 8918,
-      "price": 8918,
-      "daily_return_pct": -5.739351019976747,
-      "weekly_return_pct": -5.739351019976747,
-      "monthly_return_pct": -6.2644523859575365,
-      "ytd_return_pct": 23.586474501108647,
+      "low": 8776,
+      "close": 8794,
+      "price": 8794,
+      "daily_return_pct": -7.04999471514639,
+      "weekly_return_pct": -7.04999471514639,
+      "monthly_return_pct": -7.5677948286735335,
+      "ytd_return_pct": 21.868070953436806,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 8918,
+          "reference_price": 8794,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 8918,
+          "reference_price": 8794,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 8918,
+          "reference_price": 8794,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 8918,
+          "reference_price": 8794,
           "retained": false
         }
       }
@@ -2770,45 +2770,45 @@
       "tv_symbol": "TSE:8053",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1733.5,
       "high": 1744.5,
-      "low": 1714,
-      "close": 1724.5,
-      "price": 1724.5,
-      "daily_return_pct": -0.40427375108287616,
-      "weekly_return_pct": -0.40427375108287616,
-      "monthly_return_pct": 2.4049881235154396,
-      "ytd_return_pct": 24.44524625653978,
+      "low": 1711.5,
+      "close": 1711.5,
+      "price": 1711.5,
+      "daily_return_pct": -1.155067860236789,
+      "weekly_return_pct": -1.155067860236789,
+      "monthly_return_pct": 1.6330166270783848,
+      "ytd_return_pct": 23.507126104997294,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1724.5,
+          "reference_price": 1711.5,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1724.5,
+          "reference_price": 1711.5,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1724.5,
+          "reference_price": 1711.5,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1724.5,
+          "reference_price": 1711.5,
           "retained": false
         }
       }
@@ -2823,45 +2823,45 @@
       "tv_symbol": "TSE:8058",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 5430,
       "high": 5465,
-      "low": 5372,
-      "close": 5409,
-      "price": 5409,
-      "daily_return_pct": 0.07400555041628122,
-      "weekly_return_pct": 0.07400555041628122,
-      "monthly_return_pct": 12.570239334027056,
-      "ytd_return_pct": 49.41988950276243,
+      "low": 5358,
+      "close": 5358,
+      "price": 5358,
+      "daily_return_pct": -0.8695652173913043,
+      "weekly_return_pct": -0.8695652173913043,
+      "monthly_return_pct": 11.508844953173778,
+      "ytd_return_pct": 48.011049723756905,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5409,
+          "reference_price": 5358,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5409,
+          "reference_price": 5358,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5409,
+          "reference_price": 5358,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5409,
+          "reference_price": 5358,
           "retained": false
         }
       }
@@ -2876,45 +2876,45 @@
       "tv_symbol": "TSE:8136",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1122,
       "high": 1122.5,
       "low": 1074,
-      "close": 1104,
-      "price": 1104,
-      "daily_return_pct": -0.4957187922487607,
-      "weekly_return_pct": -0.4957187922487607,
-      "monthly_return_pct": -11.961722488038278,
-      "ytd_return_pct": 12.263575350823675,
+      "close": 1111,
+      "price": 1111,
+      "daily_return_pct": 0.135196034249662,
+      "weekly_return_pct": 0.135196034249662,
+      "monthly_return_pct": -11.403508771929824,
+      "ytd_return_pct": 12.975391498881434,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1104,
+          "reference_price": 1111,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1104,
+          "reference_price": 1111,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1104,
+          "reference_price": 1111,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1104,
+          "reference_price": 1111,
           "retained": false
         }
       }
@@ -2929,45 +2929,45 @@
       "tv_symbol": "TSE:8252",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 2930,
       "high": 2961,
       "low": 2924.5,
-      "close": 2949,
-      "price": 2949,
-      "daily_return_pct": 1.3750429700928153,
-      "weekly_return_pct": 1.3750429700928153,
-      "monthly_return_pct": 5.509838998211091,
-      "ytd_return_pct": -8.55813953488372,
+      "close": 2955,
+      "price": 2955,
+      "daily_return_pct": 1.581299415606738,
+      "weekly_return_pct": 1.581299415606738,
+      "monthly_return_pct": 5.724508050089446,
+      "ytd_return_pct": -8.372093023255815,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2949,
+          "reference_price": 2955,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2949,
+          "reference_price": 2955,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2949,
+          "reference_price": 2955,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2949,
+          "reference_price": 2955,
           "retained": false
         }
       }
@@ -2982,45 +2982,45 @@
       "tv_symbol": "TSE:8267",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1295,
-      "high": 1320,
+      "high": 1328.5,
       "low": 1285.5,
-      "close": 1319,
-      "price": 1319,
-      "daily_return_pct": 2.8059236165237724,
-      "weekly_return_pct": 2.8059236165237724,
-      "monthly_return_pct": 9.870887130362348,
-      "ytd_return_pct": -46.835953244659414,
+      "close": 1321.5,
+      "price": 1321.5,
+      "daily_return_pct": 3.0007794232268123,
+      "weekly_return_pct": 3.0007794232268123,
+      "monthly_return_pct": 10.079133694294045,
+      "ytd_return_pct": -46.73518742442563,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1319,
+          "reference_price": 1321.5,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1319,
+          "reference_price": 1321.5,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1319,
+          "reference_price": 1321.5,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1319,
+          "reference_price": 1321.5,
           "retained": false
         }
       }
@@ -3035,45 +3035,45 @@
       "tv_symbol": "TSE:8306",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3437,
       "high": 3457,
       "low": 3365,
-      "close": 3427,
-      "price": 3427,
-      "daily_return_pct": -1.381294964028777,
-      "weekly_return_pct": -1.381294964028777,
-      "monthly_return_pct": -0.5802146794313896,
-      "ytd_return_pct": 36.073059360730596,
+      "close": 3415,
+      "price": 3415,
+      "daily_return_pct": -1.7266187050359711,
+      "weekly_return_pct": -1.7266187050359711,
+      "monthly_return_pct": -0.9283434870902234,
+      "ytd_return_pct": 35.59658526900933,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3427,
+          "reference_price": 3415,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3427,
+          "reference_price": 3415,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3427,
+          "reference_price": 3415,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3427,
+          "reference_price": 3415,
           "retained": false
         }
       }
@@ -3088,45 +3088,45 @@
       "tv_symbol": "TSE:8316",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3296,
       "high": 3303,
       "low": 3235,
-      "close": 3275,
-      "price": 3275,
-      "daily_return_pct": 0,
-      "weekly_return_pct": 0,
-      "monthly_return_pct": 1.393188854489164,
-      "ytd_return_pct": 26.93798449612403,
+      "close": 3260,
+      "price": 3260,
+      "daily_return_pct": -0.45801526717557256,
+      "weekly_return_pct": -0.45801526717557256,
+      "monthly_return_pct": 0.9287925696594427,
+      "ytd_return_pct": 26.356589147286822,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3275,
+          "reference_price": 3260,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3275,
+          "reference_price": 3260,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3275,
+          "reference_price": 3260,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3275,
+          "reference_price": 3260,
           "retained": false
         }
       }
@@ -3141,45 +3141,45 @@
       "tv_symbol": "TSE:8411",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 8370,
       "high": 8544,
-      "low": 8341,
-      "close": 8381,
-      "price": 8381,
-      "daily_return_pct": 4.501246882793017,
-      "weekly_return_pct": 4.501246882793017,
-      "monthly_return_pct": 8.155891082720352,
-      "ytd_return_pct": 45,
+      "low": 8222,
+      "close": 8243,
+      "price": 8243,
+      "daily_return_pct": 2.7805486284289276,
+      "weekly_return_pct": 2.7805486284289276,
+      "monthly_return_pct": 6.375016131113692,
+      "ytd_return_pct": 42.61245674740484,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 8381,
+          "reference_price": 8243,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 8381,
+          "reference_price": 8243,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 8381,
+          "reference_price": 8243,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 8381,
+          "reference_price": 8243,
           "retained": false
         }
       }
@@ -3194,45 +3194,45 @@
       "tv_symbol": "TSE:8766",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 603.1,
       "high": 604.9,
       "low": 594.6,
-      "close": 598.2,
-      "price": 598.2,
-      "daily_return_pct": 0.18422374811589728,
-      "weekly_return_pct": 0.18422374811589728,
-      "monthly_return_pct": 3.2447359337245545,
-      "ytd_return_pct": 52.213732847328636,
+      "close": 597.4,
+      "price": 597.4,
+      "daily_return_pct": 0.050242840395236056,
+      "weekly_return_pct": 0.050242840395236056,
+      "monthly_return_pct": 3.1066620642043494,
+      "ytd_return_pct": 52.01017051653981,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 598.2,
+          "reference_price": 597.4,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 598.2,
+          "reference_price": 597.4,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 598.2,
+          "reference_price": 597.4,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 598.2,
+          "reference_price": 597.4,
           "retained": false
         }
       }
@@ -3247,45 +3247,45 @@
       "tv_symbol": "TSE:9432",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 169.3,
       "high": 170.6,
       "low": 167.8,
-      "close": 168.1,
-      "price": 168.1,
-      "daily_return_pct": -0.17814726840855782,
-      "weekly_return_pct": -0.17814726840855782,
-      "monthly_return_pct": -3.000577034045018,
-      "ytd_return_pct": 6.459784673844198,
+      "close": 168.6,
+      "price": 168.6,
+      "daily_return_pct": 0.11876484560569395,
+      "weekly_return_pct": 0.11876484560569395,
+      "monthly_return_pct": -2.7120600115406903,
+      "ytd_return_pct": 6.776440785307149,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 168.1,
+          "reference_price": 168.6,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 168.1,
+          "reference_price": 168.6,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 168.1,
+          "reference_price": 168.6,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 168.1,
+          "reference_price": 168.6,
           "retained": false
         }
       }
@@ -3300,45 +3300,45 @@
       "tv_symbol": "TSE:9433",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 2888,
-      "high": 2953.5,
+      "high": 2967,
       "low": 2869,
-      "close": 2947,
-      "price": 2947,
-      "daily_return_pct": 3.4035087719298245,
-      "weekly_return_pct": 3.4035087719298245,
-      "monthly_return_pct": 3.895646042658205,
-      "ytd_return_pct": 8.745387453874539,
+      "close": 2958.5,
+      "price": 2958.5,
+      "daily_return_pct": 3.807017543859649,
+      "weekly_return_pct": 3.807017543859649,
+      "monthly_return_pct": 4.301075268817205,
+      "ytd_return_pct": 9.169741697416974,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2947,
+          "reference_price": 2958.5,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2947,
+          "reference_price": 2958.5,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2947,
+          "reference_price": 2958.5,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2947,
+          "reference_price": 2958.5,
           "retained": false
         }
       }
@@ -3353,45 +3353,45 @@
       "tv_symbol": "TSE:9434",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 241.4,
       "high": 244.3,
       "low": 240.7,
-      "close": 243.5,
-      "price": 243.5,
-      "daily_return_pct": 1.4160766347355291,
-      "weekly_return_pct": 1.4160766347355291,
-      "monthly_return_pct": 3.9709649871904404,
-      "ytd_return_pct": 12.993039443155453,
+      "close": 242.8,
+      "price": 242.8,
+      "daily_return_pct": 1.1245314452311608,
+      "weekly_return_pct": 1.1245314452311608,
+      "monthly_return_pct": 3.672075149444929,
+      "ytd_return_pct": 12.66821345707657,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 243.5,
+          "reference_price": 242.8,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 243.5,
+          "reference_price": 242.8,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 243.5,
+          "reference_price": 242.8,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 243.5,
+          "reference_price": 242.8,
           "retained": false
         }
       }
@@ -3406,45 +3406,45 @@
       "tv_symbol": "TSE:9501",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 451.5,
       "high": 454.9,
       "low": 440.3,
-      "close": 443.1,
-      "price": 443.1,
-      "daily_return_pct": -1.9039185299977786,
-      "weekly_return_pct": -1.9039185299977786,
-      "monthly_return_pct": -3.7993920972644375,
-      "ytd_return_pct": -33.855799373040746,
+      "close": 442.7,
+      "price": 442.7,
+      "daily_return_pct": -1.9924728802302414,
+      "weekly_return_pct": -1.9924728802302414,
+      "monthly_return_pct": -3.8862353452019174,
+      "ytd_return_pct": -33.91550977757874,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 443.1,
+          "reference_price": 442.7,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 443.1,
+          "reference_price": 442.7,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 443.1,
+          "reference_price": 442.7,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 443.1,
+          "reference_price": 442.7,
           "retained": false
         }
       }
@@ -3459,45 +3459,45 @@
       "tv_symbol": "TSE:9509",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 1156,
       "high": 1160,
-      "low": 1131.5,
-      "close": 1134,
-      "price": 1134,
-      "daily_return_pct": -1.3484123531970422,
-      "weekly_return_pct": -1.3484123531970422,
-      "monthly_return_pct": 5.097312326227989,
-      "ytd_return_pct": 6.47887323943662,
+      "low": 1130.5,
+      "close": 1131,
+      "price": 1131,
+      "daily_return_pct": -1.6093953892996955,
+      "weekly_return_pct": -1.6093953892996955,
+      "monthly_return_pct": 4.819277108433735,
+      "ytd_return_pct": 6.197183098591549,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1134,
+          "reference_price": 1131,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1134,
+          "reference_price": 1131,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1134,
+          "reference_price": 1131,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1134,
+          "reference_price": 1131,
           "retained": false
         }
       }
@@ -3512,45 +3512,45 @@
       "tv_symbol": "TSE:9531",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 6782,
       "high": 6815,
       "low": 6755,
-      "close": 6792,
-      "price": 6792,
-      "daily_return_pct": 0.14744913005013272,
-      "weekly_return_pct": 0.14744913005013272,
-      "monthly_return_pct": 4.219733005984349,
-      "ytd_return_pct": 7.809523809523809,
+      "close": 6770,
+      "price": 6770,
+      "daily_return_pct": -0.17693895606015925,
+      "weekly_return_pct": -0.17693895606015925,
+      "monthly_return_pct": 3.882154365505601,
+      "ytd_return_pct": 7.4603174603174605,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 6792,
+          "reference_price": 6770,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 6792,
+          "reference_price": 6770,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 6792,
+          "reference_price": 6770,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 6792,
+          "reference_price": 6770,
           "retained": false
         }
       }
@@ -3565,45 +3565,45 @@
       "tv_symbol": "TSE:9984",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-16T05:00:22.458817+00:00",
+      "observed_at_utc": "2026-11-16T07:00:22.390312+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
       "open": 3600,
       "high": 3613,
       "low": 3372,
-      "close": 3446,
-      "price": 3446,
-      "daily_return_pct": -2.8474767409078097,
-      "weekly_return_pct": -2.8474767409078097,
-      "monthly_return_pct": -23.097522874358404,
-      "ytd_return_pct": -23.761061946902654,
+      "close": 3416,
+      "price": 3416,
+      "daily_return_pct": -3.6932619114744853,
+      "weekly_return_pct": -3.6932619114744853,
+      "monthly_return_pct": -23.76701629100647,
+      "ytd_return_pct": -24.424778761061948,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3446,
+          "reference_price": 3416,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3446,
+          "reference_price": 3416,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3446,
+          "reference_price": 3416,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3446,
+          "reference_price": 3416,
           "retained": false
         }
       }
