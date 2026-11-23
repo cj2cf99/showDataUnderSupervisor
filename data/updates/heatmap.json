@@ -1,7 +1,7 @@
 {
   "schema": "heatmap-updates/1",
   "metadata": {
-    "collected_at_jst": "2026-11-23T18:00:29.323318+09:00",
+    "collected_at_jst": "2026-11-24T08:00:32.879622+09:00",
     "status": "complete_parse",
     "source_timestamp_verified": false,
     "coverage": {
@@ -1003,320 +1003,320 @@
     },
     "US01": {
       "source": "tradingview_scanner",
-      "open": 6009.64,
-      "high": 6017.76,
-      "low": 5611.03,
-      "close": 5645.44,
+      "open": 6199.31,
+      "high": 6264.79,
+      "low": 6060.15,
+      "close": 6154.98,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified",
-      "previous_close": 6077.67,
-      "daily_change_abs": -432.23,
-      "daily_return_pct": -7.111771451888643,
+      "previous_close": 5645.44,
+      "daily_change_abs": 509.54,
+      "daily_return_pct": 9.025691531572384,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 5645.44,
+          "reference_price": 6154.98,
           "retained": false
         }
       },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
-      "daily_close": 5645.44,
+      "daily_close": 6154.98,
       "source_trade_date_verified": false
     },
     "US02": {
       "source": "tradingview_scanner",
-      "open": 393.64,
-      "high": 402.3,
-      "low": 381,
-      "close": 382.4,
+      "open": 402.48,
+      "high": 404.76,
+      "low": 393.14,
+      "close": 402.2,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified",
-      "previous_close": 394.7,
-      "daily_change_abs": -12.3,
-      "daily_return_pct": -3.1162908538130254,
+      "previous_close": 382.4,
+      "daily_change_abs": 19.8,
+      "daily_return_pct": 5.17782426778243,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 382.4,
+          "reference_price": 402.2,
           "retained": false
         }
       },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
-      "daily_close": 382.4,
+      "daily_close": 402.2,
       "source_trade_date_verified": false
     },
     "US03": {
       "source": "tradingview_scanner",
-      "open": 1893.87,
-      "high": 1927.72,
-      "low": 1835.65,
-      "close": 1843.05,
+      "open": 1920.97,
+      "high": 1938.81,
+      "low": 1899.21,
+      "close": 1921.72,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified",
-      "previous_close": 1909.85,
-      "daily_change_abs": -66.8,
-      "daily_return_pct": -3.4976568840484834,
+      "previous_close": 1843.05,
+      "daily_change_abs": 78.67,
+      "daily_return_pct": 4.268468028539653,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1843.05,
+          "reference_price": 1921.72,
           "retained": false
         }
       },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
-      "daily_close": 1843.05,
+      "daily_close": 1921.72,
       "source_trade_date_verified": false
     },
     "US04": {
       "source": "tradingview_scanner",
-      "open": 1023.29,
-      "high": 1035.63,
-      "low": 1017.02,
-      "close": 1018.42,
+      "open": 1008.41,
+      "high": 1020.28,
+      "low": 1007.65,
+      "close": 1017.52,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified",
-      "previous_close": 1011.5,
-      "daily_change_abs": 6.92,
-      "daily_return_pct": 0.6841324765200157,
+      "previous_close": 1018.42,
+      "daily_change_abs": -0.9,
+      "daily_return_pct": -0.08837218436401262,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1018.42,
+          "reference_price": 1017.52,
           "retained": false
         }
       },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
-      "daily_close": 1018.42,
+      "daily_close": 1017.52,
       "source_trade_date_verified": false
     },
     "US05": {
       "source": "tradingview_scanner",
-      "open": 2082.38,
-      "high": 2103.5,
-      "low": 2058.49,
-      "close": 2063.44,
+      "open": 2068.97,
+      "high": 2097.05,
+      "low": 2066.11,
+      "close": 2089.23,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified",
-      "previous_close": 2067.25,
-      "daily_change_abs": -3.81,
-      "daily_return_pct": -0.18430281775305093,
+      "previous_close": 2063.44,
+      "daily_change_abs": 25.79,
+      "daily_return_pct": 1.2498546117163554,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 2063.44,
+          "reference_price": 2089.23,
           "retained": false
         }
       },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
-      "daily_close": 2063.44,
+      "daily_close": 2089.23,
       "source_trade_date_verified": false
     },
     "US06": {
       "source": "tradingview_scanner",
-      "open": 925.03,
-      "high": 930.57,
-      "low": 904.34,
-      "close": 907.08,
+      "open": 924.58,
+      "high": 929.23,
+      "low": 918.09,
+      "close": 923.97,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified",
-      "previous_close": 923.42,
-      "daily_change_abs": -16.34,
-      "daily_return_pct": -1.7695089991553052,
+      "previous_close": 907.08,
+      "daily_change_abs": 16.89,
+      "daily_return_pct": 1.862018785553643,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 907.08,
+          "reference_price": 923.97,
           "retained": false
         }
       },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
-      "daily_close": 907.08,
+      "daily_close": 923.97,
       "source_trade_date_verified": false
     },
     "US07": {
       "source": "tradingview_scanner",
-      "open": 1360.49,
-      "high": 1371.87,
-      "low": 1316.24,
-      "close": 1321.32,
+      "open": 1369.59,
+      "high": 1377.69,
+      "low": 1355.22,
+      "close": 1372.86,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified",
-      "previous_close": 1364.08,
-      "daily_change_abs": -42.76,
-      "daily_return_pct": -3.134713506539205,
+      "previous_close": 1321.32,
+      "daily_change_abs": 51.54,
+      "daily_return_pct": 3.9006448097357165,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1321.32,
+          "reference_price": 1372.86,
           "retained": false
         }
       },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
-      "daily_close": 1321.32,
+      "daily_close": 1372.86,
       "source_trade_date_verified": false
     },
     "US08": {
       "source": "tradingview_scanner",
-      "open": 927.01,
-      "high": 940.06,
-      "low": 923.07,
-      "close": 926.73,
+      "open": 925.73,
+      "high": 931.37,
+      "low": 913.16,
+      "close": 914.52,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified",
-      "previous_close": 930.06,
-      "daily_change_abs": -3.33,
-      "daily_return_pct": -0.35804141668278683,
+      "previous_close": 926.73,
+      "daily_change_abs": -12.21,
+      "daily_return_pct": -1.3175358518662432,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 926.73,
+          "reference_price": 914.52,
           "retained": false
         }
       },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
-      "daily_close": 926.73,
+      "daily_close": 914.52,
       "source_trade_date_verified": false
     },
     "US09": {
       "source": "tradingview_scanner",
-      "open": 619.65,
-      "high": 625.14,
-      "low": 603.38,
-      "close": 605.34,
+      "open": 622.9,
+      "high": 627.84,
+      "low": 615.85,
+      "close": 626.88,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified",
-      "previous_close": 620.07,
-      "daily_change_abs": -14.73,
-      "daily_return_pct": -2.3755382456819416,
+      "previous_close": 605.34,
+      "daily_change_abs": 21.54,
+      "daily_return_pct": 3.5583308553870494,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 605.34,
+          "reference_price": 626.88,
           "retained": false
         }
       },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
-      "daily_close": 605.34,
+      "daily_close": 626.88,
       "source_trade_date_verified": false
     },
     "US10": {
       "source": "tradingview_scanner",
-      "open": 437.21,
-      "high": 439.77,
-      "low": 431.5,
-      "close": 432.22,
+      "open": 435.72,
+      "high": 438.7,
+      "low": 433.34,
+      "close": 438.25,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified",
-      "previous_close": 435.52,
-      "daily_change_abs": -3.3,
-      "daily_return_pct": -0.757714915503296,
+      "previous_close": 432.22,
+      "daily_change_abs": 6.03,
+      "daily_return_pct": 1.3951228541020713,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 432.22,
+          "reference_price": 438.25,
           "retained": false
         }
       },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
-      "daily_close": 432.22,
+      "daily_close": 438.25,
       "source_trade_date_verified": false
     },
     "US11": {
       "source": "tradingview_scanner",
-      "open": 274.93,
-      "high": 276.57,
-      "low": 270.22,
-      "close": 270.54,
+      "open": 274.28,
+      "high": 274.67,
+      "low": 272.42,
+      "close": 273.46,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified",
-      "previous_close": 273.55,
-      "daily_change_abs": -3.01,
-      "daily_return_pct": -1.1003472856881706,
+      "previous_close": 270.54,
+      "daily_change_abs": 2.92,
+      "daily_return_pct": 1.0793228358098466,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 270.54,
+          "reference_price": 273.46,
           "retained": false
         }
       },
       "daily_return_source": "TradingView_1D_screener_change",
       "daily_return_status": "valid_source_daily_change_trade_date_unverified",
-      "daily_close": 270.54,
+      "daily_close": 273.46,
       "source_trade_date_verified": false
     },
     "nikkei": {
       "source": "tradingview_scanner",
-      "open": 58434.04,
-      "high": 59614.52,
-      "low": 57843.79,
-      "close": 59024.23,
+      "open": 58551.56,
+      "high": 58707.48,
+      "low": 56436.65,
+      "close": 56436.65,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified",
-      "previous_close": 56436.65,
-      "daily_change_abs": 2587.58,
-      "daily_return_pct": 4.584928410881939,
-      "weekly_return_pct": 4.584928410881939,
-      "monthly_return_pct": -6.739875831669159,
-      "ytd_return_pct": 15.710460714977462,
+      "previous_close": 59443.99,
+      "daily_change_abs": -3007.34,
+      "daily_return_pct": -5.059115311741349,
+      "weekly_return_pct": -7.695970029176276,
+      "monthly_return_pct": -10.828332929635362,
+      "ytd_return_pct": 10.63779693034424,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 59024.23,
+          "reference_price": 56436.65,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 59024.23,
+          "reference_price": 56436.65,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 59024.23,
+          "reference_price": 56436.65,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 59024.23,
+          "reference_price": 56436.65,
           "retained": false
         }
       },
@@ -1329,45 +1329,45 @@
     },
     "sp500": {
       "source": "tradingview_scanner",
-      "open": 7150.39,
-      "high": 7198.67,
-      "low": 6882.66,
-      "close": 6910.39,
+      "open": 7227.41,
+      "high": 7295.6,
+      "low": 7152.66,
+      "close": 7237.17,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified",
-      "previous_close": 7175.83,
-      "daily_change_abs": -265.44,
-      "daily_return_pct": -3.69908428711382,
-      "weekly_return_pct": -8.61291222706095,
-      "monthly_return_pct": -8.8347469086697,
-      "ytd_return_pct": 0.4693149717000841,
+      "previous_close": 6910.39,
+      "daily_change_abs": 326.78,
+      "daily_return_pct": 4.728821383453028,
+      "weekly_return_pct": 4.728821383453028,
+      "monthly_return_pct": -4.523704926207801,
+      "ytd_return_pct": 5.2203294218906136,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 6910.39,
+          "reference_price": 7237.17,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 6910.39,
+          "reference_price": 7237.17,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 6910.39,
+          "reference_price": 7237.17,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 6910.39,
+          "reference_price": 7237.17,
           "retained": false
         }
       },
@@ -1380,45 +1380,45 @@
     },
     "nasdaq": {
       "source": "tradingview_scanner",
-      "open": 23592.6685,
-      "high": 23837.7641,
-      "low": 22513.0127,
-      "close": 22617.733,
+      "open": 24269.7461,
+      "high": 24353.6505,
+      "low": 23794.9578,
+      "close": 24089.5577,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified",
-      "previous_close": 23879.1993,
-      "daily_change_abs": -1261.4663,
-      "daily_return_pct": -5.282699324009578,
-      "weekly_return_pct": -10.019542833888586,
-      "monthly_return_pct": -11.083326473902464,
-      "ytd_return_pct": -3.6784717918981036,
+      "previous_close": 22617.733,
+      "daily_change_abs": 1471.8247,
+      "daily_return_pct": 6.5073926728200435,
+      "weekly_return_pct": 6.5073926728200435,
+      "monthly_return_pct": -5.297169375949872,
+      "ytd_return_pct": 2.589548277064211,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 22617.733,
+          "reference_price": 24089.5577,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 22617.733,
+          "reference_price": 24089.5577,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 22617.733,
+          "reference_price": 24089.5577,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 22617.733,
+          "reference_price": 24089.5577,
           "retained": false
         }
       },
@@ -1431,46 +1431,46 @@
     },
     "dow": {
       "source": "tradingview_scanner",
-      "open": 49071.82,
-      "high": 49594.9,
-      "low": 47998.86,
-      "close": 48147.33,
+      "open": 49239.91,
+      "high": 49810.26,
+      "low": 49033.31,
+      "close": 49595.31,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified"
     },
     "russell": {
       "source": "tradingview_scanner",
-      "open": 2641.159993,
-      "high": 2665.13692,
-      "low": 2577.090726,
-      "close": 2581.789451,
+      "open": 2631.590189,
+      "high": 2671.764381,
+      "low": 2631.590189,
+      "close": 2669.655118,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified"
     },
     "rsp": {
       "source": "tradingview_scanner",
-      "open": 211.99,
-      "high": 213.5899,
-      "low": 206.86,
-      "close": 207.44,
+      "open": 212.33,
+      "high": 213.27,
+      "low": 210.74,
+      "close": 212.82,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified"
     },
     "soxx": {
       "source": "tradingview_scanner",
-      "open": 135.08,
-      "high": 135.41,
-      "low": 122.2,
-      "close": 123.4,
+      "open": 142.11,
+      "high": 142.27,
+      "low": 136.64,
+      "close": 140.22,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified"
     },
     "ust10y": {
       "source": "tradingview_scanner",
       "open": 4.948,
-      "high": 4.972,
-      "low": 4.942,
-      "close": 4.964,
+      "high": 4.984,
+      "low": 4.908,
+      "close": 4.942,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified"
     },
@@ -1486,45 +1486,45 @@
     "vix": {
       "source": "tradingview_scanner",
       "open": 31.38,
-      "high": 31.48,
-      "low": 31.14,
-      "close": 31.14,
+      "high": 35.08,
+      "low": 15.39,
+      "close": 26.62,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified"
     },
     "usdjpy": {
       "source": "tradingview_scanner",
-      "open": 158.49699999999999,
-      "high": 159.18699999999998,
-      "low": 158.481,
-      "close": 159.14499999999998,
+      "open": 158.999,
+      "high": 158.999,
+      "low": 158.95399999999998,
+      "close": 158.96699999999998,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified"
     },
     "usdcny": {
       "source": "tradingview_scanner",
-      "open": 6.6765,
-      "high": 6.6773,
-      "low": 6.6635,
+      "open": 6.6638,
+      "high": 6.6638,
+      "low": 6.6638,
       "close": 6.6638,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified"
     },
     "cnyjpy": {
       "source": "tradingview_scanner",
-      "open": 23.727,
-      "high": 23.864,
-      "low": 23.727,
-      "close": 23.864,
+      "open": 23.836,
+      "high": 23.842,
+      "low": 23.826,
+      "close": 23.826,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified"
     },
     "gold": {
       "source": "tradingview_scanner",
       "open": 3570.5,
-      "high": 3636.4,
+      "high": 3691,
       "low": 3552.3,
-      "close": 3611.9,
+      "close": 3651.4,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified"
     },
@@ -1532,8 +1532,8 @@
       "source": "tradingview_scanner",
       "open": 83.67,
       "high": 83.95,
-      "low": 82.63,
-      "close": 82.67,
+      "low": 79.87,
+      "close": 80.17,
       "quote_as_of": null,
       "status": "ohlc_present_time_unverified"
     },
@@ -1567,17 +1567,17 @@
     "s5tw": {
       "source": "tradingview_page",
       "status": "present",
-      "value": 19.0
+      "value": 31.0
     },
     "s5fi": {
       "source": "tradingview_page",
       "status": "present",
-      "value": 43.0
+      "value": 52.0
     },
     "s5th": {
       "source": "tradingview_page",
       "status": "present",
-      "value": 45.0
+      "value": 52.0
     },
     "shanghai": {
       "close": 3538.948,
@@ -1609,14 +1609,14 @@
   },
   "indicators": {
     "feargreed": {
-      "value": 9.67,
+      "value": 16.97,
       "rating": "extreme fear",
       "rating_zh": "极度恐惧",
-      "change_points": -9.01,
-      "as_of": "2026-11-20T23:59:52+00:00"
+      "change_points": 7.3,
+      "as_of": "2026-11-23T21:31:07+00:00"
     },
     "cape": {
-      "value": 36.44,
+      "value": 38.21,
       "as_of": null,
       "status": "present"
     },
@@ -1668,19 +1668,19 @@
       },
       "US": {
         "weights_pct": {
-          "US01": 35.56,
-          "US02": 8.81,
-          "US03": 9.69,
-          "US04": 5.31,
-          "US05": 10.38,
-          "US06": 12.63,
-          "US07": 8.28,
-          "US08": 3.56,
-          "US09": 1.73,
-          "US10": 2.18,
-          "US11": 1.89
+          "US01": 34.3,
+          "US02": 8.86,
+          "US03": 9.71,
+          "US04": 5.55,
+          "US05": 10.76,
+          "US06": 12.88,
+          "US07": 8.33,
+          "US08": 3.69,
+          "US09": 1.75,
+          "US10": 2.24,
+          "US11": 1.94
         },
-        "as_of": "Nov 19 2026"
+        "as_of": "Nov 20 2026"
       }
     }
   }
