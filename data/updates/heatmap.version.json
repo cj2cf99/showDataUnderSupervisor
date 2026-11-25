@@ -2,7 +2,7 @@
   "schema": "latest-data-version/1",
   "dataset": "heatmap",
   "path": "data/updates/heatmap.json",
-  "version": "a389672edfb08919e6a887916ba996e4bd956d109bd4101c824718fdbb278b8c",
-  "sha256": "2f39b0f766c0036a3d7cc4c61f37f13ad53c3c5211d80111066ae1972dda08cd",
-  "bytes": 52850
+  "version": "a6279c0a8f7c58d67b3dbcc9f5d38f75015342e6a13de49a2174b50b318ab9e7",
+  "sha256": "c59edc2f04a57608737ca230e8d4454e446f76e1c4b7be4907a697f9e3186fa3",
+  "bytes": 52843
 }
