@@ -1,7 +1,7 @@
 {
   "schema": "public-stock-market/1",
   "market": "US",
-  "captured_at_utc": "2026-11-25T13:00:22.186718+00:00",
+  "captured_at_utc": "2026-11-25T15:00:28.540609+00:00",
   "quote_count": 55,
   "by_security_id": {
     "US:AAPL": {
@@ -14,45 +14,45 @@
       "tv_symbol": "NASDAQ:AAPL",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 348.06,
-      "high": 354.4,
-      "low": 345.88,
-      "close": 354.07,
-      "price": 354.07,
-      "daily_return_pct": 1.4294717543256588,
-      "weekly_return_pct": 3.3599953292853777,
-      "monthly_return_pct": 2.7391695441487967,
-      "ytd_return_pct": 30.05087142568548,
+      "open": 353.475,
+      "high": 353.84,
+      "low": 347.92,
+      "close": 348.09,
+      "price": 348.09,
+      "daily_return_pct": -1.6889315672042302,
+      "weekly_return_pct": 1.6143157403082593,
+      "monthly_return_pct": 1.003975277834193,
+      "ytd_return_pct": 27.85440120475289,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 354.07,
+          "reference_price": 348.09,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 354.07,
+          "reference_price": 348.09,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 354.07,
+          "reference_price": 348.09,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 354.07,
+          "reference_price": 348.09,
           "retained": false
         }
       }
@@ -67,45 +67,45 @@
       "tv_symbol": "NASDAQ:ADBE",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 222.87,
-      "high": 233.69,
-      "low": 222.435,
-      "close": 232.08,
-      "price": 232.08,
-      "daily_return_pct": 3.616394320921521,
-      "weekly_return_pct": 6.600523632354969,
-      "monthly_return_pct": -7.2533269392159125,
-      "ytd_return_pct": -33.819063235189276,
+      "open": 230.5,
+      "high": 233.3759,
+      "low": 227.79,
+      "close": 227.8,
+      "price": 227.8,
+      "daily_return_pct": -1.8441916580489488,
+      "weekly_return_pct": 4.634605668090581,
+      "monthly_return_pct": -8.963753346920825,
+      "ytd_return_pct": -35.03956655022456,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 232.08,
+          "reference_price": 227.8,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 232.08,
+          "reference_price": 227.8,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 232.08,
+          "reference_price": 227.8,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 232.08,
+          "reference_price": 227.8,
           "retained": false
         }
       }
@@ -120,45 +120,45 @@
       "tv_symbol": "NASDAQ:AMD",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 425.125,
-      "high": 428.8677,
-      "low": 396.01,
-      "close": 413.27,
-      "price": 413.27,
-      "daily_return_pct": -8.862964759846513,
-      "weekly_return_pct": -2.6202313909375823,
-      "monthly_return_pct": -18.131933438985744,
-      "ytd_return_pct": 88.79396984924621,
+      "open": 382.89,
+      "high": 385.18,
+      "low": 371.5,
+      "close": 375.49,
+      "price": 375.49,
+      "daily_return_pct": -9.141723328574534,
+      "weekly_return_pct": -11.522420415184142,
+      "monthly_return_pct": -25.616085578446913,
+      "ytd_return_pct": 71.5349474645957,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 413.27,
+          "reference_price": 375.49,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 413.27,
+          "reference_price": 375.49,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 413.27,
+          "reference_price": 375.49,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 413.27,
+          "reference_price": 375.49,
           "retained": false
         }
       }
@@ -173,45 +173,45 @@
       "tv_symbol": "NASDAQ:AMZN",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 252.29,
-      "high": 255.56,
-      "low": 250.53,
-      "close": 252.29,
-      "price": 252.29,
-      "daily_return_pct": -1.2138298288891478,
-      "weekly_return_pct": 2.216189935985738,
-      "monthly_return_pct": 4.967755356771375,
-      "ytd_return_pct": 9.055934987464335,
+      "open": 243.125,
+      "high": 244.44,
+      "low": 237.61,
+      "close": 238.01,
+      "price": 238.01,
+      "daily_return_pct": -5.660152998533435,
+      "weekly_return_pct": -3.569402803662589,
+      "monthly_return_pct": -0.9735801955481604,
+      "ytd_return_pct": 2.883202213192698,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 252.29,
+          "reference_price": 238.01,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 252.29,
+          "reference_price": 238.01,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 252.29,
+          "reference_price": 238.01,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 252.29,
+          "reference_price": 238.01,
           "retained": false
         }
       }
@@ -226,45 +226,45 @@
       "tv_symbol": "NASDAQ:ARM",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 169.09,
-      "high": 170.34,
-      "low": 157.25,
-      "close": 161.56,
-      "price": 161.56,
-      "daily_return_pct": -8.552668817569472,
-      "weekly_return_pct": 6.149802890932992,
-      "monthly_return_pct": -21.561392435791618,
-      "ytd_return_pct": 43.188868208809716,
+      "open": 149.545,
+      "high": 149.66,
+      "low": 143.67,
+      "close": 143.67,
+      "price": 143.67,
+      "daily_return_pct": -11.073285466699687,
+      "weekly_return_pct": -5.604467805519055,
+      "monthly_return_pct": -30.247123367480704,
+      "ytd_return_pct": 27.333156075511823,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 161.56,
+          "reference_price": 143.67,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 161.56,
+          "reference_price": 143.67,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 161.56,
+          "reference_price": 143.67,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 161.56,
+          "reference_price": 143.67,
           "retained": false
         }
       }
@@ -279,45 +279,45 @@
       "tv_symbol": "NASDAQ:ASML",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 1358.06,
-      "high": 1360.84,
-      "low": 1311.5,
-      "close": 1336.06,
-      "price": 1336.06,
-      "daily_return_pct": -3.448525054560698,
-      "weekly_return_pct": 5.515629195558428,
-      "monthly_return_pct": -14.677821061370466,
-      "ytd_return_pct": 17.84328252893028,
+      "open": 1270.28,
+      "high": 1274.19,
+      "low": 1245.73,
+      "close": 1245.74,
+      "price": 1245.74,
+      "daily_return_pct": -6.760175441222695,
+      "weekly_return_pct": -1.6174124559713177,
+      "monthly_return_pct": -20.445750047895782,
+      "ytd_return_pct": 9.876869884278861,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1336.06,
+          "reference_price": 1245.74,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1336.06,
+          "reference_price": 1245.74,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1336.06,
+          "reference_price": 1245.74,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1336.06,
+          "reference_price": 1245.74,
           "retained": false
         }
       }
@@ -332,45 +332,45 @@
       "tv_symbol": "NYSE:AXP",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 305.97,
-      "high": 311.09,
-      "low": 305,
-      "close": 308.63,
-      "price": 308.63,
-      "daily_return_pct": 0.5637015314434729,
-      "weekly_return_pct": 2.2969837587006983,
-      "monthly_return_pct": -3.284133997681056,
-      "ytd_return_pct": -16.47361299052774,
+      "open": 304.16,
+      "high": 306.3298,
+      "low": 303.26,
+      "close": 303.715,
+      "price": 303.715,
+      "daily_return_pct": -1.592521789845453,
+      "weekly_return_pct": 0.667882001988726,
+      "monthly_return_pct": -4.824355238005715,
+      "ytd_return_pct": -17.80378890392423,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 308.63,
+          "reference_price": 303.715,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 308.63,
+          "reference_price": 303.715,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 308.63,
+          "reference_price": 303.715,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 308.63,
+          "reference_price": 303.715,
           "retained": false
         }
       }
@@ -385,45 +385,45 @@
       "tv_symbol": "NYSE:BAC",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 47.875,
-      "high": 48.89,
-      "low": 47.81,
-      "close": 48.56,
-      "price": 48.56,
-      "daily_return_pct": 0.872455338595766,
-      "weekly_return_pct": 3.1435853865760492,
-      "monthly_return_pct": -2.8994201159767963,
-      "ytd_return_pct": -11.757223332727602,
+      "open": 47.17,
+      "high": 47.72,
+      "low": 46.94,
+      "close": 47.55,
+      "price": 47.55,
+      "daily_return_pct": -2.079901153212531,
+      "weekly_return_pct": 0.9983007646559026,
+      "monthly_return_pct": -4.91901619676065,
+      "ytd_return_pct": -13.592585862256959,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 48.56,
+          "reference_price": 47.55,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 48.56,
+          "reference_price": 47.55,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 48.56,
+          "reference_price": 47.55,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 48.56,
+          "reference_price": 47.55,
           "retained": false
         }
       }
@@ -438,45 +438,45 @@
       "tv_symbol": "NYSE:BRK.B",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 574,
-      "high": 579.79,
-      "low": 571.34,
-      "close": 577.21,
-      "price": 577.21,
-      "daily_return_pct": 0.8473687888741391,
-      "weekly_return_pct": 1.2649122807017608,
-      "monthly_return_pct": 6.400117974524881,
-      "ytd_return_pct": 15.220776109869062,
+      "open": 576.745,
+      "high": 579.2,
+      "low": 575.1001,
+      "close": 576.015,
+      "price": 576.015,
+      "daily_return_pct": -0.20703037022921467,
+      "weekly_return_pct": 1.0552631578947345,
+      "monthly_return_pct": 6.179837416357901,
+      "ytd_return_pct": 14.982234110507827,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 577.21,
+          "reference_price": 576.015,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 577.21,
+          "reference_price": 576.015,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 577.21,
+          "reference_price": 576.015,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 577.21,
+          "reference_price": 576.015,
           "retained": false
         }
       }
@@ -491,45 +491,45 @@
       "tv_symbol": "NASDAQ:COST",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 1071.38,
-      "high": 1094.75,
-      "low": 1067.92,
-      "close": 1091.71,
-      "price": 1091.71,
-      "daily_return_pct": -0.5647093113278907,
-      "weekly_return_pct": -0.9472394864582909,
-      "monthly_return_pct": 7.8466432212431405,
-      "ytd_return_pct": 26.77497271059294,
+      "open": 1092,
+      "high": 1098,
+      "low": 1089.58,
+      "close": 1089.75,
+      "price": 1089.75,
+      "daily_return_pct": -0.17953485815830544,
+      "weekly_return_pct": -1.125073719548164,
+      "monthly_return_pct": 7.653020903307388,
+      "ytd_return_pct": 26.547367443156745,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1091.71,
+          "reference_price": 1089.75,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1091.71,
+          "reference_price": 1089.75,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1091.71,
+          "reference_price": 1089.75,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1091.71,
+          "reference_price": 1089.75,
           "retained": false
         }
       }
@@ -544,45 +544,45 @@
       "tv_symbol": "NYSE:CRM",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 183.89,
-      "high": 194.8335,
-      "low": 183.89,
-      "close": 193.26,
-      "price": 193.26,
-      "daily_return_pct": 4.205758654157221,
-      "weekly_return_pct": 6.965545869655447,
-      "monthly_return_pct": -15.6695902605053,
-      "ytd_return_pct": -27.07169811320755,
+      "open": 190.36,
+      "high": 191.6831,
+      "low": 188.2045,
+      "close": 188.795,
+      "price": 188.795,
+      "daily_return_pct": -2.3103591017282437,
+      "weekly_return_pct": 4.494257644942563,
+      "monthly_return_pct": -17.617925557446437,
+      "ytd_return_pct": -28.75660377358491,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 193.26,
+          "reference_price": 188.795,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 193.26,
+          "reference_price": 188.795,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 193.26,
+          "reference_price": 188.795,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 193.26,
+          "reference_price": 188.795,
           "retained": false
         }
       }
@@ -597,45 +597,45 @@
       "tv_symbol": "NASDAQ:CRML",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 3.04,
-      "high": 3.295,
-      "low": 2.97,
-      "close": 3.22,
-      "price": 3.22,
-      "daily_return_pct": 4.3760129659643505,
-      "weekly_return_pct": 6.622516556291397,
-      "monthly_return_pct": -55.02793296089386,
-      "ytd_return_pct": -54.64788732394366,
+      "open": 3.03,
+      "high": 3.03,
+      "low": 2.8518,
+      "close": 2.8571,
+      "price": 2.8571,
+      "daily_return_pct": -11.270186335403732,
+      "weekly_return_pct": -5.39403973509934,
+      "monthly_return_pct": -60.096368715083806,
+      "ytd_return_pct": -59.75915492957746,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3.22,
+          "reference_price": 2.8571,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3.22,
+          "reference_price": 2.8571,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3.22,
+          "reference_price": 2.8571,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 3.22,
+          "reference_price": 2.8571,
           "retained": false
         }
       }
@@ -650,45 +650,45 @@
       "tv_symbol": "NASDAQ:CRWD",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 210.53,
-      "high": 215.5,
-      "low": 208.11,
-      "close": 210.86,
-      "price": 210.86,
-      "daily_return_pct": 0.9044360434512202,
-      "weekly_return_pct": -8.097977684797762,
-      "monthly_return_pct": -15.800822585153531,
-      "ytd_return_pct": 77.9409282700422,
+      "open": 202.01,
+      "high": 206.44,
+      "low": 200.33,
+      "close": 200.615,
+      "price": 200.615,
+      "daily_return_pct": -4.858674001707295,
+      "weekly_return_pct": -12.56319735006973,
+      "monthly_return_pct": -19.89178612786008,
+      "ytd_return_pct": 69.29535864978902,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 210.86,
+          "reference_price": 200.615,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 210.86,
+          "reference_price": 200.615,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 210.86,
+          "reference_price": 200.615,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 210.86,
+          "reference_price": 200.615,
           "retained": false
         }
       }
@@ -703,45 +703,45 @@
       "tv_symbol": "NYSE:CVX",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 207.035,
-      "high": 210.49,
-      "low": 206.18,
-      "close": 208.73,
-      "price": 208.73,
-      "daily_return_pct": 1.241693747877966,
-      "weekly_return_pct": 0.1727695925517038,
-      "monthly_return_pct": -11.374830163043487,
-      "ytd_return_pct": 37.17346301711957,
+      "open": 208,
+      "high": 210.31,
+      "low": 207.19,
+      "close": 209.75,
+      "price": 209.75,
+      "daily_return_pct": 0.48866957313276016,
+      "weekly_return_pct": 0.6622834381148895,
+      "monthly_return_pct": -10.941745923913047,
+      "ytd_return_pct": 37.84378799329676,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 208.73,
+          "reference_price": 209.75,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 208.73,
+          "reference_price": 209.75,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 208.73,
+          "reference_price": 209.75,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 208.73,
+          "reference_price": 209.75,
           "retained": false
         }
       }
@@ -756,45 +756,45 @@
       "tv_symbol": "NASDAQ:DDOG",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 165.25,
-      "high": 170.615,
-      "low": 164.75,
-      "close": 165.38,
-      "price": 165.38,
-      "daily_return_pct": -2.1535912909714914,
-      "weekly_return_pct": 5.089915485797795,
-      "monthly_return_pct": -29.706294895226765,
-      "ytd_return_pct": 20.495446265938067,
+      "open": 158.25,
+      "high": 158.25,
+      "low": 152.12,
+      "close": 152.475,
+      "price": 152.475,
+      "daily_return_pct": -7.803241020679648,
+      "weekly_return_pct": -3.110503907987552,
+      "monthly_return_pct": -35.19148212691802,
+      "ytd_return_pct": 11.092896174863384,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 165.38,
+          "reference_price": 152.475,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 165.38,
+          "reference_price": 152.475,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 165.38,
+          "reference_price": 152.475,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 165.38,
+          "reference_price": 152.475,
           "retained": false
         }
       }
@@ -809,45 +809,45 @@
       "tv_symbol": "NYSE:DELL",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 311,
-      "high": 318.22,
-      "low": 290.5,
-      "close": 295.28,
-      "price": 295.28,
-      "daily_return_pct": -11.83302976919174,
-      "weekly_return_pct": 6.208186461405651,
-      "monthly_return_pct": -30.407730379448513,
-      "ytd_return_pct": 129.96884735202488,
+      "open": 267.57,
+      "high": 277.91,
+      "low": 265,
+      "close": 275.39,
+      "price": 275.39,
+      "daily_return_pct": -6.735979409374149,
+      "weekly_return_pct": -0.9459751097043362,
+      "monthly_return_pct": -35.095451331605,
+      "ytd_return_pct": 114.47819314641742,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 295.28,
+          "reference_price": 275.39,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 295.28,
+          "reference_price": 275.39,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 295.28,
+          "reference_price": 275.39,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 295.28,
+          "reference_price": 275.39,
           "retained": false
         }
       }
@@ -862,45 +862,45 @@
       "tv_symbol": "NYSE:DIS",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 119.76,
-      "high": 122.87,
-      "low": 119.21,
-      "close": 122.51,
-      "price": 122.51,
-      "daily_return_pct": 1.8624760954519075,
-      "weekly_return_pct": 3.839633836243432,
-      "monthly_return_pct": 10.42906075356049,
-      "ytd_return_pct": 7.9954160789844915,
+      "open": 121.975,
+      "high": 122.59,
+      "low": 121.2,
+      "close": 121.212,
+      "price": 121.212,
+      "daily_return_pct": -1.0595053465023279,
+      "weekly_return_pct": 2.7394473639599926,
+      "monthly_return_pct": 9.259058950784214,
+      "ytd_return_pct": 6.851198871650216,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 122.51,
+          "reference_price": 121.212,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 122.51,
+          "reference_price": 121.212,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 122.51,
+          "reference_price": 121.212,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 122.51,
+          "reference_price": 121.212,
           "retained": false
         }
       }
@@ -915,45 +915,45 @@
       "tv_symbol": "NASDAQ:DPZ",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 352.66,
-      "high": 356.97,
-      "low": 350.82,
-      "close": 356.52,
-      "price": 356.52,
-      "daily_return_pct": 0.3574947220267366,
-      "weekly_return_pct": 2.2690112159719935,
-      "monthly_return_pct": 13.646361289088652,
-      "ytd_return_pct": -14.442044636429088,
+      "open": 358,
+      "high": 359.34,
+      "low": 355,
+      "close": 355,
+      "price": 355,
+      "daily_return_pct": -0.42634354313922973,
+      "weekly_return_pct": 2.1399271392099997,
+      "monthly_return_pct": 13.161837365719938,
+      "ytd_return_pct": -14.806815454763617,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 356.52,
+          "reference_price": 355,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 356.52,
+          "reference_price": 355,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 356.52,
+          "reference_price": 355,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 356.52,
+          "reference_price": 355,
           "retained": false
         }
       }
@@ -968,45 +968,45 @@
       "tv_symbol": "NASDAQ:GOOG",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 279.055,
-      "high": 279.055,
-      "low": 273.91,
-      "close": 276.58,
-      "price": 276.58,
-      "daily_return_pct": -1.0553428970056842,
-      "weekly_return_pct": 4.765151515151509,
-      "monthly_return_pct": -0.5894615771691621,
-      "ytd_return_pct": -12.91287509052552,
+      "open": 263.32,
+      "high": 263.84,
+      "low": 260.692,
+      "close": 260.94,
+      "price": 260.94,
+      "daily_return_pct": -5.654783426133482,
+      "weekly_return_pct": -1.15909090909091,
+      "monthly_return_pct": -6.210912227733458,
+      "ytd_return_pct": -17.837463396202647,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 276.58,
+          "reference_price": 260.94,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 276.58,
+          "reference_price": 260.94,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 276.58,
+          "reference_price": 260.94,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 276.58,
+          "reference_price": 260.94,
           "retained": false
         }
       }
@@ -1021,45 +1021,45 @@
       "tv_symbol": "NYSE:GS",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 815.7875,
-      "high": 821.11,
-      "low": 791.31,
-      "close": 806.02,
-      "price": 806.02,
-      "daily_return_pct": -2.1369077972851582,
-      "weekly_return_pct": 1.938812935537306,
-      "monthly_return_pct": -9.896596053881836,
-      "ytd_return_pct": -8.821266968325794,
+      "open": 779.34,
+      "high": 780.12,
+      "low": 772.74,
+      "close": 775.57,
+      "price": 775.57,
+      "daily_return_pct": -3.777821890275667,
+      "weekly_return_pct": -1.9122538542285856,
+      "monthly_return_pct": -13.3005421720418,
+      "ytd_return_pct": -12.265837104072393,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 806.02,
+          "reference_price": 775.57,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 806.02,
+          "reference_price": 775.57,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 806.02,
+          "reference_price": 775.57,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 806.02,
+          "reference_price": 775.57,
           "retained": false
         }
       }
@@ -1074,45 +1074,45 @@
       "tv_symbol": "NYSE:IBM",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 232.56,
-      "high": 235.91,
-      "low": 231.595,
-      "close": 235.62,
-      "price": 235.62,
-      "daily_return_pct": 1.1244635193133066,
-      "weekly_return_pct": 4.98128675815363,
-      "monthly_return_pct": -8.607113765951668,
-      "ytd_return_pct": -20.815969888425865,
+      "open": 233.51,
+      "high": 234.98,
+      "low": 232.17,
+      "close": 232.5,
+      "price": 232.5,
+      "daily_return_pct": -1.3241660300483848,
+      "weekly_return_pct": 3.5911602209944764,
+      "monthly_return_pct": -9.817307319343703,
+      "ytd_return_pct": -21.86449791638661,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 235.62,
+          "reference_price": 232.5,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 235.62,
+          "reference_price": 232.5,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 235.62,
+          "reference_price": 232.5,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 235.62,
+          "reference_price": 232.5,
           "retained": false
         }
       }
@@ -1127,45 +1127,45 @@
       "tv_symbol": "NASDAQ:INTC",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 57.3,
-      "high": 57.54,
-      "low": 53.5391,
-      "close": 54.8,
-      "price": 54.8,
-      "daily_return_pct": -8.146161582299698,
-      "weekly_return_pct": 6.864274570982831,
-      "monthly_return_pct": -16.66666666666668,
-      "ytd_return_pct": 45.08869473126818,
+      "open": 52.01,
+      "high": 52.23,
+      "low": 49.92,
+      "close": 50.02,
+      "price": 50.02,
+      "daily_return_pct": -8.722627737226267,
+      "weekly_return_pct": -2.4570982839313533,
+      "monthly_return_pct": -23.93552311435523,
+      "ytd_return_pct": 32.43314800105904,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 54.8,
+          "reference_price": 50.02,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 54.8,
+          "reference_price": 50.02,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 54.8,
+          "reference_price": 50.02,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 54.8,
+          "reference_price": 50.02,
           "retained": false
         }
       }
@@ -1180,45 +1180,45 @@
       "tv_symbol": "NYSE:JNJ",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 269.99,
-      "high": 276.85,
-      "low": 268.08,
-      "close": 276.46,
-      "price": 276.46,
-      "daily_return_pct": 2.373634512127372,
-      "weekly_return_pct": 2.214663363774153,
-      "monthly_return_pct": 1.193265007320641,
-      "ytd_return_pct": 33.671791896334966,
+      "open": 278.32,
+      "high": 279.88,
+      "low": 273.55,
+      "close": 273.72,
+      "price": 273.72,
+      "daily_return_pct": -0.991101786876927,
+      "weekly_return_pct": 1.2016120087255517,
+      "monthly_return_pct": 0.19033674963398195,
+      "ytd_return_pct": 32.34696837829999,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 276.46,
+          "reference_price": 273.72,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 276.46,
+          "reference_price": 273.72,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 276.46,
+          "reference_price": 273.72,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 276.46,
+          "reference_price": 273.72,
           "retained": false
         }
       }
@@ -1233,45 +1233,45 @@
       "tv_symbol": "NYSE:JPM",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 314.78,
-      "high": 319.01,
-      "low": 313.62,
-      "close": 317.1,
-      "price": 317.1,
-      "daily_return_pct": 0.13895029369039277,
-      "weekly_return_pct": 2.066434916956359,
-      "monthly_return_pct": -5.916211725611202,
-      "ytd_return_pct": -1.6744186046511558,
+      "open": 310.56,
+      "high": 312.67,
+      "low": 309.49,
+      "close": 310.5,
+      "price": 310.5,
+      "daily_return_pct": -2.0813623462630155,
+      "weekly_return_pct": -0.057937427578217716,
+      "monthly_return_pct": -7.874436268692149,
+      "ytd_return_pct": -3.7209302325581395,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 317.1,
+          "reference_price": 310.5,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 317.1,
+          "reference_price": 310.5,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 317.1,
+          "reference_price": 310.5,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 317.1,
+          "reference_price": 310.5,
           "retained": false
         }
       }
@@ -1286,45 +1286,45 @@
       "tv_symbol": "NYSE:KO",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 96.24,
-      "high": 98.3,
-      "low": 95.65,
-      "close": 97.62,
-      "price": 97.62,
-      "daily_return_pct": 1.8147684605757293,
-      "weekly_return_pct": 0.6495515001546651,
-      "monthly_return_pct": 3.762755102040823,
-      "ytd_return_pct": 39.7566213314245,
+      "open": 98.11,
+      "high": 98.36,
+      "low": 97.76,
+      "close": 97.9,
+      "price": 97.9,
+      "daily_return_pct": 0.2868264699856598,
+      "weekly_return_pct": 0.9691720795958471,
+      "monthly_return_pct": 4.0603741496598715,
+      "ytd_return_pct": 40.157480314960644,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 97.62,
+          "reference_price": 97.9,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 97.62,
+          "reference_price": 97.9,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 97.62,
+          "reference_price": 97.9,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 97.62,
+          "reference_price": 97.9,
           "retained": false
         }
       }
@@ -1339,45 +1339,45 @@
       "tv_symbol": "NYSE:LLY",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 1370.225,
-      "high": 1415,
-      "low": 1369.84,
-      "close": 1407.59,
-      "price": 1407.59,
-      "daily_return_pct": 3.150373735893303,
-      "weekly_return_pct": 4.489611093377677,
-      "monthly_return_pct": -0.701920228000624,
-      "ytd_return_pct": 30.7683017465626,
+      "open": 1405,
+      "high": 1412.99,
+      "low": 1375.01,
+      "close": 1379.8,
+      "price": 1379.8,
+      "daily_return_pct": -1.9742964925866173,
+      "weekly_return_pct": 2.4266763664437243,
+      "monthly_return_pct": -2.662358734145069,
+      "ytd_return_pct": 28.186547751765126,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1407.59,
+          "reference_price": 1379.8,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1407.59,
+          "reference_price": 1379.8,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1407.59,
+          "reference_price": 1379.8,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 1407.59,
+          "reference_price": 1379.8,
           "retained": false
         }
       }
@@ -1392,45 +1392,45 @@
       "tv_symbol": "NYSE:LMT",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 575.72,
-      "high": 591.1,
-      "low": 574.54,
-      "close": 586.63,
-      "price": 586.63,
-      "daily_return_pct": 2.616894362132006,
-      "weekly_return_pct": 3.7365163572060114,
-      "monthly_return_pct": -7.900149148284802,
-      "ytd_return_pct": 21.392653905845837,
+      "open": 582.92,
+      "high": 587.83,
+      "low": 581.22,
+      "close": 587.83,
+      "price": 587.83,
+      "daily_return_pct": 0.204558239435427,
+      "weekly_return_pct": 3.9752431476569443,
+      "monthly_return_pct": -7.688201585681768,
+      "ytd_return_pct": 21.640972581479573,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 586.63,
+          "reference_price": 587.83,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 586.63,
+          "reference_price": 587.83,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 586.63,
+          "reference_price": 587.83,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 586.63,
+          "reference_price": 587.83,
           "retained": false
         }
       }
@@ -1445,45 +1445,45 @@
       "tv_symbol": "NYSE:MA",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 635.04,
-      "high": 648.66,
-      "low": 632.05,
-      "close": 647.44,
-      "price": 647.44,
-      "daily_return_pct": 1.882041921067545,
-      "weekly_return_pct": 3.4026208405535647,
-      "monthly_return_pct": 1.4780332596667864,
-      "ytd_return_pct": 13.444656655744602,
+      "open": 644.43,
+      "high": 647.035,
+      "low": 639.41,
+      "close": 640.02,
+      "price": 640.02,
+      "daily_return_pct": -1.1460521438280107,
+      "weekly_return_pct": 2.287845272984268,
+      "monthly_return_pct": 0.384006520273984,
+      "ytd_return_pct": 12.221618685497011,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 647.44,
+          "reference_price": 640.02,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 647.44,
+          "reference_price": 640.02,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 647.44,
+          "reference_price": 640.02,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 647.44,
+          "reference_price": 640.02,
           "retained": false
         }
       }
@@ -1498,45 +1498,45 @@
       "tv_symbol": "NYSE:MCD",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 277.73,
-      "high": 282.09,
-      "low": 276.25,
-      "close": 280.7,
-      "price": 280.7,
-      "daily_return_pct": 1.5630653448151073,
-      "weekly_return_pct": 2.7302005562875054,
-      "monthly_return_pct": 8.747869208120248,
-      "ytd_return_pct": -8.054636575059789,
+      "open": 281.43,
+      "high": 282.35,
+      "low": 279.555,
+      "close": 280.005,
+      "price": 280.005,
+      "daily_return_pct": -0.24759529747060677,
+      "weekly_return_pct": 2.4758454106280143,
+      "monthly_return_pct": 8.478614597861455,
+      "ytd_return_pct": -8.2822889711422,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 280.7,
+          "reference_price": 280.005,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 280.7,
+          "reference_price": 280.005,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 280.7,
+          "reference_price": 280.005,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 280.7,
+          "reference_price": 280.005,
           "retained": false
         }
       }
@@ -1551,45 +1551,45 @@
       "tv_symbol": "NASDAQ:MDLN",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 38.37,
+      "open": 39.575,
       "high": 39.76,
-      "low": 38.23,
-      "close": 39.71,
-      "price": 39.71,
-      "daily_return_pct": 3.062548663379184,
-      "weekly_return_pct": 7.208423326133914,
-      "monthly_return_pct": 23.63013698630138,
-      "ytd_return_pct": -5.249343832020988,
+      "low": 39.1,
+      "close": 39.115,
+      "price": 39.115,
+      "daily_return_pct": -1.4983631327121603,
+      "weekly_return_pct": 5.60205183585314,
+      "monthly_return_pct": 21.777708592777103,
+      "ytd_return_pct": -6.669052732044845,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 39.71,
+          "reference_price": 39.115,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 39.71,
+          "reference_price": 39.115,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 39.71,
+          "reference_price": 39.115,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 39.71,
+          "reference_price": 39.115,
           "retained": false
         }
       }
@@ -1604,45 +1604,45 @@
       "tv_symbol": "NASDAQ:META",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 589.5,
-      "high": 600.315,
-      "low": 584.26,
-      "close": 589.82,
-      "price": 589.82,
-      "daily_return_pct": -1.3018741633199418,
-      "weekly_return_pct": 5.167249126310537,
-      "monthly_return_pct": -4.092749475601223,
-      "ytd_return_pct": -11.000792183786634,
+      "open": 575.34,
+      "high": 578.84,
+      "low": 568.17,
+      "close": 568.17,
+      "price": 568.17,
+      "daily_return_pct": -3.6706113729612575,
+      "weekly_return_pct": 1.3069681192496838,
+      "monthly_return_pct": -7.613131920844249,
+      "ytd_return_pct": -14.267607227733988,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 589.82,
+          "reference_price": 568.17,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 589.82,
+          "reference_price": 568.17,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 589.82,
+          "reference_price": 568.17,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 589.82,
+          "reference_price": 568.17,
           "retained": false
         }
       }
@@ -1657,45 +1657,45 @@
       "tv_symbol": "NASDAQ:MSFT",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 490.13,
-      "high": 501.82,
-      "low": 488.43,
-      "close": 496.13,
-      "price": 496.13,
-      "daily_return_pct": 0.7370558375634508,
-      "weekly_return_pct": 2.3961859159580645,
-      "monthly_return_pct": -4.939548964380827,
-      "ytd_return_pct": 2.424724134727542,
+      "open": 485.23,
+      "high": 487.27,
+      "low": 477.4,
+      "close": 477.66,
+      "price": 477.66,
+      "daily_return_pct": -3.7228145848870193,
+      "weekly_return_pct": -1.4158342276892506,
+      "monthly_return_pct": -8.47847329999424,
+      "ytd_return_pct": -1.38835843389039,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 496.13,
+          "reference_price": 477.66,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 496.13,
+          "reference_price": 477.66,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 496.13,
+          "reference_price": 477.66,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 496.13,
+          "reference_price": 477.66,
           "retained": false
         }
       }
@@ -1710,45 +1710,45 @@
       "tv_symbol": "NASDAQ:MU",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 669.39,
-      "high": 672.07,
-      "low": 622.22,
-      "close": 629.79,
-      "price": 629.79,
-      "daily_return_pct": -11.008902077151346,
-      "weekly_return_pct": 5.934298834334153,
-      "monthly_return_pct": -28.816375432330403,
-      "ytd_return_pct": 113.39771283354511,
+      "open": 574.96,
+      "high": 578.99,
+      "low": 558.05,
+      "close": 559.72,
+      "price": 559.72,
+      "daily_return_pct": -11.125930865844161,
+      "weekly_return_pct": -5.883837109552408,
+      "monthly_return_pct": -36.736216289531384,
+      "ytd_return_pct": 89.65523083439221,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 629.79,
+          "reference_price": 559.72,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 629.79,
+          "reference_price": 559.72,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 629.79,
+          "reference_price": 559.72,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 629.79,
+          "reference_price": 559.72,
           "retained": false
         }
       }
@@ -1763,45 +1763,45 @@
       "tv_symbol": "NYSE:NET",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 287.43,
-      "high": 292.57,
-      "low": 282.105,
-      "close": 287.29,
-      "price": 287.29,
-      "daily_return_pct": -1.3189983856009257,
-      "weekly_return_pct": 4.4842886237998405,
-      "monthly_return_pct": 2.3477021731385936,
-      "ytd_return_pct": 44.439416792357974,
+      "open": 275.51,
+      "high": 276.825,
+      "low": 268.08,
+      "close": 268.08,
+      "price": 268.08,
+      "daily_return_pct": -6.686623272651341,
+      "weekly_return_pct": -2.502182135583356,
+      "monthly_return_pct": -4.495903099394373,
+      "ytd_return_pct": 34.7812971342383,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 287.29,
+          "reference_price": 268.08,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 287.29,
+          "reference_price": 268.08,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 287.29,
+          "reference_price": 268.08,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 287.29,
+          "reference_price": 268.08,
           "retained": false
         }
       }
@@ -1816,45 +1816,45 @@
       "tv_symbol": "NASDAQ:NFLX",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 57.88,
-      "high": 59.72,
-      "low": 57.57,
-      "close": 58.87,
-      "price": 58.87,
-      "daily_return_pct": 1.3253012048192703,
-      "weekly_return_pct": 3.7722545390445985,
-      "monthly_return_pct": -5.170747422680414,
-      "ytd_return_pct": -37.45883352809944,
+      "open": 57.97,
+      "high": 58.22,
+      "low": 57.085,
+      "close": 57.27,
+      "price": 57.27,
+      "daily_return_pct": -2.717852896211983,
+      "weekly_return_pct": 0.9518773135907038,
+      "monthly_return_pct": -7.748067010309271,
+      "ytd_return_pct": -39.15861043238074,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 58.87,
+          "reference_price": 57.27,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 58.87,
+          "reference_price": 57.27,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 58.87,
+          "reference_price": 57.27,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 58.87,
+          "reference_price": 57.27,
           "retained": false
         }
       }
@@ -1869,45 +1869,45 @@
       "tv_symbol": "NYSE:NKE",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 34.1,
-      "high": 36.115,
-      "low": 33.93,
-      "close": 35.75,
-      "price": 35.75,
-      "daily_return_pct": 5.894549763033181,
-      "weekly_return_pct": 8.547138302717466,
-      "monthly_return_pct": -7.551073183346267,
-      "ytd_return_pct": -44.140625,
+      "open": 35.65,
+      "high": 35.87,
+      "low": 35.45,
+      "close": 35.53,
+      "price": 35.53,
+      "daily_return_pct": -0.6153846153846122,
+      "weekly_return_pct": 7.879155913162285,
+      "monthly_return_pct": -8.119989656064133,
+      "ytd_return_pct": -44.484375,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 35.75,
+          "reference_price": 35.53,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 35.75,
+          "reference_price": 35.53,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 35.75,
+          "reference_price": 35.53,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 35.75,
+          "reference_price": 35.53,
           "retained": false
         }
       }
@@ -1922,45 +1922,45 @@
       "tv_symbol": "NYSE:NOW",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 89.73,
-      "high": 93.03,
-      "low": 89.62,
-      "close": 91.74,
-      "price": 91.74,
-      "daily_return_pct": 0.021805494984731815,
-      "weekly_return_pct": 4.65434633812457,
-      "monthly_return_pct": -12.728310502283113,
-      "ytd_return_pct": -40.0705513457016,
+      "open": 89.19,
+      "high": 90,
+      "low": 86.85,
+      "close": 87.14,
+      "price": 87.14,
+      "daily_return_pct": -5.014170481796375,
+      "weekly_return_pct": -0.6730549851699789,
+      "monthly_return_pct": -17.10426179604262,
+      "ytd_return_pct": -43.07551607002875,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 91.74,
+          "reference_price": 87.14,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 91.74,
+          "reference_price": 87.14,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 91.74,
+          "reference_price": 87.14,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 91.74,
+          "reference_price": 87.14,
           "retained": false
         }
       }
@@ -1975,45 +1975,45 @@
       "tv_symbol": "NASDAQ:NVDA",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 159.1,
-      "high": 159.92,
-      "low": 150.5,
-      "close": 155.38,
-      "price": 155.38,
-      "daily_return_pct": -5.858830657376561,
-      "weekly_return_pct": 23.77917629251971,
-      "monthly_return_pct": -24.071540265832677,
-      "ytd_return_pct": -18.149972344404357,
+      "open": 144.06,
+      "high": 145.04,
+      "low": 141.22,
+      "close": 141.6201,
+      "price": 141.6201,
+      "daily_return_pct": -8.855644227056242,
+      "weekly_return_pct": 12.817732812873423,
+      "monthly_return_pct": -30.79549452697419,
+      "ytd_return_pct": -25.39831959333105,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 155.38,
+          "reference_price": 141.6201,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 155.38,
+          "reference_price": 141.6201,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 155.38,
+          "reference_price": 141.6201,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 155.38,
+          "reference_price": 141.6201,
           "retained": false
         }
       }
@@ -2028,45 +2028,45 @@
       "tv_symbol": "NYSE:NVO",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 39.405,
-      "high": 40.565,
-      "low": 39.31,
-      "close": 40.31,
-      "price": 40.31,
-      "daily_return_pct": 2.9892692897291817,
-      "weekly_return_pct": 6.583818085668963,
-      "monthly_return_pct": 0.7750000000000057,
-      "ytd_return_pct": -21.894981592714586,
+      "open": 40.27,
+      "high": 40.41,
+      "low": 39.95,
+      "close": 39.97,
+      "price": 39.97,
+      "daily_return_pct": -0.8434631605060863,
+      "weekly_return_pct": 5.684822845055523,
+      "monthly_return_pct": -0.07500000000000284,
+      "ytd_return_pct": -22.553768649486535,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 40.31,
+          "reference_price": 39.97,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 40.31,
+          "reference_price": 39.97,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 40.31,
+          "reference_price": 39.97,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 40.31,
+          "reference_price": 39.97,
           "retained": false
         }
       }
@@ -2081,45 +2081,45 @@
       "tv_symbol": "NYSE:ORCL",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 111.38,
-      "high": 112.2499,
-      "low": 108.24,
-      "close": 109.5,
-      "price": 109.5,
-      "daily_return_pct": -3.6769880365939542,
-      "weekly_return_pct": 8.212273940112661,
-      "monthly_return_pct": -16.201117318435745,
-      "ytd_return_pct": -44.5485390185851,
+      "open": 103.24,
+      "high": 104.18,
+      "low": 99.6,
+      "close": 99.65,
+      "price": 99.65,
+      "daily_return_pct": -8.995433789954333,
+      "weekly_return_pct": -1.5218895147741793,
+      "monthly_return_pct": -23.739190326777365,
+      "ytd_return_pct": -49.536638476730644,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 109.5,
+          "reference_price": 99.65,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 109.5,
+          "reference_price": 99.65,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 109.5,
+          "reference_price": 99.65,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 109.5,
+          "reference_price": 99.65,
           "retained": false
         }
       }
@@ -2134,45 +2134,45 @@
       "tv_symbol": "NYSE:PATH",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 11.72,
-      "high": 12.3851,
-      "low": 11.68,
-      "close": 11.98,
-      "price": 11.98,
-      "daily_return_pct": 1.1824324324324371,
-      "weekly_return_pct": 9.30656934306569,
-      "monthly_return_pct": -12.745812090313184,
-      "ytd_return_pct": -27.39393939393939,
+      "open": 11.71,
+      "high": 11.755,
+      "low": 11.49,
+      "close": 11.495,
+      "price": 11.495,
+      "daily_return_pct": -4.048414023372297,
+      "weekly_return_pct": 4.881386861313854,
+      "monthly_return_pct": -16.278222869628557,
+      "ytd_return_pct": -30.333333333333336,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 11.98,
+          "reference_price": 11.495,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 11.98,
+          "reference_price": 11.495,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 11.98,
+          "reference_price": 11.495,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 11.98,
+          "reference_price": 11.495,
           "retained": false
         }
       }
@@ -2187,45 +2187,45 @@
       "tv_symbol": "NASDAQ:PAYP",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 12.24,
-      "high": 12.97,
-      "low": 12.22,
-      "close": 12.82,
-      "price": 12.82,
-      "daily_return_pct": 3.470540758676349,
-      "weekly_return_pct": 9.854327335047133,
-      "monthly_return_pct": -8.624376336421946,
-      "ytd_return_pct": -32.526315789473685,
+      "open": 12.5,
+      "high": 12.655,
+      "low": 12.3,
+      "close": 12.34,
+      "price": 12.34,
+      "daily_return_pct": -3.7441497659906426,
+      "weekly_return_pct": 5.74121679520137,
+      "monthly_return_pct": -12.045616535994295,
+      "ytd_return_pct": -35.05263157894737,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 12.82,
+          "reference_price": 12.34,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 12.82,
+          "reference_price": 12.34,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 12.82,
+          "reference_price": 12.34,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 12.82,
+          "reference_price": 12.34,
           "retained": false
         }
       }
@@ -2240,45 +2240,45 @@
       "tv_symbol": "NYSE:PG",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 170.905,
-      "high": 173.27,
-      "low": 169.83,
-      "close": 172.47,
-      "price": 172.47,
-      "daily_return_pct": 1.6922169811320782,
-      "weekly_return_pct": 1.830312333943434,
-      "monthly_return_pct": 6.746301912483757,
-      "ytd_return_pct": 20.515687233596523,
+      "open": 173.26,
+      "high": 173.6,
+      "low": 172.78,
+      "close": 173.1,
+      "price": 173.1,
+      "daily_return_pct": 0.36528091842059224,
+      "weekly_return_pct": 2.2022790340674203,
+      "monthly_return_pct": 7.136225784489696,
+      "ytd_return_pct": 20.955908042764293,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 172.47,
+          "reference_price": 173.1,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 172.47,
+          "reference_price": 173.1,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 172.47,
+          "reference_price": 173.1,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 172.47,
+          "reference_price": 173.1,
           "retained": false
         }
       }
@@ -2293,45 +2293,45 @@
       "tv_symbol": "NASDAQ:QCOM",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 160.66,
-      "high": 167.23,
-      "low": 160.5,
-      "close": 164.96,
-      "price": 164.96,
-      "daily_return_pct": -0.2539605756439639,
-      "weekly_return_pct": 10.017340269441116,
-      "monthly_return_pct": 0.10316159961163658,
-      "ytd_return_pct": -5.085213868974323,
+      "open": 159.66,
+      "high": 160.625,
+      "low": 157.1536,
+      "close": 157.16,
+      "price": 157.16,
+      "daily_return_pct": -4.72841901066926,
+      "weekly_return_pct": 4.810991063091913,
+      "monthly_return_pct": -4.63401905455427,
+      "ytd_return_pct": -9.573182660329811,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 164.96,
+          "reference_price": 157.16,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 164.96,
+          "reference_price": 157.16,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 164.96,
+          "reference_price": 157.16,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 164.96,
+          "reference_price": 157.16,
           "retained": false
         }
       }
@@ -2346,45 +2346,45 @@
       "tv_symbol": "NYSE:QSR",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 73.63,
-      "high": 75.62,
-      "low": 73.545,
-      "close": 75.57,
-      "price": 75.57,
-      "daily_return_pct": 2.481692432872252,
-      "weekly_return_pct": 3.6483335619256576,
-      "monthly_return_pct": 4.364038116282277,
-      "ytd_return_pct": 11.099676565715964,
+      "open": 75.71,
+      "high": 76,
+      "low": 75.065,
+      "close": 75.145,
+      "price": 75.145,
+      "daily_return_pct": -0.56239248378986,
+      "weekly_return_pct": 3.0654231243999446,
+      "monthly_return_pct": 3.7771026101367204,
+      "ytd_return_pct": 10.474860335195531,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 75.57,
+          "reference_price": 75.145,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 75.57,
+          "reference_price": 75.145,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 75.57,
+          "reference_price": 75.145,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 75.57,
+          "reference_price": 75.145,
           "retained": false
         }
       }
@@ -2399,45 +2399,45 @@
       "tv_symbol": "NYSE:RDDT",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 87.85,
-      "high": 92.64,
-      "low": 87.85,
-      "close": 90.34,
-      "price": 90.34,
-      "daily_return_pct": 1.7800811176205478,
-      "weekly_return_pct": 5.871323098558544,
-      "monthly_return_pct": -1.5153166902867115,
-      "ytd_return_pct": -61.09053320699457,
+      "open": 87.895,
+      "high": 88.84,
+      "low": 85.02,
+      "close": 85.2,
+      "price": 85.2,
+      "daily_return_pct": -5.689617002435245,
+      "weekly_return_pct": -0.15234970116019625,
+      "monthly_return_pct": -7.1187179766706645,
+      "ytd_return_pct": -63.30433284520631,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 90.34,
+          "reference_price": 85.2,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 90.34,
+          "reference_price": 85.2,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 90.34,
+          "reference_price": 85.2,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 90.34,
+          "reference_price": 85.2,
           "retained": false
         }
       }
@@ -2452,45 +2452,45 @@
       "tv_symbol": "NASDAQ:SKHY",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 118.97,
-      "high": 119.4015,
-      "low": 110.9,
-      "close": 111.98,
-      "price": 111.98,
-      "daily_return_pct": -9.897006758931443,
-      "weekly_return_pct": 8.120112001544861,
-      "monthly_return_pct": -24.951410763353664,
-      "ytd_return_pct": -34.129411764705885,
+      "open": 104.21,
+      "high": 104.76,
+      "low": 101.95,
+      "close": 102.1269,
+      "price": 102.1269,
+      "daily_return_pct": -8.798981961064474,
+      "weekly_return_pct": -1.3933571497537771,
+      "monthly_return_pct": -31.55492259231955,
+      "ytd_return_pct": -39.92535294117647,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 111.98,
+          "reference_price": 102.1269,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 111.98,
+          "reference_price": 102.1269,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 111.98,
+          "reference_price": 102.1269,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 111.98,
+          "reference_price": 102.1269,
           "retained": false
         }
       }
@@ -2505,45 +2505,45 @@
       "tv_symbol": "NASDAQ:SMCI",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 23.76,
-      "high": 23.86,
-      "low": 22.15,
-      "close": 22.62,
-      "price": 22.62,
-      "daily_return_pct": -7.786384019567877,
-      "weekly_return_pct": 4.480369515011559,
-      "monthly_return_pct": -31.350531107739,
-      "ytd_return_pct": -24.499332443257675,
+      "open": 21.31,
+      "high": 21.67,
+      "low": 21.02,
+      "close": 21.055,
+      "price": 21.055,
+      "daily_return_pct": -6.918656056587097,
+      "weekly_return_pct": -2.7482678983833666,
+      "monthly_return_pct": -36.100151745068295,
+      "ytd_return_pct": -29.722963951935917,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 22.62,
+          "reference_price": 21.055,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 22.62,
+          "reference_price": 21.055,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 22.62,
+          "reference_price": 21.055,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 22.62,
+          "reference_price": 21.055,
           "retained": false
         }
       }
@@ -2558,45 +2558,45 @@
       "tv_symbol": "NASDAQ:SNDK",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 82.715,
-      "high": 83.82,
-      "low": 74.83,
-      "close": 77.95,
-      "price": 77.95,
-      "daily_return_pct": -11.127579523429473,
-      "weekly_return_pct": -1.6279656739020598,
-      "monthly_return_pct": -45.81584686633823,
-      "ytd_return_pct": 155.20769388172704,
+      "open": 71.315,
+      "high": 72.52,
+      "low": 69.3,
+      "close": 69.44,
+      "price": 69.44,
+      "daily_return_pct": -10.91725465041694,
+      "weekly_return_pct": -12.367491166077736,
+      "monthly_return_pct": -51.748646699510815,
+      "ytd_return_pct": 127.34602005320237,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 77.95,
+          "reference_price": 69.44,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 77.95,
+          "reference_price": 69.44,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 77.95,
+          "reference_price": 69.44,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 77.95,
+          "reference_price": 69.44,
           "retained": false
         }
       }
@@ -2611,45 +2611,45 @@
       "tv_symbol": "NASDAQ:SPCX",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 131.9,
-      "high": 132.5,
-      "low": 123.52,
-      "close": 125.81,
-      "price": 125.81,
-      "daily_return_pct": -5.654293213348326,
-      "weekly_return_pct": -1.5494170122857844,
-      "monthly_return_pct": -6.613717339667456,
-      "ytd_return_pct": -16.126666666666665,
+      "open": 118.47,
+      "high": 118.77,
+      "low": 113.93,
+      "close": 114.57,
+      "price": 114.57,
+      "daily_return_pct": -8.934106986726023,
+      "weekly_return_pct": -10.34509742546366,
+      "monthly_return_pct": -14.956947743467937,
+      "ytd_return_pct": -23.620000000000005,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 125.81,
+          "reference_price": 114.57,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 125.81,
+          "reference_price": 114.57,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 125.81,
+          "reference_price": 114.57,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 125.81,
+          "reference_price": 114.57,
           "retained": false
         }
       }
@@ -2664,45 +2664,45 @@
       "tv_symbol": "NASDAQ:TSLA",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 383.765,
-      "high": 390.09,
-      "low": 375.5,
-      "close": 384.68,
-      "price": 384.68,
-      "daily_return_pct": -0.20235562704300647,
-      "weekly_return_pct": 11.237059742062348,
-      "monthly_return_pct": -3.7842975413321316,
-      "ytd_return_pct": -15.972040192223679,
+      "open": 370.515,
+      "high": 370.515,
+      "low": 358.48,
+      "close": 358.505,
+      "price": 358.505,
+      "daily_return_pct": -6.804356868046171,
+      "weekly_return_pct": 3.6680932276907066,
+      "monthly_return_pct": -10.331157299717367,
+      "ytd_return_pct": -21.689602446483185,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 384.68,
+          "reference_price": 358.505,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 384.68,
+          "reference_price": 358.505,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 384.68,
+          "reference_price": 358.505,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 384.68,
+          "reference_price": 358.505,
           "retained": false
         }
       }
@@ -2717,45 +2717,45 @@
       "tv_symbol": "NYSE:TSM",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 356.47,
-      "high": 357.2,
-      "low": 339.73,
-      "close": 349.2,
-      "price": 349.2,
-      "daily_return_pct": -3.9603960396039692,
-      "weekly_return_pct": 9.417349480643598,
-      "monthly_return_pct": -14.017679068278632,
-      "ytd_return_pct": 11.930251939226864,
+      "open": 329.125,
+      "high": 329.72,
+      "low": 323.825,
+      "close": 324.3,
+      "price": 324.3,
+      "daily_return_pct": -7.130584192439857,
+      "weekly_return_pct": 1.6152532547901517,
+      "monthly_return_pct": -20.14872085292886,
+      "ytd_return_pct": 3.948971087890247,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 349.2,
+          "reference_price": 324.3,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 349.2,
+          "reference_price": 324.3,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 349.2,
+          "reference_price": 324.3,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 349.2,
+          "reference_price": 324.3,
           "retained": false
         }
       }
@@ -2770,45 +2770,45 @@
       "tv_symbol": "NYSE:U",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 47.08,
-      "high": 49.95,
-      "low": 47.08,
-      "close": 48.37,
-      "price": 48.37,
-      "daily_return_pct": 1.8744734625105322,
-      "weekly_return_pct": 8.089385474860329,
-      "monthly_return_pct": 28.302387267904493,
-      "ytd_return_pct": 7.013274336283173,
+      "open": 46.85,
+      "high": 47.06,
+      "low": 45.05,
+      "close": 45.05,
+      "price": 45.05,
+      "daily_return_pct": -6.863758528013232,
+      "weekly_return_pct": 0.7932960893854679,
+      "monthly_return_pct": 19.64190981432359,
+      "ytd_return_pct": -0.21017699115045568,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 48.37,
+          "reference_price": 45.05,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 48.37,
+          "reference_price": 45.05,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 48.37,
+          "reference_price": 45.05,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 48.37,
+          "reference_price": 45.05,
           "retained": false
         }
       }
@@ -2823,45 +2823,45 @@
       "tv_symbol": "NYSE:V",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 409,
-      "high": 416.865,
-      "low": 407.4,
-      "close": 416.78,
-      "price": 416.78,
-      "daily_return_pct": 1.8026380068392758,
-      "weekly_return_pct": 3.5671243088774207,
-      "monthly_return_pct": 0.7712952440823032,
-      "ytd_return_pct": 19.12424614856946,
+      "open": 415.42,
+      "high": 417.4158,
+      "low": 413.585,
+      "close": 413.73,
+      "price": 413.73,
+      "daily_return_pct": -0.7318009501415507,
+      "weekly_return_pct": 2.809219109150775,
+      "monthly_return_pct": 0.03384994801616171,
+      "ytd_return_pct": 18.25249378340527,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 416.78,
+          "reference_price": 413.73,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 416.78,
+          "reference_price": 413.73,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 416.78,
+          "reference_price": 413.73,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 416.78,
+          "reference_price": 413.73,
           "retained": false
         }
       }
@@ -2876,45 +2876,45 @@
       "tv_symbol": "NASDAQ:WMT",
       "status": "ohlc_present_time_unverified",
       "last_attempt_status": "ok",
-      "observed_at_utc": "2026-11-25T13:00:22.186718+00:00",
+      "observed_at_utc": "2026-11-25T15:00:28.540609+00:00",
       "quote_as_of": null,
       "source_trade_date_verified": false,
-      "open": 129.935,
-      "high": 132.42,
-      "low": 129.74,
-      "close": 132.31,
-      "price": 132.31,
-      "daily_return_pct": 2.1068066059577015,
-      "weekly_return_pct": 3.40758108636186,
-      "monthly_return_pct": 7.124929155533962,
-      "ytd_return_pct": 18.743549472739517,
+      "open": 132.52,
+      "high": 133.1899,
+      "low": 132.28,
+      "close": 132.28,
+      "price": 132.28,
+      "daily_return_pct": -0.02267402312750445,
+      "weekly_return_pct": 3.3841344275107454,
+      "monthly_return_pct": 7.100639624321914,
+      "ytd_return_pct": 18.71662553286965,
       "return_provenance": {
         "daily_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 132.31,
+          "reference_price": 132.28,
           "retained": false
         },
         "weekly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 132.31,
+          "reference_price": 132.28,
           "retained": false
         },
         "monthly_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 132.31,
+          "reference_price": 132.28,
           "retained": false
         },
         "ytd_return_pct": {
           "source": "tradingview_scanner",
           "quote_as_of": null,
           "trade_date": null,
-          "reference_price": 132.31,
+          "reference_price": 132.28,
           "retained": false
         }
       }
