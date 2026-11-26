@@ -1,7 +1,7 @@
 {
   "schema": "public-market-latest/1",
   "metadata": {
-    "collected_at_jst": "2026-11-26T18:00:42.482274+09:00",
+    "collected_at_jst": "2026-11-27T08:00:28.348329+09:00",
     "status": "partial_parse",
     "source_timestamp_verified": false,
     "coverage": {
@@ -1645,7 +1645,7 @@
         "open": 2.635,
         "high": 2.663,
         "low": 2.621,
-        "close": 2.639,
+        "close": 2.638,
         "quote_as_of": null,
         "status": "ohlc_present_time_unverified"
       },
@@ -1666,10 +1666,10 @@
         "symbol": "FX:USDJPY",
         "group": "other",
         "source": "tradingview_scanner",
-        "open": 159.152,
-        "high": 159.26,
-        "low": 158.952,
-        "close": 159.135,
+        "open": 159.20999999999998,
+        "high": 159.20999999999998,
+        "low": 159.189,
+        "close": 159.191,
         "quote_as_of": null,
         "status": "ohlc_present_time_unverified"
       },
@@ -1678,10 +1678,10 @@
         "symbol": "FX_IDC:USDCNY",
         "group": "other",
         "source": "tradingview_scanner",
-        "open": 6.6747,
-        "high": 6.6747,
-        "low": 6.6589,
-        "close": 6.659,
+        "open": 6.6592,
+        "high": 6.6592,
+        "low": 6.6592,
+        "close": 6.6592,
         "quote_as_of": null,
         "status": "ohlc_present_time_unverified"
       },
@@ -1690,10 +1690,10 @@
         "symbol": "FX_IDC:CNYJPY",
         "group": "other",
         "source": "tradingview_scanner",
-        "open": 23.829,
-        "high": 23.889,
-        "low": 23.829,
-        "close": 23.875,
+        "open": 23.894,
+        "high": 23.894,
+        "low": 23.893,
+        "close": 23.893,
         "quote_as_of": null,
         "status": "ohlc_present_time_unverified"
       },
@@ -1705,7 +1705,7 @@
         "open": 3619.8,
         "high": 3634.7,
         "low": 3578.8,
-        "close": 3601.6,
+        "close": 3593.4,
         "quote_as_of": null,
         "status": "ohlc_present_time_unverified"
       },
@@ -1716,8 +1716,8 @@
         "source": "tradingview_scanner",
         "open": 84.09,
         "high": 85.23,
-        "low": 83.64,
-        "close": 83.79,
+        "low": 83.16,
+        "close": 84.91,
         "quote_as_of": null,
         "status": "ohlc_present_time_unverified"
       },
@@ -1781,11 +1781,11 @@
     ],
     "extra": {
       "feargreed": {
-        "value": 15.23,
-        "as_of": "2026-11-25T23:59:57+00:00",
+        "value": 15.0,
+        "as_of": "2026-11-26T01:59:59+00:00",
         "rating": "extreme fear",
         "rating_zh": "极度恐惧",
-        "change_points": -2.19
+        "change_points": -0.23
       },
       "cape": {
         "value": 38.21,
@@ -1849,19 +1849,19 @@
           "source": "SSGA_SPY_INDEX",
           "universe": "SP500_GICS11",
           "weights_pct": {
-            "US01": 34.9,
-            "US02": 8.9,
-            "US03": 9.73,
-            "US04": 5.39,
-            "US05": 10.75,
-            "US06": 12.71,
-            "US07": 8.26,
-            "US08": 3.52,
-            "US09": 1.74,
-            "US10": 2.19,
-            "US11": 1.9
+            "US01": 34.64,
+            "US02": 8.92,
+            "US03": 9.66,
+            "US04": 5.42,
+            "US05": 10.72,
+            "US06": 12.83,
+            "US07": 8.35,
+            "US08": 3.56,
+            "US09": 1.78,
+            "US10": 2.2,
+            "US11": 1.92
           },
-          "as_of": "Nov 24 2026"
+          "as_of": "Nov 25 2026"
         }
       },
       "additional_indicators": {
@@ -1875,8 +1875,8 @@
           "status": "ohlc_present_time_unverified"
         },
         "jfgi-nikkei225": {
-          "value": 21.0,
-          "trade_date": "2026-11-25",
+          "value": 26.9,
+          "trade_date": "2026-11-26",
           "source": "japanese-fear-greed-index",
           "source_url": "https://raw.githubusercontent.com/kentayoshida/Japanese-Fear-and-Greed-Index/main/web/public/data/latest.nikkei225.json",
           "status": "present",
@@ -1884,8 +1884,8 @@
           "n_indicators": 8
         },
         "jfgi-topix": {
-          "value": 20.6,
-          "trade_date": "2026-11-25",
+          "value": 26.7,
+          "trade_date": "2026-11-26",
           "source": "japanese-fear-greed-index",
           "source_url": "https://raw.githubusercontent.com/kentayoshida/Japanese-Fear-and-Greed-Index/main/web/public/data/latest.topix.json",
           "status": "present",
