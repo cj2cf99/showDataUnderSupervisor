@@ -2,7 +2,7 @@
   "schema": "latest-data-version/1",
   "dataset": "stocks",
   "path": "data/updates/stocks.json",
-  "version": "68963d2da9cc72ab8b92e746b9e73585316a0b3dbf3503ecc16fe9962a536c15",
-  "sha256": "a82d661ad7cf1c7301e5fd7c2a18e18f4c0a44f895934d82eb8f7efa50cadce3",
-  "bytes": 192138
+  "version": "698062a17d0ec3b222356461e62e3f864e9ce25dc1770da6b22e2fd4598380eb",
+  "sha256": "c3f01bb0b263b084ea54d106bba66cbc545218e6e666c0f3486c7c2ec0bdf641",
+  "bytes": 192145
 }
